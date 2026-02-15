@@ -1,0 +1,8 @@
+id_ticket,cliente,fecha_apertura,latencia_ms,resuelto,categoria
+101,juan perez,2026-01-15,45,S,Capa 1
+102,MARIA LOPEZ,15/01/2026,-10,No,Capa 2
+103,  carlos ruiz,2026/02/01,30,Yes,Capa 1
+104,Ana Silva,02-12-25,500,N,Capa 2
+105,juan perez,2026-01-16,-99,1,Capa 1
+106,LUIS TORRES,2026-01-20,15,0,Capa 2
+107,MARIA LOPEZ,20/01/2026,22,y,Capa 1
