@@ -1,0 +1,5001 @@
+ticket_id,customer_name,opening_date,latency_ms,is_resolved,issue_category
+1000,Luis Torres,2026-01-19,421,1,Configuration
+1001,Luis Torres,,245,0,Layer 1
+1002,Luis Torres,,398,0,Layer 1
+1003,Maria Lopez,2026-01-18,245,1,Layer 2
+1004,Luis Torres,,245,0,Layer 1
+1005,Maria Lopez,2026-01-24,340,1,Software
+1006,Ana Silva,,449,0,Software
+1007,Pedro Marmol,,18,1,Layer 1
+1008,Ana Silva,2026-01-30,489,1,Configuration
+1009,Pedro Marmol,,130,1,Layer 2
+1010,Juan Perez,2026-02-14,177,0,Layer 1
+1011,Juan Perez,2026-02-08,383,0,Layer 2
+1012,Juan Perez,2026-02-10,87,1,Layer 2
+1013,Luis Torres,,251,1,Configuration
+1014,Maria Lopez,,152,0,Layer 1
+1015,Carlos Ruiz,,166,0,Software
+1016,Carlos Ruiz,,245,1,Software
+1017,Luis Torres,,245,1,Layer 2
+1018,Luis Torres,2026-02-05,149,1,Software
+1019,Pedro Marmol,,327,1,Software
+1020,Pedro Marmol,,437,0,Layer 2
+1021,Carlos Ruiz,,269,1,Configuration
+1022,Ana Silva,,473,1,Software
+1023,Ana Silva,,459,1,Software
+1024,Juan Perez,,472,1,Software
+1025,Maria Lopez,,211,1,Layer 2
+1026,Ana Silva,,6,0,Layer 1
+1027,Carlos Ruiz,,291,0,Configuration
+1028,Pedro Marmol,,303,1,Software
+1029,Maria Lopez,2026-02-12,54,1,Software
+1030,Pedro Marmol,,444,0,Configuration
+1031,Juan Perez,,433,1,Software
+1032,Carlos Ruiz,,493,1,Layer 1
+1033,Pedro Marmol,,497,0,Software
+1034,Pedro Marmol,,118,1,Configuration
+1035,Maria Lopez,,488,0,Software
+1036,Luis Torres,,75,1,Layer 1
+1037,Carlos Ruiz,,169,0,Layer 1
+1038,Juan Perez,,430,1,Layer 1
+1039,Juan Perez,2026-01-30,59,0,Software
+1040,Maria Lopez,,124,1,Layer 2
+1041,Pedro Marmol,,99,1,Configuration
+1042,Ana Silva,,228,1,Layer 2
+1043,Juan Perez,,195,1,Layer 2
+1044,Carlos Ruiz,,324,1,Configuration
+1045,Maria Lopez,2026-01-20,341,0,Layer 2
+1046,Pedro Marmol,,267,1,Layer 1
+1047,Maria Lopez,,184,0,Layer 2
+1048,Ana Silva,,325,1,Layer 2
+1049,Carlos Ruiz,,143,1,Configuration
+1050,Carlos Ruiz,,291,1,Configuration
+1051,Carlos Ruiz,,30,1,Configuration
+1052,Luis Torres,2026-02-05,245,0,Layer 2
+1053,Juan Perez,,130,1,Configuration
+1054,Luis Torres,,113,0,Software
+1055,Ana Silva,,367,0,Configuration
+1056,Juan Perez,2026-01-21,494,0,Configuration
+1057,Juan Perez,,233,0,Layer 1
+1058,Maria Lopez,,379,1,Layer 1
+1059,Pedro Marmol,,115,0,Software
+1060,Maria Lopez,,303,1,Configuration
+1061,Juan Perez,,364,1,Layer 2
+1062,Pedro Marmol,,136,1,Layer 1
+1063,Maria Lopez,2026-01-24,234,0,Configuration
+1064,Juan Perez,,444,1,Layer 1
+1065,Luis Torres,,474,1,Software
+1066,Maria Lopez,,245,0,Software
+1067,Pedro Marmol,,235,1,Layer 1
+1068,Juan Perez,,333,0,Layer 1
+1069,Pedro Marmol,,245,0,Configuration
+1070,Maria Lopez,,164,1,Configuration
+1071,Luis Torres,2026-01-25,300,0,Layer 2
+1072,Pedro Marmol,2026-01-25,47,1,Software
+1073,Pedro Marmol,,70,0,Configuration
+1074,Juan Perez,,274,1,Layer 1
+1075,Juan Perez,,251,1,Configuration
+1076,Ana Silva,,32,1,Software
+1077,Juan Perez,2026-02-13,245,1,Layer 2
+1078,Juan Perez,,42,1,Layer 1
+1079,Pedro Marmol,,29,0,Configuration
+1080,Pedro Marmol,,319,1,Layer 2
+1081,Maria Lopez,,238,0,Configuration
+1082,Pedro Marmol,,430,1,Layer 2
+1083,Luis Torres,,245,0,Layer 2
+1084,Juan Perez,2026-02-03,304,0,Layer 2
+1085,Pedro Marmol,,282,0,Layer 2
+1086,Pedro Marmol,,245,1,Software
+1087,Maria Lopez,,226,1,Layer 2
+1088,Ana Silva,,147,0,Layer 2
+1089,Juan Perez,2026-01-31,317,1,Software
+1090,Carlos Ruiz,,355,0,Layer 2
+1091,Ana Silva,2026-02-11,147,0,Layer 2
+1092,Ana Silva,,105,1,Layer 1
+1093,Juan Perez,,60,0,Configuration
+1094,Juan Perez,,245,1,Layer 2
+1095,Juan Perez,2026-02-02,42,1,Configuration
+1096,Maria Lopez,,245,0,Layer 1
+1097,Pedro Marmol,,299,1,Layer 1
+1098,Maria Lopez,,414,1,Layer 1
+1099,Luis Torres,,140,0,Configuration
+1100,Carlos Ruiz,,245,1,Layer 2
+1101,Juan Perez,,245,1,Layer 2
+1102,Maria Lopez,,245,1,Configuration
+1103,Luis Torres,2026-02-10,347,0,Software
+1104,Pedro Marmol,,112,0,Layer 2
+1105,Carlos Ruiz,,245,1,Layer 1
+1106,Luis Torres,,245,1,Software
+1107,Luis Torres,,245,1,Software
+1108,Juan Perez,2026-01-19,335,0,Layer 2
+1109,Ana Silva,,119,0,Software
+1110,Ana Silva,,306,0,Layer 1
+1111,Pedro Marmol,,240,0,Layer 2
+1112,Carlos Ruiz,,240,1,Layer 2
+1113,Juan Perez,,245,0,Software
+1114,Pedro Marmol,2026-01-21,245,0,Software
+1115,Maria Lopez,,403,0,Layer 2
+1116,Pedro Marmol,,425,0,Software
+1117,Juan Perez,,245,1,Software
+1118,Luis Torres,2026-01-24,310,0,Software
+1119,Ana Silva,,336,0,Software
+1120,Pedro Marmol,,4,1,Layer 1
+1121,Carlos Ruiz,,245,0,Layer 1
+1122,Juan Perez,,245,1,Layer 1
+1123,Pedro Marmol,2026-02-04,93,0,Layer 1
+1124,Maria Lopez,,245,1,Software
+1125,Luis Torres,,18,0,Layer 2
+1126,Ana Silva,,500,0,Configuration
+1127,Luis Torres,2026-01-31,31,0,Layer 2
+1128,Carlos Ruiz,,458,0,Layer 1
+1129,Pedro Marmol,,319,0,Software
+1130,Ana Silva,,245,1,Configuration
+1131,Luis Torres,2026-01-24,53,1,Configuration
+1132,Pedro Marmol,,48,0,Configuration
+1133,Ana Silva,,288,1,Configuration
+1134,Juan Perez,,215,1,Software
+1135,Pedro Marmol,,472,0,Layer 1
+1136,Ana Silva,,170,1,Configuration
+1137,Luis Torres,,274,0,Layer 1
+1138,Maria Lopez,,112,1,Configuration
+1139,Ana Silva,,337,1,Layer 2
+1140,Maria Lopez,,278,1,Layer 2
+1141,Luis Torres,,354,0,Configuration
+1142,Luis Torres,2026-01-30,255,0,Layer 1
+1143,Carlos Ruiz,,59,1,Layer 1
+1144,Luis Torres,2026-02-05,245,0,Configuration
+1145,Luis Torres,,481,1,Software
+1146,Luis Torres,2026-02-13,250,0,Software
+1147,Luis Torres,,437,0,Configuration
+1148,Carlos Ruiz,,184,1,Configuration
+1149,Luis Torres,,361,0,Software
+1150,Carlos Ruiz,2026-02-13,489,1,Configuration
+1151,Pedro Marmol,2026-02-08,217,0,Layer 1
+1152,Pedro Marmol,,253,1,Configuration
+1153,Carlos Ruiz,,121,1,Configuration
+1154,Luis Torres,,246,0,Layer 2
+1155,Carlos Ruiz,,461,0,Layer 2
+1156,Luis Torres,,344,1,Software
+1157,Maria Lopez,2026-02-10,13,0,Configuration
+1158,Juan Perez,2026-01-30,484,1,Configuration
+1159,Juan Perez,2026-02-03,293,1,Configuration
+1160,Carlos Ruiz,,245,1,Layer 2
+1161,Luis Torres,,364,1,Configuration
+1162,Juan Perez,,273,0,Software
+1163,Pedro Marmol,,94,1,Layer 1
+1164,Luis Torres,,163,1,Layer 2
+1165,Luis Torres,,415,0,Layer 1
+1166,Juan Perez,2026-01-21,463,1,Configuration
+1167,Maria Lopez,,286,1,Layer 1
+1168,Ana Silva,,192,1,Layer 1
+1169,Pedro Marmol,,419,1,Configuration
+1170,Luis Torres,,245,0,Layer 1
+1171,Juan Perez,,49,0,Software
+1172,Pedro Marmol,,253,1,Layer 1
+1173,Ana Silva,2026-02-05,141,1,Layer 2
+1174,Ana Silva,,28,1,Layer 1
+1175,Carlos Ruiz,,296,0,Configuration
+1176,Juan Perez,,173,1,Layer 2
+1177,Juan Perez,,488,0,Software
+1178,Maria Lopez,,199,0,Configuration
+1179,Pedro Marmol,,245,1,Software
+1180,Ana Silva,,245,1,Configuration
+1181,Maria Lopez,2026-01-25,245,1,Configuration
+1182,Ana Silva,,251,1,Layer 2
+1183,Maria Lopez,,245,1,Software
+1184,Ana Silva,2026-02-13,433,0,Layer 1
+1185,Luis Torres,2026-02-10,400,0,Configuration
+1186,Maria Lopez,,245,1,Software
+1187,Juan Perez,,266,0,Layer 1
+1188,Pedro Marmol,,29,1,Configuration
+1189,Carlos Ruiz,,212,0,Configuration
+1190,Carlos Ruiz,,332,0,Layer 1
+1191,Luis Torres,,245,0,Layer 2
+1192,Pedro Marmol,,471,0,Software
+1193,Pedro Marmol,,235,0,Software
+1194,Juan Perez,,426,1,Configuration
+1195,Juan Perez,,449,1,Layer 2
+1196,Carlos Ruiz,,198,1,Layer 1
+1197,Carlos Ruiz,,54,1,Layer 2
+1198,Ana Silva,,32,1,Software
+1199,Ana Silva,,245,1,Layer 1
+1200,Juan Perez,,339,0,Software
+1201,Juan Perez,,374,1,Configuration
+1202,Maria Lopez,,184,0,Software
+1203,Carlos Ruiz,,128,1,Software
+1204,Carlos Ruiz,2026-01-22,403,0,Software
+1205,Pedro Marmol,,262,1,Layer 2
+1206,Ana Silva,,245,1,Software
+1207,Ana Silva,2026-02-14,79,1,Layer 2
+1208,Maria Lopez,,286,0,Layer 2
+1209,Ana Silva,2026-02-11,126,1,Layer 2
+1210,Luis Torres,,414,0,Configuration
+1211,Carlos Ruiz,,257,0,Software
+1212,Ana Silva,,257,1,Layer 1
+1213,Maria Lopez,,318,1,Configuration
+1214,Ana Silva,2026-01-18,389,0,Configuration
+1215,Luis Torres,,412,1,Layer 1
+1216,Luis Torres,,422,1,Layer 2
+1217,Pedro Marmol,,300,1,Software
+1218,Carlos Ruiz,,174,1,Layer 1
+1219,Maria Lopez,,308,1,Layer 1
+1220,Pedro Marmol,,351,1,Software
+1221,Maria Lopez,,108,1,Layer 2
+1222,Maria Lopez,,421,0,Layer 1
+1223,Ana Silva,,235,1,Layer 2
+1224,Maria Lopez,,53,0,Layer 1
+1225,Maria Lopez,2026-01-19,245,0,Layer 1
+1226,Ana Silva,,132,0,Layer 1
+1227,Juan Perez,2026-02-03,357,0,Layer 2
+1228,Pedro Marmol,,459,1,Layer 1
+1229,Luis Torres,,245,1,Layer 2
+1230,Carlos Ruiz,,244,0,Configuration
+1231,Ana Silva,,245,1,Layer 1
+1232,Pedro Marmol,,440,1,Layer 2
+1233,Ana Silva,2026-01-29,348,1,Configuration
+1234,Ana Silva,,340,0,Layer 1
+1235,Ana Silva,,481,1,Software
+1236,Luis Torres,,245,0,Configuration
+1237,Luis Torres,,139,0,Layer 1
+1238,Juan Perez,,245,1,Configuration
+1239,Luis Torres,,71,0,Configuration
+1240,Pedro Marmol,2026-01-28,293,0,Layer 1
+1241,Luis Torres,,285,1,Software
+1242,Luis Torres,,260,1,Configuration
+1243,Carlos Ruiz,,92,1,Software
+1244,Pedro Marmol,,459,1,Configuration
+1245,Maria Lopez,,270,1,Configuration
+1246,Juan Perez,,155,1,Configuration
+1247,Maria Lopez,2026-02-03,376,1,Layer 1
+1248,Juan Perez,,397,1,Configuration
+1249,Juan Perez,2026-01-17,156,1,Software
+1250,Luis Torres,,154,0,Layer 2
+1251,Maria Lopez,,434,0,Software
+1252,Juan Perez,2026-01-30,194,1,Configuration
+1253,Juan Perez,,152,1,Layer 1
+1254,Juan Perez,,86,1,Configuration
+1255,Maria Lopez,,414,0,Layer 2
+1256,Carlos Ruiz,2026-01-25,190,1,Configuration
+1257,Carlos Ruiz,,395,1,Layer 1
+1258,Maria Lopez,,151,1,Configuration
+1259,Pedro Marmol,,140,1,Configuration
+1260,Ana Silva,,236,1,Software
+1261,Luis Torres,,53,1,Configuration
+1262,Luis Torres,,182,1,Layer 2
+1263,Luis Torres,2026-01-23,140,0,Layer 2
+1264,Juan Perez,,441,1,Layer 2
+1265,Carlos Ruiz,,255,1,Software
+1266,Carlos Ruiz,,110,0,Software
+1267,Carlos Ruiz,,434,0,Software
+1268,Juan Perez,2026-01-30,183,1,Configuration
+1269,Ana Silva,,245,0,Configuration
+1270,Juan Perez,2026-02-08,96,0,Layer 2
+1271,Maria Lopez,,245,1,Software
+1272,Carlos Ruiz,,325,1,Software
+1273,Maria Lopez,,175,0,Software
+1274,Pedro Marmol,2026-01-28,377,0,Configuration
+1275,Luis Torres,,211,1,Layer 1
+1276,Carlos Ruiz,2026-02-10,245,0,Layer 2
+1277,Ana Silva,,107,1,Configuration
+1278,Ana Silva,2026-02-07,218,1,Configuration
+1279,Carlos Ruiz,,45,1,Layer 1
+1280,Carlos Ruiz,2026-02-15,310,1,Layer 1
+1281,Luis Torres,2026-01-23,414,1,Layer 1
+1282,Juan Perez,,328,1,Configuration
+1283,Carlos Ruiz,,381,1,Layer 1
+1284,Luis Torres,,464,1,Layer 2
+1285,Pedro Marmol,,336,1,Software
+1286,Carlos Ruiz,2026-01-30,93,1,Configuration
+1287,Pedro Marmol,,56,1,Layer 1
+1288,Carlos Ruiz,,437,1,Software
+1289,Juan Perez,,245,1,Layer 2
+1290,Ana Silva,2026-02-01,67,1,Layer 1
+1291,Pedro Marmol,,245,1,Layer 2
+1292,Ana Silva,,408,1,Software
+1293,Ana Silva,,315,1,Layer 2
+1294,Juan Perez,,167,1,Layer 1
+1295,Ana Silva,2026-01-21,328,1,Software
+1296,Maria Lopez,,245,1,Layer 2
+1297,Luis Torres,,486,1,Layer 2
+1298,Luis Torres,,221,0,Software
+1299,Luis Torres,,192,0,Layer 2
+1300,Maria Lopez,,211,0,Layer 2
+1301,Maria Lopez,,284,0,Software
+1302,Luis Torres,,453,0,Layer 1
+1303,Luis Torres,2026-02-05,245,1,Layer 2
+1304,Juan Perez,2026-02-16,153,1,Software
+1305,Luis Torres,,163,1,Software
+1306,Ana Silva,,305,1,Configuration
+1307,Juan Perez,,394,0,Layer 2
+1308,Ana Silva,,223,1,Layer 1
+1309,Juan Perez,,118,0,Software
+1310,Carlos Ruiz,2026-01-20,308,0,Layer 1
+1311,Pedro Marmol,,331,1,Software
+1312,Juan Perez,2026-02-15,24,0,Configuration
+1313,Luis Torres,,151,1,Layer 1
+1314,Luis Torres,,245,1,Software
+1315,Juan Perez,,307,1,Layer 1
+1316,Juan Perez,,396,1,Software
+1317,Juan Perez,,245,1,Layer 1
+1318,Maria Lopez,,17,1,Layer 1
+1319,Ana Silva,,391,0,Layer 2
+1320,Luis Torres,,223,1,Software
+1321,Luis Torres,,245,1,Software
+1322,Carlos Ruiz,,353,0,Layer 1
+1323,Ana Silva,,305,1,Software
+1324,Juan Perez,,253,1,Layer 1
+1325,Maria Lopez,2026-02-04,245,1,Configuration
+1326,Luis Torres,2026-01-29,189,0,Software
+1327,Maria Lopez,,353,1,Layer 1
+1328,Juan Perez,2026-02-03,425,1,Software
+1329,Luis Torres,,300,0,Configuration
+1330,Luis Torres,,273,1,Configuration
+1331,Maria Lopez,,419,1,Layer 2
+1332,Pedro Marmol,,472,1,Layer 2
+1333,Maria Lopez,,285,0,Layer 1
+1334,Pedro Marmol,,117,0,Layer 2
+1335,Juan Perez,,457,1,Layer 1
+1336,Luis Torres,,8,1,Layer 1
+1337,Carlos Ruiz,,409,0,Software
+1338,Luis Torres,,403,1,Configuration
+1339,Carlos Ruiz,,484,0,Configuration
+1340,Pedro Marmol,2026-01-29,118,0,Layer 1
+1341,Maria Lopez,,465,1,Configuration
+1342,Maria Lopez,,410,1,Software
+1343,Luis Torres,,245,1,Configuration
+1344,Juan Perez,2026-01-30,245,1,Software
+1345,Luis Torres,,245,0,Software
+1346,Maria Lopez,,301,1,Software
+1347,Ana Silva,,25,0,Configuration
+1348,Juan Perez,,221,0,Software
+1349,Carlos Ruiz,,453,0,Software
+1350,Luis Torres,,166,1,Layer 2
+1351,Carlos Ruiz,,234,1,Layer 1
+1352,Carlos Ruiz,2026-02-13,456,1,Layer 1
+1353,Carlos Ruiz,,17,1,Configuration
+1354,Maria Lopez,,338,0,Software
+1355,Maria Lopez,,242,1,Layer 2
+1356,Carlos Ruiz,,249,1,Layer 2
+1357,Carlos Ruiz,,409,1,Layer 2
+1358,Luis Torres,,9,1,Configuration
+1359,Luis Torres,,228,1,Configuration
+1360,Carlos Ruiz,,401,1,Layer 2
+1361,Maria Lopez,,159,1,Layer 2
+1362,Luis Torres,,32,1,Layer 1
+1363,Ana Silva,,245,1,Software
+1364,Carlos Ruiz,2026-02-01,421,0,Software
+1365,Carlos Ruiz,2026-02-08,330,1,Layer 1
+1366,Juan Perez,2026-01-25,245,1,Configuration
+1367,Pedro Marmol,,341,0,Configuration
+1368,Juan Perez,2026-01-25,245,1,Layer 2
+1369,Pedro Marmol,,245,1,Software
+1370,Maria Lopez,,432,1,Layer 1
+1371,Pedro Marmol,,165,0,Layer 2
+1372,Luis Torres,,36,1,Configuration
+1373,Maria Lopez,,245,0,Configuration
+1374,Ana Silva,,293,0,Configuration
+1375,Maria Lopez,,389,1,Software
+1376,Ana Silva,,83,0,Layer 2
+1377,Carlos Ruiz,,155,1,Layer 1
+1378,Pedro Marmol,,244,1,Software
+1379,Juan Perez,,394,0,Layer 2
+1380,Pedro Marmol,,78,0,Software
+1381,Maria Lopez,,245,1,Layer 2
+1382,Ana Silva,,338,1,Layer 2
+1383,Luis Torres,,3,1,Configuration
+1384,Pedro Marmol,,245,1,Configuration
+1385,Maria Lopez,,54,0,Layer 2
+1386,Pedro Marmol,,301,1,Configuration
+1387,Maria Lopez,,199,1,Layer 2
+1388,Ana Silva,,108,1,Configuration
+1389,Pedro Marmol,,58,1,Layer 2
+1390,Juan Perez,2026-01-20,325,1,Layer 1
+1391,Maria Lopez,2026-02-04,474,1,Software
+1392,Carlos Ruiz,,500,0,Configuration
+1393,Carlos Ruiz,,245,1,Software
+1394,Maria Lopez,,167,0,Layer 2
+1395,Juan Perez,,412,1,Configuration
+1396,Carlos Ruiz,,451,0,Layer 1
+1397,Carlos Ruiz,2026-01-20,29,0,Configuration
+1398,Maria Lopez,,174,1,Layer 1
+1399,Juan Perez,,133,1,Layer 2
+1400,Maria Lopez,2026-01-20,138,0,Configuration
+1401,Luis Torres,2026-02-12,245,0,Configuration
+1402,Luis Torres,2026-01-25,30,1,Configuration
+1403,Pedro Marmol,,351,1,Software
+1404,Juan Perez,,168,1,Layer 1
+1405,Luis Torres,,431,1,Configuration
+1406,Ana Silva,,304,0,Configuration
+1407,Pedro Marmol,,81,0,Software
+1408,Pedro Marmol,,10,1,Layer 2
+1409,Carlos Ruiz,,245,0,Software
+1410,Pedro Marmol,,455,0,Layer 2
+1411,Ana Silva,,169,1,Layer 2
+1412,Carlos Ruiz,2026-01-25,339,1,Software
+1413,Maria Lopez,,303,0,Layer 1
+1414,Luis Torres,,245,1,Configuration
+1415,Pedro Marmol,,127,1,Layer 2
+1416,Pedro Marmol,2026-02-12,115,1,Software
+1417,Pedro Marmol,,79,1,Software
+1418,Luis Torres,2026-01-20,272,1,Software
+1419,Pedro Marmol,,245,1,Layer 2
+1420,Maria Lopez,,470,1,Layer 2
+1421,Carlos Ruiz,,245,0,Configuration
+1422,Ana Silva,2026-02-12,144,1,Layer 1
+1423,Ana Silva,,443,0,Configuration
+1424,Juan Perez,2026-01-22,245,1,Layer 2
+1425,Pedro Marmol,,188,1,Layer 1
+1426,Juan Perez,2026-02-09,271,0,Layer 1
+1427,Luis Torres,,418,1,Configuration
+1428,Maria Lopez,,467,1,Configuration
+1429,Juan Perez,2026-02-15,414,1,Software
+1430,Ana Silva,,272,1,Layer 1
+1431,Carlos Ruiz,,245,1,Layer 1
+1432,Maria Lopez,2026-01-17,266,1,Layer 1
+1433,Ana Silva,2026-02-10,47,0,Software
+1434,Maria Lopez,2026-02-13,273,1,Software
+1435,Maria Lopez,,430,0,Configuration
+1436,Maria Lopez,,245,0,Configuration
+1437,Maria Lopez,2026-01-19,491,0,Layer 2
+1438,Juan Perez,,352,1,Configuration
+1439,Luis Torres,,245,1,Configuration
+1440,Carlos Ruiz,2026-01-27,43,1,Layer 1
+1441,Pedro Marmol,,110,1,Layer 2
+1442,Pedro Marmol,,423,0,Software
+1443,Luis Torres,,87,1,Layer 1
+1444,Maria Lopez,,38,1,Configuration
+1445,Ana Silva,,74,0,Software
+1446,Luis Torres,2026-01-27,245,0,Layer 1
+1447,Pedro Marmol,,358,1,Software
+1448,Pedro Marmol,,467,1,Layer 2
+1449,Juan Perez,,213,1,Configuration
+1450,Pedro Marmol,,154,0,Layer 2
+1451,Carlos Ruiz,2026-01-18,412,0,Layer 1
+1452,Maria Lopez,2026-02-07,466,1,Software
+1453,Pedro Marmol,,5,0,Layer 1
+1454,Carlos Ruiz,2026-02-13,8,1,Configuration
+1455,Luis Torres,2026-02-06,245,0,Layer 1
+1456,Luis Torres,2026-02-14,421,0,Software
+1457,Luis Torres,,142,1,Software
+1458,Pedro Marmol,,326,1,Software
+1459,Maria Lopez,2026-01-17,108,1,Software
+1460,Juan Perez,,289,0,Layer 2
+1461,Carlos Ruiz,,248,0,Layer 1
+1462,Carlos Ruiz,,245,0,Configuration
+1463,Pedro Marmol,,88,1,Software
+1464,Juan Perez,,363,0,Layer 2
+1465,Luis Torres,,399,0,Layer 2
+1466,Carlos Ruiz,,374,0,Software
+1467,Ana Silva,2026-02-14,245,1,Layer 2
+1468,Juan Perez,,111,0,Layer 2
+1469,Pedro Marmol,,284,0,Layer 2
+1470,Luis Torres,2026-02-02,476,1,Configuration
+1471,Carlos Ruiz,,472,0,Layer 1
+1472,Carlos Ruiz,,245,1,Layer 2
+1473,Ana Silva,2026-01-24,245,1,Configuration
+1474,Maria Lopez,,245,0,Configuration
+1475,Ana Silva,,245,1,Layer 2
+1476,Maria Lopez,,115,0,Software
+1477,Juan Perez,,85,1,Software
+1478,Carlos Ruiz,2026-01-19,337,0,Layer 1
+1479,Maria Lopez,,381,1,Layer 2
+1480,Ana Silva,,183,0,Layer 1
+1481,Maria Lopez,,245,1,Software
+1482,Ana Silva,2026-02-12,255,1,Layer 1
+1483,Luis Torres,2026-02-06,245,1,Software
+1484,Carlos Ruiz,2026-01-30,289,0,Layer 1
+1485,Luis Torres,,222,0,Layer 1
+1486,Carlos Ruiz,,301,0,Configuration
+1487,Carlos Ruiz,,231,0,Software
+1488,Ana Silva,,245,1,Layer 1
+1489,Ana Silva,2026-02-15,293,1,Layer 2
+1490,Maria Lopez,,245,1,Layer 2
+1491,Maria Lopez,,426,1,Configuration
+1492,Pedro Marmol,,245,1,Layer 2
+1493,Maria Lopez,,212,1,Configuration
+1494,Juan Perez,,142,0,Configuration
+1495,Maria Lopez,2026-01-18,489,0,Layer 1
+1496,Luis Torres,,73,1,Layer 2
+1497,Luis Torres,,228,0,Layer 2
+1498,Pedro Marmol,,297,1,Configuration
+1499,Maria Lopez,,441,0,Software
+1500,Luis Torres,,143,1,Layer 2
+1501,Carlos Ruiz,,17,1,Layer 1
+1502,Juan Perez,,83,0,Layer 2
+1503,Maria Lopez,,155,0,Layer 1
+1504,Maria Lopez,,245,0,Layer 2
+1505,Juan Perez,,245,1,Software
+1506,Carlos Ruiz,,110,0,Software
+1507,Luis Torres,,479,0,Layer 1
+1508,Carlos Ruiz,,68,0,Layer 1
+1509,Juan Perez,,103,1,Layer 2
+1510,Carlos Ruiz,,442,0,Configuration
+1511,Carlos Ruiz,,305,1,Layer 1
+1512,Ana Silva,,275,1,Layer 2
+1513,Ana Silva,,280,1,Software
+1514,Luis Torres,,3,0,Layer 2
+1515,Maria Lopez,,108,1,Software
+1516,Maria Lopez,,349,0,Software
+1517,Juan Perez,2026-01-30,38,1,Layer 1
+1518,Carlos Ruiz,2026-01-26,211,1,Configuration
+1519,Maria Lopez,,356,1,Layer 1
+1520,Luis Torres,,167,0,Layer 1
+1521,Pedro Marmol,,83,1,Layer 2
+1522,Maria Lopez,2026-01-22,245,1,Configuration
+1523,Carlos Ruiz,,460,0,Layer 2
+1524,Luis Torres,,361,1,Configuration
+1525,Ana Silva,,123,0,Configuration
+1526,Carlos Ruiz,,23,0,Layer 1
+1527,Carlos Ruiz,,242,0,Software
+1528,Ana Silva,,224,1,Software
+1529,Ana Silva,2026-02-11,240,1,Layer 1
+1530,Luis Torres,2026-01-23,368,1,Layer 2
+1531,Ana Silva,,96,1,Software
+1532,Ana Silva,2026-01-17,415,1,Configuration
+1533,Ana Silva,,245,1,Layer 1
+1534,Carlos Ruiz,,27,0,Configuration
+1535,Luis Torres,2026-01-30,192,0,Layer 2
+1536,Maria Lopez,,477,1,Configuration
+1537,Maria Lopez,,245,1,Layer 1
+1538,Pedro Marmol,,7,0,Configuration
+1539,Maria Lopez,,320,0,Layer 2
+1540,Juan Perez,,162,1,Software
+1541,Carlos Ruiz,2026-02-05,135,0,Layer 2
+1542,Ana Silva,2026-01-27,466,0,Software
+1543,Luis Torres,2026-02-01,330,0,Configuration
+1544,Maria Lopez,,267,0,Software
+1545,Pedro Marmol,,137,0,Software
+1546,Pedro Marmol,2026-01-25,245,0,Configuration
+1547,Carlos Ruiz,,97,0,Layer 1
+1548,Juan Perez,,245,0,Layer 1
+1549,Pedro Marmol,,203,1,Configuration
+1550,Luis Torres,,245,1,Layer 1
+1551,Ana Silva,,486,1,Software
+1552,Maria Lopez,,301,0,Layer 2
+1553,Luis Torres,,316,1,Layer 1
+1554,Juan Perez,,362,0,Configuration
+1555,Carlos Ruiz,,32,1,Software
+1556,Ana Silva,,64,0,Configuration
+1557,Ana Silva,,304,1,Software
+1558,Luis Torres,,207,0,Layer 1
+1559,Carlos Ruiz,,296,0,Configuration
+1560,Pedro Marmol,2026-01-26,381,0,Configuration
+1561,Juan Perez,,268,1,Software
+1562,Pedro Marmol,,475,1,Software
+1563,Pedro Marmol,,448,0,Layer 1
+1564,Pedro Marmol,,324,1,Layer 1
+1565,Carlos Ruiz,,285,1,Layer 1
+1566,Luis Torres,,187,0,Layer 1
+1567,Ana Silva,2026-01-28,64,1,Configuration
+1568,Ana Silva,,30,0,Configuration
+1569,Pedro Marmol,,260,0,Layer 2
+1570,Juan Perez,2026-01-24,123,1,Layer 1
+1571,Luis Torres,,245,1,Software
+1572,Luis Torres,,224,1,Software
+1573,Juan Perez,2026-02-12,245,0,Software
+1574,Luis Torres,,245,1,Layer 2
+1575,Juan Perez,,390,1,Configuration
+1576,Luis Torres,2026-01-20,63,0,Layer 2
+1577,Maria Lopez,,235,1,Configuration
+1578,Maria Lopez,,245,0,Layer 1
+1579,Juan Perez,,218,1,Layer 1
+1580,Luis Torres,2026-01-18,386,0,Layer 1
+1581,Ana Silva,2026-01-17,245,0,Configuration
+1582,Pedro Marmol,,46,1,Configuration
+1583,Ana Silva,2026-01-29,245,0,Configuration
+1584,Ana Silva,,311,0,Software
+1585,Ana Silva,,245,0,Layer 2
+1586,Maria Lopez,,245,1,Software
+1587,Maria Lopez,,123,0,Configuration
+1588,Carlos Ruiz,,84,0,Layer 1
+1589,Juan Perez,,243,1,Software
+1590,Juan Perez,2026-02-07,448,1,Software
+1591,Ana Silva,,50,1,Software
+1592,Luis Torres,2026-02-12,245,0,Layer 2
+1593,Ana Silva,,117,0,Software
+1594,Ana Silva,,86,1,Layer 2
+1595,Maria Lopez,,361,1,Layer 2
+1596,Pedro Marmol,2026-01-22,438,0,Layer 2
+1597,Maria Lopez,,41,1,Layer 2
+1598,Carlos Ruiz,,24,1,Software
+1599,Juan Perez,,361,0,Software
+1600,Maria Lopez,2026-01-20,163,0,Layer 2
+1601,Juan Perez,2026-02-01,172,1,Layer 2
+1602,Pedro Marmol,,142,1,Layer 2
+1603,Juan Perez,,353,1,Configuration
+1604,Maria Lopez,,347,0,Configuration
+1605,Ana Silva,,150,0,Layer 2
+1606,Juan Perez,,245,1,Configuration
+1607,Juan Perez,,411,1,Layer 2
+1608,Pedro Marmol,2026-02-12,145,0,Software
+1609,Maria Lopez,,265,0,Layer 2
+1610,Luis Torres,2026-01-24,245,1,Software
+1611,Juan Perez,2026-01-21,213,0,Layer 2
+1612,Luis Torres,,245,1,Layer 1
+1613,Luis Torres,,220,1,Layer 2
+1614,Juan Perez,2026-01-23,140,1,Layer 2
+1615,Pedro Marmol,,245,1,Layer 2
+1616,Luis Torres,,80,0,Configuration
+1617,Carlos Ruiz,,240,0,Layer 1
+1618,Pedro Marmol,,45,0,Layer 1
+1619,Maria Lopez,,237,1,Layer 2
+1620,Carlos Ruiz,,273,1,Software
+1621,Luis Torres,,41,1,Configuration
+1622,Luis Torres,,108,1,Layer 1
+1623,Luis Torres,2026-01-19,294,1,Layer 2
+1624,Maria Lopez,,165,1,Layer 2
+1625,Pedro Marmol,,122,1,Software
+1626,Maria Lopez,,192,0,Layer 1
+1627,Pedro Marmol,,368,0,Layer 2
+1628,Juan Perez,,245,1,Layer 2
+1629,Luis Torres,2026-02-09,446,1,Layer 1
+1630,Carlos Ruiz,2026-02-08,189,1,Layer 2
+1631,Luis Torres,,200,1,Layer 1
+1632,Pedro Marmol,2026-01-23,204,0,Layer 1
+1633,Pedro Marmol,,174,1,Configuration
+1634,Pedro Marmol,,245,0,Layer 1
+1635,Carlos Ruiz,,245,1,Configuration
+1636,Maria Lopez,,344,0,Configuration
+1637,Luis Torres,,301,0,Layer 2
+1638,Juan Perez,,190,1,Layer 1
+1639,Pedro Marmol,,129,1,Software
+1640,Luis Torres,,342,0,Layer 2
+1641,Juan Perez,,115,1,Layer 1
+1642,Pedro Marmol,,236,1,Configuration
+1643,Maria Lopez,2026-02-06,245,1,Layer 1
+1644,Carlos Ruiz,,266,0,Layer 2
+1645,Juan Perez,,469,0,Software
+1646,Ana Silva,,275,0,Configuration
+1647,Juan Perez,,286,1,Layer 2
+1648,Juan Perez,2026-02-15,288,0,Layer 1
+1649,Juan Perez,,101,1,Configuration
+1650,Carlos Ruiz,,245,0,Software
+1651,Juan Perez,,232,1,Layer 2
+1652,Juan Perez,,467,1,Software
+1653,Pedro Marmol,,211,1,Configuration
+1654,Luis Torres,,153,1,Layer 2
+1655,Carlos Ruiz,2026-01-18,188,1,Layer 1
+1656,Luis Torres,,340,0,Layer 1
+1657,Juan Perez,,132,1,Software
+1658,Pedro Marmol,,492,0,Layer 2
+1659,Ana Silva,,73,0,Software
+1660,Maria Lopez,2026-01-31,245,0,Software
+1661,Maria Lopez,2026-01-23,27,1,Configuration
+1662,Pedro Marmol,,388,0,Layer 2
+1663,Juan Perez,,289,1,Layer 2
+1664,Pedro Marmol,2026-02-13,115,0,Layer 2
+1665,Luis Torres,,22,1,Layer 1
+1666,Luis Torres,,90,0,Software
+1667,Pedro Marmol,2026-02-04,351,1,Layer 1
+1668,Maria Lopez,,335,1,Layer 1
+1669,Juan Perez,2026-02-10,101,1,Layer 1
+1670,Luis Torres,,270,1,Layer 2
+1671,Juan Perez,,232,0,Configuration
+1672,Pedro Marmol,2026-01-27,393,0,Configuration
+1673,Luis Torres,,488,0,Layer 1
+1674,Carlos Ruiz,,315,1,Layer 2
+1675,Juan Perez,2026-02-13,219,1,Configuration
+1676,Maria Lopez,,218,1,Configuration
+1677,Juan Perez,,327,0,Software
+1678,Pedro Marmol,,107,0,Layer 1
+1679,Pedro Marmol,,161,0,Layer 2
+1680,Luis Torres,,292,1,Configuration
+1681,Juan Perez,,316,1,Layer 1
+1682,Ana Silva,,245,1,Layer 2
+1683,Ana Silva,,59,1,Software
+1684,Pedro Marmol,,249,1,Layer 2
+1685,Maria Lopez,,134,1,Configuration
+1686,Juan Perez,,245,1,Layer 2
+1687,Luis Torres,,236,1,Software
+1688,Juan Perez,,74,0,Layer 2
+1689,Maria Lopez,,273,1,Configuration
+1690,Juan Perez,2026-01-27,116,0,Layer 1
+1691,Carlos Ruiz,2026-02-10,441,0,Software
+1692,Juan Perez,2026-01-26,405,0,Layer 2
+1693,Juan Perez,2026-02-05,412,1,Layer 2
+1694,Maria Lopez,2026-01-21,245,1,Software
+1695,Pedro Marmol,2026-02-09,123,0,Layer 2
+1696,Luis Torres,,489,1,Software
+1697,Luis Torres,2026-01-31,28,0,Configuration
+1698,Luis Torres,,245,0,Software
+1699,Maria Lopez,2026-01-20,245,1,Configuration
+1700,Ana Silva,,245,0,Configuration
+1701,Carlos Ruiz,2026-01-19,178,0,Layer 1
+1702,Carlos Ruiz,,245,0,Configuration
+1703,Carlos Ruiz,,421,1,Layer 1
+1704,Maria Lopez,,317,0,Configuration
+1705,Pedro Marmol,,329,1,Layer 2
+1706,Carlos Ruiz,,245,1,Layer 2
+1707,Ana Silva,,245,1,Configuration
+1708,Pedro Marmol,,245,0,Software
+1709,Juan Perez,,16,1,Layer 2
+1710,Juan Perez,,479,0,Layer 1
+1711,Pedro Marmol,2026-02-15,245,1,Layer 1
+1712,Maria Lopez,2026-02-08,221,0,Layer 1
+1713,Juan Perez,,472,0,Software
+1714,Juan Perez,2026-02-03,60,1,Layer 1
+1715,Maria Lopez,,416,1,Software
+1716,Maria Lopez,,362,0,Layer 1
+1717,Juan Perez,,476,1,Layer 2
+1718,Carlos Ruiz,,264,0,Software
+1719,Luis Torres,,203,0,Layer 1
+1720,Juan Perez,,341,1,Layer 1
+1721,Carlos Ruiz,,13,1,Configuration
+1722,Carlos Ruiz,,245,0,Software
+1723,Maria Lopez,,484,0,Layer 1
+1724,Luis Torres,,374,0,Configuration
+1725,Luis Torres,,340,1,Configuration
+1726,Juan Perez,,320,1,Software
+1727,Carlos Ruiz,2026-01-31,38,0,Configuration
+1728,Maria Lopez,,500,1,Layer 1
+1729,Maria Lopez,,317,0,Configuration
+1730,Luis Torres,,314,0,Layer 2
+1731,Luis Torres,,295,0,Configuration
+1732,Maria Lopez,,128,0,Layer 2
+1733,Carlos Ruiz,2026-02-10,420,1,Layer 2
+1734,Juan Perez,,245,0,Configuration
+1735,Luis Torres,2026-02-13,259,1,Layer 1
+1736,Juan Perez,2026-02-12,35,0,Configuration
+1737,Ana Silva,,245,0,Configuration
+1738,Luis Torres,,307,1,Layer 2
+1739,Carlos Ruiz,,68,1,Configuration
+1740,Maria Lopez,,245,1,Layer 2
+1741,Maria Lopez,,64,1,Software
+1742,Maria Lopez,2026-01-24,245,1,Layer 1
+1743,Luis Torres,,242,1,Software
+1744,Juan Perez,,294,0,Layer 1
+1745,Juan Perez,,76,1,Software
+1746,Maria Lopez,2026-01-21,170,1,Layer 1
+1747,Juan Perez,,245,1,Layer 1
+1748,Luis Torres,,285,1,Configuration
+1749,Ana Silva,2026-02-13,325,1,Configuration
+1750,Carlos Ruiz,2026-01-28,328,1,Software
+1751,Pedro Marmol,,245,1,Layer 1
+1752,Luis Torres,,245,0,Configuration
+1753,Carlos Ruiz,,354,1,Layer 1
+1754,Ana Silva,,245,0,Configuration
+1755,Ana Silva,,52,0,Configuration
+1756,Carlos Ruiz,,290,0,Configuration
+1757,Ana Silva,,83,1,Software
+1758,Luis Torres,2026-02-12,245,1,Layer 2
+1759,Pedro Marmol,,34,1,Layer 1
+1760,Carlos Ruiz,,341,0,Software
+1761,Juan Perez,2026-02-07,148,1,Configuration
+1762,Juan Perez,,245,0,Layer 1
+1763,Pedro Marmol,,113,1,Software
+1764,Luis Torres,,245,0,Layer 1
+1765,Ana Silva,,92,0,Software
+1766,Ana Silva,,314,0,Layer 1
+1767,Ana Silva,,467,1,Configuration
+1768,Juan Perez,,245,0,Software
+1769,Pedro Marmol,,332,1,Configuration
+1770,Luis Torres,,353,1,Layer 1
+1771,Pedro Marmol,2026-02-02,250,1,Configuration
+1772,Juan Perez,2026-02-12,106,0,Layer 2
+1773,Luis Torres,,245,1,Layer 2
+1774,Ana Silva,,134,1,Layer 1
+1775,Juan Perez,2026-01-22,111,0,Configuration
+1776,Pedro Marmol,,245,0,Configuration
+1777,Luis Torres,,307,0,Layer 1
+1778,Ana Silva,,88,0,Layer 1
+1779,Maria Lopez,,195,1,Layer 2
+1780,Juan Perez,2026-01-17,337,0,Layer 2
+1781,Pedro Marmol,,245,0,Layer 1
+1782,Ana Silva,,251,0,Layer 2
+1783,Luis Torres,,143,0,Layer 2
+1784,Maria Lopez,2026-01-17,57,1,Configuration
+1785,Juan Perez,,292,0,Configuration
+1786,Pedro Marmol,,357,1,Layer 1
+1787,Maria Lopez,,366,0,Configuration
+1788,Luis Torres,,245,1,Layer 2
+1789,Pedro Marmol,2026-02-14,245,1,Configuration
+1790,Pedro Marmol,2026-01-27,228,1,Configuration
+1791,Luis Torres,2026-01-19,56,0,Layer 1
+1792,Pedro Marmol,2026-02-01,335,1,Configuration
+1793,Maria Lopez,,183,1,Configuration
+1794,Juan Perez,,423,0,Configuration
+1795,Ana Silva,2026-01-20,301,0,Layer 2
+1796,Juan Perez,,293,0,Layer 2
+1797,Luis Torres,,179,1,Software
+1798,Juan Perez,,370,0,Layer 1
+1799,Carlos Ruiz,,472,0,Layer 1
+1800,Ana Silva,2026-02-08,100,1,Configuration
+1801,Luis Torres,,98,1,Software
+1802,Juan Perez,,157,1,Configuration
+1803,Pedro Marmol,,243,0,Software
+1804,Maria Lopez,,129,0,Configuration
+1805,Maria Lopez,2026-01-18,138,1,Software
+1806,Juan Perez,,181,0,Layer 1
+1807,Maria Lopez,,245,1,Layer 2
+1808,Luis Torres,2026-02-12,441,1,Layer 1
+1809,Carlos Ruiz,2026-01-29,106,0,Software
+1810,Ana Silva,2026-01-28,88,1,Software
+1811,Maria Lopez,,184,1,Layer 1
+1812,Juan Perez,,272,0,Layer 2
+1813,Ana Silva,,307,1,Software
+1814,Luis Torres,,211,1,Software
+1815,Ana Silva,,240,1,Software
+1816,Carlos Ruiz,,245,1,Layer 1
+1817,Carlos Ruiz,2026-01-19,120,0,Layer 2
+1818,Ana Silva,,245,0,Layer 2
+1819,Luis Torres,,420,1,Software
+1820,Luis Torres,,150,1,Layer 2
+1821,Luis Torres,,307,1,Layer 2
+1822,Juan Perez,,450,0,Layer 1
+1823,Ana Silva,,101,0,Layer 2
+1824,Pedro Marmol,,163,1,Software
+1825,Ana Silva,,29,0,Software
+1826,Maria Lopez,2026-01-20,68,0,Software
+1827,Luis Torres,,498,0,Layer 2
+1828,Carlos Ruiz,2026-01-25,62,1,Layer 1
+1829,Pedro Marmol,,245,1,Layer 2
+1830,Luis Torres,2026-01-29,382,1,Software
+1831,Pedro Marmol,,166,1,Layer 2
+1832,Pedro Marmol,2026-01-17,227,1,Software
+1833,Luis Torres,,2,0,Software
+1834,Juan Perez,,245,1,Layer 2
+1835,Luis Torres,,289,1,Layer 1
+1836,Pedro Marmol,,237,0,Layer 1
+1837,Juan Perez,,433,0,Software
+1838,Carlos Ruiz,2026-02-03,245,1,Software
+1839,Luis Torres,2026-01-20,365,0,Layer 2
+1840,Juan Perez,2026-01-25,145,0,Configuration
+1841,Ana Silva,,427,0,Layer 1
+1842,Luis Torres,,245,0,Software
+1843,Juan Perez,,33,0,Layer 2
+1844,Pedro Marmol,,288,1,Software
+1845,Pedro Marmol,,262,0,Layer 1
+1846,Pedro Marmol,,312,1,Software
+1847,Pedro Marmol,,146,0,Layer 2
+1848,Maria Lopez,,245,0,Software
+1849,Maria Lopez,2026-02-05,245,1,Configuration
+1850,Maria Lopez,,56,1,Layer 2
+1851,Ana Silva,2026-01-28,454,0,Layer 2
+1852,Juan Perez,,331,0,Layer 2
+1853,Luis Torres,2026-01-29,455,1,Layer 1
+1854,Ana Silva,2026-02-01,315,1,Configuration
+1855,Luis Torres,,55,0,Layer 1
+1856,Ana Silva,,245,1,Software
+1857,Juan Perez,,451,0,Layer 2
+1858,Pedro Marmol,,260,1,Layer 2
+1859,Pedro Marmol,,383,1,Layer 1
+1860,Luis Torres,,339,1,Layer 1
+1861,Carlos Ruiz,,245,0,Layer 2
+1862,Juan Perez,,53,1,Layer 1
+1863,Pedro Marmol,,305,0,Software
+1864,Carlos Ruiz,,185,0,Software
+1865,Luis Torres,,6,1,Layer 2
+1866,Luis Torres,2026-02-08,423,0,Software
+1867,Juan Perez,,357,1,Layer 2
+1868,Maria Lopez,,107,1,Layer 1
+1869,Juan Perez,2026-01-20,367,1,Layer 2
+1870,Ana Silva,,292,1,Configuration
+1871,Luis Torres,,266,0,Layer 1
+1872,Pedro Marmol,2026-01-23,245,1,Layer 2
+1873,Juan Perez,,390,1,Configuration
+1874,Pedro Marmol,2026-01-21,328,1,Layer 1
+1875,Pedro Marmol,,116,1,Layer 2
+1876,Juan Perez,2026-01-29,245,1,Layer 2
+1877,Juan Perez,2026-01-28,125,1,Layer 2
+1878,Carlos Ruiz,,398,0,Configuration
+1879,Carlos Ruiz,,300,1,Configuration
+1880,Pedro Marmol,2026-01-21,138,0,Layer 2
+1881,Luis Torres,,205,0,Layer 2
+1882,Pedro Marmol,,193,0,Software
+1883,Juan Perez,2026-02-15,249,0,Configuration
+1884,Maria Lopez,,219,0,Layer 2
+1885,Juan Perez,,410,0,Software
+1886,Juan Perez,,243,1,Configuration
+1887,Juan Perez,,245,0,Configuration
+1888,Ana Silva,,56,1,Layer 2
+1889,Carlos Ruiz,2026-01-24,310,0,Software
+1890,Carlos Ruiz,,245,0,Software
+1891,Ana Silva,,411,1,Software
+1892,Pedro Marmol,,397,0,Software
+1893,Ana Silva,,245,1,Software
+1894,Pedro Marmol,,140,0,Software
+1895,Carlos Ruiz,,169,0,Layer 1
+1896,Carlos Ruiz,,245,1,Layer 2
+1897,Carlos Ruiz,2026-01-23,451,0,Software
+1898,Carlos Ruiz,,245,1,Layer 2
+1899,Ana Silva,,453,1,Software
+1900,Ana Silva,,245,1,Configuration
+1901,Maria Lopez,,7,1,Layer 1
+1902,Ana Silva,,372,1,Layer 2
+1903,Ana Silva,2026-01-28,108,1,Layer 1
+1904,Juan Perez,,245,1,Software
+1905,Maria Lopez,2026-02-04,77,0,Layer 1
+1906,Luis Torres,2026-02-03,442,1,Layer 2
+1907,Ana Silva,,375,1,Layer 2
+1908,Carlos Ruiz,,245,0,Software
+1909,Luis Torres,,39,1,Configuration
+1910,Pedro Marmol,2026-02-13,43,1,Configuration
+1911,Luis Torres,,108,1,Software
+1912,Pedro Marmol,2026-01-26,355,1,Software
+1913,Carlos Ruiz,,11,1,Software
+1914,Carlos Ruiz,2026-02-16,318,1,Configuration
+1915,Maria Lopez,,114,0,Configuration
+1916,Ana Silva,2026-02-11,141,1,Software
+1917,Carlos Ruiz,,100,0,Configuration
+1918,Ana Silva,,440,0,Layer 1
+1919,Carlos Ruiz,,14,0,Configuration
+1920,Carlos Ruiz,,245,0,Configuration
+1921,Pedro Marmol,,30,0,Configuration
+1922,Pedro Marmol,2026-01-17,464,0,Software
+1923,Carlos Ruiz,,13,0,Software
+1924,Carlos Ruiz,,32,1,Layer 2
+1925,Maria Lopez,,245,0,Layer 2
+1926,Ana Silva,,187,1,Layer 2
+1927,Juan Perez,2026-02-14,159,1,Layer 2
+1928,Juan Perez,,419,0,Software
+1929,Juan Perez,2026-01-26,245,0,Configuration
+1930,Luis Torres,,328,1,Layer 1
+1931,Maria Lopez,2026-02-07,281,1,Software
+1932,Pedro Marmol,,14,1,Layer 1
+1933,Juan Perez,,456,1,Software
+1934,Carlos Ruiz,,31,0,Software
+1935,Pedro Marmol,2026-02-09,71,1,Layer 2
+1936,Pedro Marmol,2026-02-02,71,1,Layer 1
+1937,Juan Perez,,245,1,Software
+1938,Juan Perez,2026-01-20,295,1,Software
+1939,Carlos Ruiz,,85,0,Layer 1
+1940,Carlos Ruiz,,245,0,Layer 1
+1941,Pedro Marmol,2026-01-18,363,0,Configuration
+1942,Pedro Marmol,,457,1,Layer 2
+1943,Juan Perez,2026-02-07,245,0,Software
+1944,Juan Perez,,342,0,Configuration
+1945,Maria Lopez,,255,1,Software
+1946,Maria Lopez,,19,1,Software
+1947,Ana Silva,,245,1,Configuration
+1948,Luis Torres,,7,0,Software
+1949,Luis Torres,2026-02-11,231,1,Software
+1950,Carlos Ruiz,,7,1,Configuration
+1951,Maria Lopez,2026-02-11,232,1,Configuration
+1952,Juan Perez,2026-02-02,13,1,Configuration
+1953,Pedro Marmol,,245,1,Software
+1954,Carlos Ruiz,,245,0,Configuration
+1955,Juan Perez,,33,0,Software
+1956,Juan Perez,,245,1,Layer 1
+1957,Juan Perez,,64,1,Configuration
+1958,Carlos Ruiz,,245,0,Layer 1
+1959,Ana Silva,,448,0,Software
+1960,Ana Silva,2026-01-18,42,1,Layer 1
+1961,Carlos Ruiz,,240,0,Layer 1
+1962,Carlos Ruiz,2026-02-12,386,0,Software
+1963,Carlos Ruiz,,158,0,Software
+1964,Luis Torres,,366,1,Layer 2
+1965,Juan Perez,2026-01-29,107,0,Layer 2
+1966,Carlos Ruiz,,500,1,Layer 2
+1967,Ana Silva,,469,1,Layer 1
+1968,Juan Perez,2026-02-08,261,0,Layer 2
+1969,Maria Lopez,,215,1,Layer 1
+1970,Pedro Marmol,,245,0,Configuration
+1971,Luis Torres,,162,0,Layer 1
+1972,Carlos Ruiz,,245,1,Layer 1
+1973,Carlos Ruiz,,419,1,Layer 2
+1974,Pedro Marmol,,165,0,Layer 1
+1975,Maria Lopez,2026-02-09,150,1,Layer 2
+1976,Carlos Ruiz,,426,1,Layer 2
+1977,Ana Silva,,350,1,Layer 2
+1978,Juan Perez,2026-02-01,121,1,Layer 2
+1979,Pedro Marmol,,65,1,Configuration
+1980,Luis Torres,,104,0,Software
+1981,Ana Silva,,22,0,Software
+1982,Luis Torres,,245,1,Software
+1983,Luis Torres,,287,1,Software
+1984,Carlos Ruiz,,354,0,Configuration
+1985,Carlos Ruiz,,245,0,Configuration
+1986,Juan Perez,2026-01-24,420,1,Layer 2
+1987,Pedro Marmol,,162,1,Configuration
+1988,Maria Lopez,,178,0,Software
+1989,Pedro Marmol,2026-02-01,354,0,Layer 2
+1990,Luis Torres,,259,0,Layer 1
+1991,Pedro Marmol,,53,0,Software
+1992,Ana Silva,,329,1,Layer 2
+1993,Pedro Marmol,2026-01-23,407,1,Software
+1994,Ana Silva,2026-01-26,241,0,Software
+1995,Juan Perez,2026-02-06,223,1,Configuration
+1996,Juan Perez,,59,1,Configuration
+1997,Ana Silva,2026-02-13,257,0,Layer 1
+1998,Pedro Marmol,,245,1,Configuration
+1999,Luis Torres,,293,0,Configuration
+2000,Pedro Marmol,,245,1,Software
+2001,Carlos Ruiz,,128,0,Software
+2002,Luis Torres,,87,1,Configuration
+2003,Ana Silva,,245,0,Layer 1
+2004,Luis Torres,2026-02-09,306,1,Layer 1
+2005,Carlos Ruiz,,245,1,Software
+2006,Juan Perez,,210,1,Layer 2
+2007,Juan Perez,,496,0,Software
+2008,Juan Perez,2026-01-29,129,1,Configuration
+2009,Luis Torres,,341,0,Software
+2010,Juan Perez,,81,0,Configuration
+2011,Maria Lopez,,245,1,Layer 2
+2012,Ana Silva,,408,1,Layer 2
+2013,Juan Perez,,52,0,Layer 2
+2014,Maria Lopez,,306,1,Layer 1
+2015,Maria Lopez,,341,0,Configuration
+2016,Pedro Marmol,2026-01-30,245,0,Layer 1
+2017,Ana Silva,,177,0,Layer 2
+2018,Ana Silva,2026-01-25,274,1,Layer 1
+2019,Luis Torres,,32,1,Software
+2020,Pedro Marmol,,245,1,Layer 1
+2021,Maria Lopez,,127,0,Layer 2
+2022,Carlos Ruiz,,114,1,Layer 1
+2023,Maria Lopez,,245,0,Configuration
+2024,Ana Silva,,474,0,Layer 2
+2025,Luis Torres,,253,1,Configuration
+2026,Ana Silva,,245,1,Layer 2
+2027,Maria Lopez,,159,1,Configuration
+2028,Luis Torres,,245,0,Layer 1
+2029,Maria Lopez,2026-02-15,199,1,Layer 1
+2030,Maria Lopez,2026-01-30,372,1,Software
+2031,Pedro Marmol,,217,1,Layer 1
+2032,Carlos Ruiz,2026-01-28,456,1,Configuration
+2033,Pedro Marmol,,84,1,Layer 2
+2034,Maria Lopez,,234,1,Layer 1
+2035,Luis Torres,,276,1,Layer 1
+2036,Luis Torres,,333,0,Layer 2
+2037,Carlos Ruiz,,174,0,Layer 2
+2038,Maria Lopez,,262,0,Software
+2039,Juan Perez,,261,0,Layer 2
+2040,Maria Lopez,,142,1,Layer 1
+2041,Carlos Ruiz,,462,1,Software
+2042,Juan Perez,2026-02-12,147,0,Configuration
+2043,Pedro Marmol,,149,0,Software
+2044,Carlos Ruiz,,327,0,Software
+2045,Ana Silva,2026-01-23,140,1,Software
+2046,Ana Silva,2026-02-04,3,0,Layer 1
+2047,Luis Torres,,81,1,Layer 1
+2048,Juan Perez,,134,1,Software
+2049,Luis Torres,2026-02-06,494,0,Layer 1
+2050,Pedro Marmol,,262,0,Software
+2051,Juan Perez,,247,0,Layer 2
+2052,Ana Silva,,396,0,Configuration
+2053,Ana Silva,,245,1,Layer 1
+2054,Juan Perez,,245,1,Layer 2
+2055,Pedro Marmol,,350,0,Configuration
+2056,Maria Lopez,2026-01-26,245,1,Layer 1
+2057,Luis Torres,,74,0,Layer 1
+2058,Pedro Marmol,,215,0,Layer 2
+2059,Carlos Ruiz,,245,1,Configuration
+2060,Ana Silva,,245,1,Layer 1
+2061,Carlos Ruiz,,245,0,Configuration
+2062,Luis Torres,,125,1,Layer 1
+2063,Luis Torres,,340,1,Configuration
+2064,Maria Lopez,,318,1,Configuration
+2065,Pedro Marmol,,173,0,Layer 2
+2066,Maria Lopez,,308,1,Layer 1
+2067,Pedro Marmol,,305,1,Layer 1
+2068,Carlos Ruiz,2026-02-11,304,0,Layer 1
+2069,Carlos Ruiz,,157,1,Layer 1
+2070,Maria Lopez,,81,0,Software
+2071,Ana Silva,2026-02-16,154,0,Layer 2
+2072,Pedro Marmol,,282,0,Layer 1
+2073,Carlos Ruiz,,226,1,Configuration
+2074,Pedro Marmol,2026-02-15,25,0,Layer 2
+2075,Carlos Ruiz,2026-02-09,117,0,Configuration
+2076,Juan Perez,,12,1,Software
+2077,Juan Perez,,471,0,Software
+2078,Maria Lopez,2026-02-03,245,1,Layer 1
+2079,Juan Perez,,179,0,Software
+2080,Luis Torres,,14,1,Software
+2081,Luis Torres,,245,0,Layer 2
+2082,Pedro Marmol,2026-01-31,397,1,Configuration
+2083,Maria Lopez,,19,1,Software
+2084,Maria Lopez,,70,0,Layer 2
+2085,Pedro Marmol,,202,0,Layer 2
+2086,Maria Lopez,,498,1,Configuration
+2087,Luis Torres,,357,0,Software
+2088,Luis Torres,,245,0,Software
+2089,Maria Lopez,,388,1,Configuration
+2090,Carlos Ruiz,2026-02-07,237,1,Layer 1
+2091,Maria Lopez,,301,0,Configuration
+2092,Juan Perez,,280,0,Configuration
+2093,Ana Silva,,1,1,Layer 1
+2094,Maria Lopez,2026-02-16,122,0,Configuration
+2095,Luis Torres,,402,1,Software
+2096,Pedro Marmol,,69,1,Configuration
+2097,Ana Silva,2026-02-05,142,1,Layer 2
+2098,Luis Torres,,266,1,Software
+2099,Maria Lopez,,265,1,Layer 2
+2100,Carlos Ruiz,2026-02-08,185,0,Software
+2101,Carlos Ruiz,,90,1,Layer 1
+2102,Carlos Ruiz,2026-02-15,162,1,Layer 2
+2103,Carlos Ruiz,,245,1,Layer 1
+2104,Maria Lopez,,326,0,Software
+2105,Juan Perez,,245,0,Configuration
+2106,Luis Torres,2026-01-31,8,1,Layer 2
+2107,Carlos Ruiz,,113,1,Configuration
+2108,Maria Lopez,,96,1,Software
+2109,Ana Silva,2026-02-12,249,1,Layer 1
+2110,Luis Torres,2026-02-14,230,1,Configuration
+2111,Ana Silva,,61,1,Layer 1
+2112,Luis Torres,,409,1,Software
+2113,Ana Silva,,347,1,Configuration
+2114,Ana Silva,,186,1,Layer 1
+2115,Maria Lopez,,185,1,Layer 1
+2116,Luis Torres,,223,1,Layer 1
+2117,Ana Silva,,227,0,Layer 1
+2118,Juan Perez,,39,1,Software
+2119,Juan Perez,,52,1,Configuration
+2120,Ana Silva,,415,1,Software
+2121,Carlos Ruiz,2026-01-19,494,0,Layer 2
+2122,Ana Silva,2026-02-04,338,1,Layer 1
+2123,Maria Lopez,,12,1,Layer 1
+2124,Maria Lopez,,249,1,Layer 2
+2125,Carlos Ruiz,,5,1,Layer 2
+2126,Ana Silva,,245,1,Layer 2
+2127,Pedro Marmol,,245,0,Software
+2128,Carlos Ruiz,2026-02-14,20,1,Configuration
+2129,Ana Silva,2026-02-06,142,0,Configuration
+2130,Luis Torres,,281,0,Configuration
+2131,Maria Lopez,,186,1,Software
+2132,Ana Silva,,379,0,Configuration
+2133,Carlos Ruiz,2026-02-03,122,1,Layer 2
+2134,Maria Lopez,,245,0,Configuration
+2135,Luis Torres,2026-02-02,142,0,Configuration
+2136,Pedro Marmol,,298,1,Configuration
+2137,Ana Silva,,16,0,Configuration
+2138,Maria Lopez,,59,1,Software
+2139,Carlos Ruiz,,173,1,Layer 1
+2140,Luis Torres,,206,0,Configuration
+2141,Pedro Marmol,2026-02-07,324,1,Layer 1
+2142,Ana Silva,,73,1,Software
+2143,Luis Torres,,464,0,Layer 2
+2144,Luis Torres,,245,1,Layer 2
+2145,Pedro Marmol,,61,0,Software
+2146,Ana Silva,,150,0,Configuration
+2147,Maria Lopez,2026-01-27,245,0,Layer 2
+2148,Pedro Marmol,,331,1,Layer 1
+2149,Ana Silva,,245,1,Layer 1
+2150,Juan Perez,,301,1,Configuration
+2151,Carlos Ruiz,,466,0,Configuration
+2152,Maria Lopez,,245,0,Configuration
+2153,Maria Lopez,,245,0,Layer 2
+2154,Ana Silva,,474,0,Software
+2155,Carlos Ruiz,,149,1,Software
+2156,Juan Perez,,407,0,Layer 1
+2157,Luis Torres,,27,1,Software
+2158,Ana Silva,,93,0,Layer 2
+2159,Juan Perez,2026-02-11,249,1,Configuration
+2160,Luis Torres,,321,0,Configuration
+2161,Carlos Ruiz,2026-02-05,251,0,Layer 1
+2162,Carlos Ruiz,,238,0,Layer 1
+2163,Pedro Marmol,,214,1,Software
+2164,Pedro Marmol,2026-02-16,211,0,Layer 2
+2165,Carlos Ruiz,2026-01-22,183,0,Layer 1
+2166,Juan Perez,,158,1,Software
+2167,Pedro Marmol,,462,0,Configuration
+2168,Maria Lopez,,496,1,Software
+2169,Juan Perez,2026-02-03,146,0,Configuration
+2170,Pedro Marmol,2026-01-24,418,1,Configuration
+2171,Ana Silva,2026-02-16,496,1,Software
+2172,Ana Silva,2026-02-14,443,1,Layer 1
+2173,Juan Perez,2026-02-02,245,1,Layer 2
+2174,Maria Lopez,2026-02-09,306,0,Software
+2175,Juan Perez,2026-02-11,167,0,Layer 1
+2176,Ana Silva,,231,1,Layer 1
+2177,Luis Torres,,33,1,Configuration
+2178,Carlos Ruiz,,88,0,Layer 2
+2179,Juan Perez,,270,1,Configuration
+2180,Ana Silva,,213,0,Layer 2
+2181,Pedro Marmol,,408,1,Software
+2182,Ana Silva,,106,0,Software
+2183,Carlos Ruiz,,245,1,Configuration
+2184,Pedro Marmol,,11,1,Layer 2
+2185,Ana Silva,,230,1,Configuration
+2186,Maria Lopez,,482,1,Layer 2
+2187,Carlos Ruiz,,329,1,Layer 1
+2188,Carlos Ruiz,,500,0,Layer 1
+2189,Luis Torres,,241,0,Layer 1
+2190,Luis Torres,,158,1,Software
+2191,Luis Torres,2026-01-22,282,1,Layer 1
+2192,Luis Torres,,83,1,Layer 2
+2193,Luis Torres,,430,0,Configuration
+2194,Carlos Ruiz,,422,1,Software
+2195,Maria Lopez,,272,0,Configuration
+2196,Juan Perez,,207,1,Software
+2197,Luis Torres,,200,1,Layer 2
+2198,Ana Silva,,245,0,Layer 2
+2199,Ana Silva,,367,1,Software
+2200,Pedro Marmol,,143,0,Layer 2
+2201,Pedro Marmol,,394,1,Layer 1
+2202,Carlos Ruiz,,245,0,Configuration
+2203,Ana Silva,,245,1,Layer 1
+2204,Juan Perez,,481,1,Layer 1
+2205,Luis Torres,,272,1,Layer 2
+2206,Luis Torres,2026-01-20,317,0,Configuration
+2207,Ana Silva,2026-02-06,391,1,Software
+2208,Juan Perez,,198,1,Layer 1
+2209,Carlos Ruiz,,405,1,Layer 2
+2210,Juan Perez,,208,0,Layer 1
+2211,Pedro Marmol,,296,0,Configuration
+2212,Pedro Marmol,,408,1,Layer 1
+2213,Juan Perez,2026-01-23,478,1,Software
+2214,Ana Silva,,215,1,Layer 2
+2215,Carlos Ruiz,,441,0,Configuration
+2216,Ana Silva,,156,1,Layer 1
+2217,Ana Silva,2026-01-17,318,1,Configuration
+2218,Ana Silva,,126,1,Configuration
+2219,Luis Torres,,239,1,Configuration
+2220,Luis Torres,,160,1,Layer 2
+2221,Pedro Marmol,,270,1,Layer 2
+2222,Ana Silva,,366,1,Layer 1
+2223,Carlos Ruiz,2026-02-12,275,1,Configuration
+2224,Maria Lopez,,245,1,Configuration
+2225,Maria Lopez,,415,0,Software
+2226,Juan Perez,,315,1,Layer 1
+2227,Luis Torres,2026-02-03,56,0,Layer 2
+2228,Carlos Ruiz,,263,0,Layer 2
+2229,Pedro Marmol,,228,1,Layer 2
+2230,Carlos Ruiz,,445,0,Layer 2
+2231,Carlos Ruiz,,245,1,Layer 2
+2232,Juan Perez,2026-01-24,64,0,Configuration
+2233,Carlos Ruiz,,91,1,Layer 1
+2234,Juan Perez,,427,1,Layer 2
+2235,Luis Torres,,173,0,Layer 2
+2236,Juan Perez,,245,0,Layer 2
+2237,Ana Silva,,55,1,Layer 2
+2238,Pedro Marmol,,245,0,Layer 2
+2239,Juan Perez,2026-01-19,45,1,Layer 2
+2240,Luis Torres,,242,0,Configuration
+2241,Pedro Marmol,,419,0,Software
+2242,Luis Torres,,16,1,Layer 1
+2243,Ana Silva,,425,0,Configuration
+2244,Ana Silva,2026-02-08,444,0,Layer 2
+2245,Luis Torres,,109,0,Configuration
+2246,Juan Perez,,245,0,Software
+2247,Pedro Marmol,,96,0,Configuration
+2248,Pedro Marmol,,149,0,Software
+2249,Pedro Marmol,,245,1,Software
+2250,Luis Torres,,30,1,Layer 1
+2251,Juan Perez,,185,0,Layer 1
+2252,Pedro Marmol,2026-02-16,266,0,Layer 1
+2253,Luis Torres,2026-02-09,197,1,Layer 1
+2254,Luis Torres,,69,0,Software
+2255,Luis Torres,,209,1,Layer 1
+2256,Luis Torres,2026-02-03,462,1,Configuration
+2257,Carlos Ruiz,,307,0,Layer 2
+2258,Juan Perez,,215,1,Layer 1
+2259,Maria Lopez,2026-02-10,245,1,Software
+2260,Juan Perez,2026-01-26,77,1,Layer 2
+2261,Carlos Ruiz,,495,1,Configuration
+2262,Carlos Ruiz,,491,0,Software
+2263,Ana Silva,,245,1,Software
+2264,Maria Lopez,,29,1,Software
+2265,Pedro Marmol,,17,1,Layer 1
+2266,Carlos Ruiz,2026-01-17,245,0,Layer 2
+2267,Luis Torres,,206,0,Layer 2
+2268,Carlos Ruiz,,245,0,Software
+2269,Juan Perez,,305,1,Layer 2
+2270,Luis Torres,,332,1,Configuration
+2271,Juan Perez,,245,0,Layer 1
+2272,Maria Lopez,2026-01-17,13,1,Layer 2
+2273,Maria Lopez,,232,0,Layer 1
+2274,Maria Lopez,2026-02-04,224,1,Layer 2
+2275,Carlos Ruiz,,468,0,Configuration
+2276,Maria Lopez,,245,0,Software
+2277,Pedro Marmol,2026-01-27,407,0,Configuration
+2278,Carlos Ruiz,,245,1,Layer 1
+2279,Luis Torres,2026-02-02,117,1,Layer 2
+2280,Maria Lopez,,168,0,Software
+2281,Juan Perez,,12,1,Layer 1
+2282,Pedro Marmol,,462,1,Configuration
+2283,Juan Perez,,370,1,Configuration
+2284,Ana Silva,2026-01-18,329,0,Layer 2
+2285,Luis Torres,2026-01-18,302,0,Configuration
+2286,Maria Lopez,2026-01-28,140,1,Layer 1
+2287,Maria Lopez,,460,0,Layer 1
+2288,Luis Torres,2026-01-19,21,1,Configuration
+2289,Maria Lopez,2026-02-03,68,0,Layer 2
+2290,Luis Torres,,465,0,Layer 1
+2291,Pedro Marmol,,245,1,Configuration
+2292,Maria Lopez,,260,0,Layer 1
+2293,Carlos Ruiz,2026-01-18,36,1,Layer 2
+2294,Luis Torres,,69,1,Software
+2295,Pedro Marmol,,153,1,Software
+2296,Pedro Marmol,,137,1,Layer 1
+2297,Juan Perez,,191,1,Configuration
+2298,Pedro Marmol,2026-01-20,20,1,Software
+2299,Luis Torres,,468,1,Configuration
+2300,Maria Lopez,,372,1,Configuration
+2301,Carlos Ruiz,2026-01-21,50,1,Configuration
+2302,Ana Silva,,481,1,Software
+2303,Maria Lopez,,387,1,Software
+2304,Juan Perez,,245,1,Layer 2
+2305,Ana Silva,,299,0,Layer 2
+2306,Maria Lopez,,116,0,Configuration
+2307,Luis Torres,,364,1,Configuration
+2308,Juan Perez,,189,1,Software
+2309,Juan Perez,,439,1,Software
+2310,Maria Lopez,,106,1,Layer 1
+2311,Luis Torres,,245,1,Layer 1
+2312,Maria Lopez,2026-02-13,360,1,Configuration
+2313,Pedro Marmol,,7,1,Software
+2314,Ana Silva,,245,1,Layer 2
+2315,Maria Lopez,,153,1,Configuration
+2316,Ana Silva,,386,0,Layer 1
+2317,Juan Perez,,287,1,Layer 2
+2318,Pedro Marmol,,217,0,Layer 1
+2319,Pedro Marmol,,245,1,Configuration
+2320,Ana Silva,,74,1,Software
+2321,Luis Torres,,245,1,Configuration
+2322,Ana Silva,2026-01-18,338,0,Configuration
+2323,Ana Silva,,245,0,Layer 2
+2324,Maria Lopez,2026-02-07,248,1,Layer 1
+2325,Carlos Ruiz,,331,1,Configuration
+2326,Maria Lopez,,67,1,Layer 2
+2327,Maria Lopez,,457,0,Layer 2
+2328,Juan Perez,,63,1,Layer 2
+2329,Luis Torres,,298,0,Layer 2
+2330,Luis Torres,2026-01-26,329,1,Layer 2
+2331,Luis Torres,,245,1,Configuration
+2332,Ana Silva,,352,1,Layer 1
+2333,Pedro Marmol,2026-02-06,245,1,Configuration
+2334,Maria Lopez,,335,1,Configuration
+2335,Juan Perez,,200,1,Software
+2336,Maria Lopez,,245,1,Layer 2
+2337,Ana Silva,,220,0,Configuration
+2338,Carlos Ruiz,,165,0,Configuration
+2339,Carlos Ruiz,2026-02-02,295,0,Layer 1
+2340,Juan Perez,,83,1,Layer 1
+2341,Pedro Marmol,,108,1,Layer 2
+2342,Carlos Ruiz,,205,0,Software
+2343,Maria Lopez,2026-02-16,125,0,Layer 1
+2344,Ana Silva,,65,1,Software
+2345,Pedro Marmol,,245,0,Configuration
+2346,Ana Silva,,271,0,Software
+2347,Luis Torres,,245,0,Configuration
+2348,Luis Torres,,245,1,Layer 2
+2349,Luis Torres,2026-01-30,171,0,Software
+2350,Juan Perez,2026-02-04,238,0,Software
+2351,Pedro Marmol,2026-01-21,416,0,Layer 2
+2352,Pedro Marmol,2026-02-03,61,1,Layer 2
+2353,Juan Perez,2026-01-21,259,0,Layer 1
+2354,Luis Torres,,335,1,Layer 2
+2355,Maria Lopez,,118,0,Software
+2356,Juan Perez,,19,1,Layer 1
+2357,Ana Silva,,496,0,Layer 1
+2358,Pedro Marmol,,312,1,Layer 1
+2359,Juan Perez,2026-02-11,315,0,Layer 1
+2360,Ana Silva,,256,1,Layer 1
+2361,Carlos Ruiz,,316,1,Layer 1
+2362,Luis Torres,2026-02-07,259,1,Layer 1
+2363,Pedro Marmol,2026-01-21,206,1,Layer 2
+2364,Carlos Ruiz,,408,1,Configuration
+2365,Juan Perez,,45,1,Configuration
+2366,Pedro Marmol,,174,0,Software
+2367,Ana Silva,,352,1,Software
+2368,Juan Perez,2026-01-24,233,1,Layer 1
+2369,Luis Torres,,245,0,Configuration
+2370,Ana Silva,,245,0,Software
+2371,Juan Perez,,283,1,Software
+2372,Maria Lopez,2026-01-27,446,1,Software
+2373,Juan Perez,,16,0,Layer 1
+2374,Luis Torres,,476,1,Software
+2375,Carlos Ruiz,,234,1,Configuration
+2376,Juan Perez,,423,1,Layer 2
+2377,Carlos Ruiz,,219,1,Layer 1
+2378,Maria Lopez,2026-02-13,1,1,Software
+2379,Luis Torres,,245,1,Layer 2
+2380,Carlos Ruiz,,368,0,Configuration
+2381,Pedro Marmol,,306,1,Layer 1
+2382,Maria Lopez,,405,1,Software
+2383,Pedro Marmol,2026-02-12,429,1,Layer 2
+2384,Ana Silva,2026-02-15,150,1,Layer 1
+2385,Maria Lopez,2026-01-25,245,0,Layer 1
+2386,Juan Perez,2026-01-30,169,1,Layer 1
+2387,Luis Torres,,358,0,Layer 1
+2388,Ana Silva,,145,1,Configuration
+2389,Pedro Marmol,,17,1,Layer 2
+2390,Juan Perez,,460,1,Layer 2
+2391,Luis Torres,,245,0,Layer 2
+2392,Ana Silva,2026-02-15,0,0,Layer 1
+2393,Maria Lopez,,86,0,Layer 2
+2394,Luis Torres,2026-02-13,320,0,Software
+2395,Ana Silva,,389,0,Configuration
+2396,Juan Perez,,80,0,Layer 2
+2397,Ana Silva,,109,0,Layer 2
+2398,Luis Torres,,251,1,Configuration
+2399,Maria Lopez,,429,1,Layer 2
+2400,Carlos Ruiz,,245,1,Configuration
+2401,Carlos Ruiz,,68,1,Software
+2402,Luis Torres,2026-01-23,407,0,Software
+2403,Maria Lopez,,264,0,Software
+2404,Pedro Marmol,,245,0,Configuration
+2405,Juan Perez,2026-02-04,371,1,Layer 1
+2406,Pedro Marmol,,415,1,Layer 2
+2407,Maria Lopez,2026-02-14,430,1,Configuration
+2408,Pedro Marmol,,245,1,Software
+2409,Pedro Marmol,,230,0,Layer 2
+2410,Ana Silva,,215,1,Configuration
+2411,Ana Silva,,122,1,Layer 2
+2412,Pedro Marmol,,92,1,Layer 1
+2413,Maria Lopez,,491,1,Configuration
+2414,Juan Perez,,232,0,Layer 1
+2415,Ana Silva,2026-02-02,435,1,Configuration
+2416,Juan Perez,,245,0,Layer 1
+2417,Luis Torres,2026-02-14,245,1,Layer 1
+2418,Ana Silva,,230,1,Layer 2
+2419,Maria Lopez,,105,1,Layer 2
+2420,Luis Torres,,245,0,Layer 2
+2421,Luis Torres,2026-01-31,497,0,Layer 1
+2422,Luis Torres,,297,0,Layer 2
+2423,Pedro Marmol,,230,0,Layer 1
+2424,Carlos Ruiz,,46,1,Software
+2425,Pedro Marmol,,123,1,Layer 1
+2426,Pedro Marmol,,217,0,Software
+2427,Juan Perez,,262,0,Layer 2
+2428,Juan Perez,2026-02-04,494,1,Configuration
+2429,Luis Torres,,101,0,Layer 2
+2430,Luis Torres,,158,1,Configuration
+2431,Carlos Ruiz,,106,1,Layer 1
+2432,Carlos Ruiz,,245,0,Layer 1
+2433,Maria Lopez,,245,0,Software
+2434,Luis Torres,,84,1,Layer 1
+2435,Maria Lopez,,149,1,Configuration
+2436,Juan Perez,2026-02-09,202,1,Software
+2437,Maria Lopez,,115,1,Software
+2438,Juan Perez,,147,0,Layer 2
+2439,Maria Lopez,,219,0,Configuration
+2440,Maria Lopez,2026-02-13,67,0,Layer 2
+2441,Luis Torres,2026-02-02,409,1,Layer 2
+2442,Ana Silva,2026-02-06,99,1,Software
+2443,Luis Torres,2026-01-29,245,0,Software
+2444,Juan Perez,,360,0,Software
+2445,Juan Perez,,446,0,Configuration
+2446,Ana Silva,2026-02-01,245,0,Software
+2447,Carlos Ruiz,,281,1,Configuration
+2448,Luis Torres,,271,1,Layer 1
+2449,Luis Torres,,442,0,Layer 1
+2450,Ana Silva,,395,1,Software
+2451,Juan Perez,,380,1,Layer 1
+2452,Carlos Ruiz,,77,0,Layer 2
+2453,Carlos Ruiz,,53,0,Layer 2
+2454,Juan Perez,,127,1,Software
+2455,Pedro Marmol,2026-02-08,458,1,Layer 2
+2456,Juan Perez,,30,0,Layer 1
+2457,Luis Torres,,245,0,Software
+2458,Luis Torres,,116,0,Configuration
+2459,Maria Lopez,,410,0,Layer 1
+2460,Luis Torres,,70,1,Software
+2461,Pedro Marmol,,220,1,Layer 1
+2462,Maria Lopez,,182,1,Configuration
+2463,Pedro Marmol,,59,0,Layer 1
+2464,Pedro Marmol,2026-02-16,481,1,Software
+2465,Maria Lopez,,184,1,Configuration
+2466,Carlos Ruiz,,234,1,Layer 2
+2467,Pedro Marmol,2026-02-03,245,0,Layer 1
+2468,Carlos Ruiz,2026-02-12,174,0,Configuration
+2469,Juan Perez,,131,1,Layer 2
+2470,Maria Lopez,2026-02-14,134,1,Configuration
+2471,Luis Torres,,162,1,Layer 1
+2472,Luis Torres,2026-02-03,175,1,Configuration
+2473,Ana Silva,,115,1,Configuration
+2474,Maria Lopez,,240,1,Layer 1
+2475,Juan Perez,,71,0,Layer 1
+2476,Ana Silva,,221,0,Software
+2477,Juan Perez,,240,0,Layer 1
+2478,Pedro Marmol,2026-01-20,245,0,Layer 2
+2479,Luis Torres,,156,0,Configuration
+2480,Pedro Marmol,,107,1,Software
+2481,Carlos Ruiz,2026-02-10,222,1,Software
+2482,Ana Silva,,24,0,Software
+2483,Juan Perez,,478,0,Layer 2
+2484,Maria Lopez,,447,0,Configuration
+2485,Ana Silva,,26,1,Layer 2
+2486,Carlos Ruiz,,467,0,Software
+2487,Carlos Ruiz,2026-01-28,74,1,Configuration
+2488,Pedro Marmol,,360,0,Software
+2489,Luis Torres,,190,1,Software
+2490,Ana Silva,,371,0,Software
+2491,Maria Lopez,,245,0,Layer 1
+2492,Maria Lopez,,354,1,Configuration
+2493,Ana Silva,2026-02-12,418,0,Software
+2494,Luis Torres,,78,0,Software
+2495,Pedro Marmol,,384,0,Layer 2
+2496,Ana Silva,,304,1,Configuration
+2497,Pedro Marmol,,130,0,Layer 1
+2498,Maria Lopez,,479,0,Layer 1
+2499,Maria Lopez,,392,0,Layer 2
+2500,Carlos Ruiz,,50,1,Layer 2
+2501,Pedro Marmol,,245,1,Layer 2
+2502,Juan Perez,,28,1,Layer 2
+2503,Juan Perez,,4,0,Layer 1
+2504,Luis Torres,2026-01-30,231,1,Configuration
+2505,Carlos Ruiz,,115,1,Software
+2506,Carlos Ruiz,2026-02-05,454,1,Layer 1
+2507,Luis Torres,,32,1,Layer 2
+2508,Luis Torres,,283,1,Software
+2509,Ana Silva,2026-02-16,245,1,Configuration
+2510,Maria Lopez,2026-01-31,368,1,Layer 1
+2511,Luis Torres,,333,1,Layer 1
+2512,Ana Silva,,462,1,Configuration
+2513,Maria Lopez,,373,1,Layer 2
+2514,Ana Silva,,426,0,Layer 1
+2515,Juan Perez,,245,1,Layer 2
+2516,Luis Torres,,245,1,Layer 2
+2517,Maria Lopez,2026-02-09,59,0,Configuration
+2518,Carlos Ruiz,2026-02-08,403,0,Configuration
+2519,Pedro Marmol,2026-02-01,466,1,Configuration
+2520,Carlos Ruiz,,279,0,Configuration
+2521,Carlos Ruiz,,110,1,Layer 1
+2522,Luis Torres,,364,1,Layer 1
+2523,Maria Lopez,,66,1,Configuration
+2524,Ana Silva,,103,1,Software
+2525,Pedro Marmol,,245,0,Software
+2526,Luis Torres,,245,1,Layer 1
+2527,Ana Silva,,245,0,Layer 2
+2528,Carlos Ruiz,,124,0,Software
+2529,Carlos Ruiz,,110,1,Layer 1
+2530,Maria Lopez,,245,0,Layer 2
+2531,Carlos Ruiz,,245,1,Software
+2532,Maria Lopez,,38,0,Configuration
+2533,Ana Silva,,57,1,Layer 1
+2534,Pedro Marmol,,461,0,Layer 2
+2535,Luis Torres,,123,1,Software
+2536,Pedro Marmol,,225,0,Software
+2537,Carlos Ruiz,,245,0,Software
+2538,Juan Perez,,245,1,Configuration
+2539,Juan Perez,,499,0,Layer 2
+2540,Carlos Ruiz,,3,0,Layer 1
+2541,Pedro Marmol,,489,0,Software
+2542,Juan Perez,,57,1,Configuration
+2543,Juan Perez,,157,1,Layer 2
+2544,Carlos Ruiz,2026-01-19,159,1,Software
+2545,Juan Perez,2026-01-26,245,1,Configuration
+2546,Juan Perez,,436,1,Layer 2
+2547,Ana Silva,2026-01-19,204,1,Layer 2
+2548,Luis Torres,2026-01-18,227,1,Layer 1
+2549,Juan Perez,,25,1,Layer 2
+2550,Carlos Ruiz,,230,1,Software
+2551,Luis Torres,,239,1,Software
+2552,Carlos Ruiz,,150,0,Configuration
+2553,Juan Perez,,245,0,Software
+2554,Maria Lopez,2026-01-24,370,0,Software
+2555,Luis Torres,,479,1,Configuration
+2556,Maria Lopez,2026-02-10,324,1,Configuration
+2557,Luis Torres,,245,1,Software
+2558,Maria Lopez,,266,0,Configuration
+2559,Ana Silva,2026-01-27,176,1,Software
+2560,Maria Lopez,,392,1,Software
+2561,Luis Torres,,30,1,Configuration
+2562,Carlos Ruiz,2026-01-24,245,1,Layer 2
+2563,Juan Perez,,42,0,Layer 1
+2564,Ana Silva,,161,1,Configuration
+2565,Ana Silva,,499,0,Software
+2566,Luis Torres,2026-01-26,243,0,Layer 1
+2567,Juan Perez,,491,0,Layer 2
+2568,Maria Lopez,,336,1,Configuration
+2569,Pedro Marmol,,361,1,Software
+2570,Carlos Ruiz,,255,1,Software
+2571,Juan Perez,,245,1,Layer 1
+2572,Juan Perez,2026-02-04,105,1,Software
+2573,Juan Perez,2026-02-08,421,1,Software
+2574,Maria Lopez,,469,0,Layer 2
+2575,Maria Lopez,,90,1,Configuration
+2576,Maria Lopez,2026-01-24,231,0,Layer 1
+2577,Maria Lopez,2026-01-18,363,1,Software
+2578,Maria Lopez,,130,1,Software
+2579,Juan Perez,2026-02-03,245,1,Layer 2
+2580,Juan Perez,2026-02-08,67,1,Layer 1
+2581,Maria Lopez,,489,0,Software
+2582,Ana Silva,2026-02-08,418,1,Configuration
+2583,Luis Torres,2026-02-15,75,0,Layer 2
+2584,Juan Perez,,15,1,Configuration
+2585,Juan Perez,,175,0,Layer 1
+2586,Maria Lopez,,250,1,Software
+2587,Maria Lopez,,123,1,Configuration
+2588,Ana Silva,,247,0,Layer 1
+2589,Maria Lopez,,486,0,Layer 2
+2590,Maria Lopez,2026-02-07,361,1,Layer 2
+2591,Luis Torres,,363,0,Layer 1
+2592,Pedro Marmol,,317,1,Software
+2593,Pedro Marmol,,395,0,Configuration
+2594,Pedro Marmol,,271,1,Configuration
+2595,Maria Lopez,,64,1,Layer 2
+2596,Pedro Marmol,2026-01-31,482,1,Configuration
+2597,Pedro Marmol,,27,1,Layer 2
+2598,Carlos Ruiz,,377,0,Software
+2599,Carlos Ruiz,,499,0,Layer 2
+2600,Ana Silva,,245,0,Configuration
+2601,Pedro Marmol,,294,0,Configuration
+2602,Pedro Marmol,,323,1,Layer 1
+2603,Carlos Ruiz,,245,0,Layer 2
+2604,Ana Silva,2026-01-26,315,1,Software
+2605,Juan Perez,,245,0,Software
+2606,Maria Lopez,,181,1,Configuration
+2607,Maria Lopez,2026-02-11,245,1,Software
+2608,Ana Silva,,131,1,Configuration
+2609,Ana Silva,2026-01-30,446,0,Layer 2
+2610,Ana Silva,,366,0,Configuration
+2611,Luis Torres,,186,0,Layer 2
+2612,Carlos Ruiz,2026-02-06,434,0,Layer 2
+2613,Luis Torres,,245,0,Layer 2
+2614,Luis Torres,,199,1,Layer 1
+2615,Ana Silva,,213,0,Configuration
+2616,Carlos Ruiz,2026-02-08,173,0,Software
+2617,Luis Torres,2026-02-04,35,0,Configuration
+2618,Luis Torres,,335,0,Configuration
+2619,Juan Perez,,334,0,Software
+2620,Maria Lopez,,154,0,Configuration
+2621,Carlos Ruiz,,494,1,Layer 2
+2622,Juan Perez,,60,0,Software
+2623,Pedro Marmol,2026-02-14,250,1,Layer 2
+2624,Juan Perez,,54,1,Software
+2625,Ana Silva,,245,1,Layer 1
+2626,Ana Silva,,26,1,Configuration
+2627,Pedro Marmol,,354,1,Layer 1
+2628,Juan Perez,,87,1,Layer 2
+2629,Ana Silva,,294,1,Software
+2630,Carlos Ruiz,2026-01-26,249,0,Software
+2631,Carlos Ruiz,,91,1,Software
+2632,Carlos Ruiz,,355,1,Configuration
+2633,Ana Silva,,70,0,Configuration
+2634,Luis Torres,,148,0,Configuration
+2635,Luis Torres,,419,1,Software
+2636,Carlos Ruiz,,461,1,Layer 2
+2637,Ana Silva,,433,1,Configuration
+2638,Luis Torres,,280,1,Software
+2639,Pedro Marmol,,151,1,Layer 1
+2640,Pedro Marmol,,469,1,Layer 2
+2641,Pedro Marmol,,245,1,Layer 2
+2642,Ana Silva,,245,1,Layer 2
+2643,Luis Torres,,245,1,Layer 2
+2644,Pedro Marmol,,232,0,Layer 1
+2645,Pedro Marmol,,420,0,Layer 1
+2646,Luis Torres,2026-01-25,245,0,Layer 1
+2647,Luis Torres,,245,1,Layer 2
+2648,Maria Lopez,,27,0,Layer 2
+2649,Juan Perez,2026-02-01,245,1,Configuration
+2650,Ana Silva,,59,0,Configuration
+2651,Carlos Ruiz,,475,1,Layer 2
+2652,Ana Silva,2026-02-03,325,0,Layer 1
+2653,Maria Lopez,,469,0,Configuration
+2654,Pedro Marmol,,317,1,Software
+2655,Luis Torres,,186,1,Configuration
+2656,Maria Lopez,,327,0,Configuration
+2657,Pedro Marmol,,209,1,Software
+2658,Carlos Ruiz,,121,1,Layer 1
+2659,Carlos Ruiz,,319,0,Layer 1
+2660,Juan Perez,,168,1,Layer 1
+2661,Luis Torres,,173,1,Software
+2662,Maria Lopez,,245,1,Layer 1
+2663,Carlos Ruiz,,245,1,Layer 1
+2664,Pedro Marmol,,116,0,Layer 2
+2665,Luis Torres,2026-02-16,130,0,Layer 2
+2666,Ana Silva,,245,1,Software
+2667,Carlos Ruiz,2026-02-16,245,1,Software
+2668,Luis Torres,,245,1,Software
+2669,Ana Silva,,51,0,Configuration
+2670,Juan Perez,2026-01-27,252,1,Layer 1
+2671,Ana Silva,,404,1,Configuration
+2672,Luis Torres,,196,1,Configuration
+2673,Ana Silva,,63,1,Layer 1
+2674,Juan Perez,,148,1,Configuration
+2675,Ana Silva,,326,1,Configuration
+2676,Ana Silva,,76,0,Configuration
+2677,Luis Torres,,475,1,Layer 1
+2678,Ana Silva,,263,0,Configuration
+2679,Luis Torres,2026-02-06,245,1,Layer 2
+2680,Luis Torres,,352,0,Software
+2681,Luis Torres,,245,1,Layer 2
+2682,Carlos Ruiz,,448,1,Software
+2683,Pedro Marmol,,119,1,Layer 1
+2684,Luis Torres,,13,1,Software
+2685,Maria Lopez,,151,1,Layer 2
+2686,Carlos Ruiz,2026-01-31,1,0,Layer 2
+2687,Ana Silva,2026-02-13,497,1,Configuration
+2688,Luis Torres,,239,0,Software
+2689,Carlos Ruiz,,40,1,Layer 1
+2690,Ana Silva,,135,1,Software
+2691,Juan Perez,,245,0,Layer 2
+2692,Ana Silva,2026-02-14,6,1,Configuration
+2693,Pedro Marmol,2026-01-29,133,1,Layer 1
+2694,Maria Lopez,,89,1,Software
+2695,Juan Perez,,185,1,Layer 1
+2696,Ana Silva,,245,1,Configuration
+2697,Carlos Ruiz,2026-02-11,67,1,Layer 1
+2698,Juan Perez,2026-01-28,307,0,Configuration
+2699,Juan Perez,,27,1,Layer 2
+2700,Juan Perez,,391,1,Configuration
+2701,Ana Silva,,15,0,Software
+2702,Luis Torres,,245,1,Configuration
+2703,Luis Torres,2026-01-18,190,0,Software
+2704,Juan Perez,,163,1,Configuration
+2705,Maria Lopez,,457,1,Layer 2
+2706,Juan Perez,,96,1,Software
+2707,Ana Silva,2026-01-30,132,1,Layer 2
+2708,Juan Perez,,245,1,Layer 2
+2709,Maria Lopez,,107,0,Configuration
+2710,Luis Torres,2026-01-20,288,1,Configuration
+2711,Juan Perez,,418,1,Layer 1
+2712,Carlos Ruiz,,97,1,Software
+2713,Carlos Ruiz,,94,0,Layer 1
+2714,Pedro Marmol,2026-02-02,238,0,Layer 1
+2715,Juan Perez,2026-02-07,245,0,Layer 1
+2716,Pedro Marmol,,245,0,Layer 1
+2717,Carlos Ruiz,,304,1,Layer 1
+2718,Ana Silva,,434,1,Layer 2
+2719,Pedro Marmol,,223,0,Layer 1
+2720,Ana Silva,,224,1,Layer 2
+2721,Juan Perez,,394,1,Layer 2
+2722,Pedro Marmol,2026-01-27,238,1,Layer 2
+2723,Juan Perez,,116,1,Layer 2
+2724,Pedro Marmol,,19,1,Layer 2
+2725,Ana Silva,,445,1,Software
+2726,Maria Lopez,,245,0,Configuration
+2727,Pedro Marmol,,245,0,Software
+2728,Carlos Ruiz,,253,1,Layer 2
+2729,Maria Lopez,,245,1,Layer 2
+2730,Maria Lopez,,69,1,Layer 1
+2731,Pedro Marmol,,463,0,Layer 2
+2732,Carlos Ruiz,,245,1,Layer 2
+2733,Pedro Marmol,,426,0,Layer 2
+2734,Pedro Marmol,,98,1,Software
+2735,Ana Silva,,161,0,Configuration
+2736,Juan Perez,,44,0,Software
+2737,Juan Perez,,137,0,Layer 1
+2738,Luis Torres,2026-01-30,282,1,Software
+2739,Luis Torres,,295,1,Layer 2
+2740,Luis Torres,,216,1,Layer 2
+2741,Carlos Ruiz,,366,0,Layer 1
+2742,Maria Lopez,,245,1,Configuration
+2743,Ana Silva,,180,1,Layer 2
+2744,Maria Lopez,,410,0,Configuration
+2745,Maria Lopez,,440,1,Layer 1
+2746,Pedro Marmol,,334,1,Layer 1
+2747,Maria Lopez,,472,0,Layer 2
+2748,Maria Lopez,,245,0,Software
+2749,Ana Silva,,388,0,Software
+2750,Pedro Marmol,,50,1,Software
+2751,Maria Lopez,2026-01-21,327,1,Software
+2752,Juan Perez,2026-01-29,218,0,Layer 1
+2753,Maria Lopez,,165,0,Software
+2754,Juan Perez,,245,0,Layer 1
+2755,Pedro Marmol,2026-02-01,489,1,Software
+2756,Maria Lopez,,437,0,Layer 1
+2757,Ana Silva,2026-02-06,167,0,Layer 1
+2758,Maria Lopez,,340,0,Layer 1
+2759,Juan Perez,2026-01-21,317,1,Software
+2760,Ana Silva,,216,0,Layer 2
+2761,Maria Lopez,,278,1,Layer 2
+2762,Ana Silva,,17,1,Layer 1
+2763,Ana Silva,,245,1,Configuration
+2764,Pedro Marmol,,437,1,Layer 2
+2765,Pedro Marmol,,469,1,Layer 2
+2766,Juan Perez,2026-02-09,245,0,Layer 1
+2767,Pedro Marmol,,245,1,Layer 2
+2768,Ana Silva,,18,1,Layer 2
+2769,Juan Perez,,362,1,Configuration
+2770,Luis Torres,,404,1,Configuration
+2771,Ana Silva,,178,0,Layer 1
+2772,Maria Lopez,2026-02-06,406,1,Layer 2
+2773,Maria Lopez,2026-02-07,468,0,Layer 1
+2774,Carlos Ruiz,,350,0,Layer 1
+2775,Carlos Ruiz,,234,1,Configuration
+2776,Luis Torres,,321,1,Layer 2
+2777,Maria Lopez,,384,0,Configuration
+2778,Pedro Marmol,2026-02-15,245,1,Software
+2779,Carlos Ruiz,,196,1,Software
+2780,Juan Perez,2026-01-25,49,0,Software
+2781,Maria Lopez,,169,1,Software
+2782,Luis Torres,,139,1,Layer 2
+2783,Carlos Ruiz,2026-01-31,361,1,Layer 1
+2784,Juan Perez,,416,1,Layer 1
+2785,Pedro Marmol,,422,1,Layer 1
+2786,Luis Torres,,245,1,Software
+2787,Luis Torres,2026-01-18,409,1,Software
+2788,Carlos Ruiz,,43,1,Software
+2789,Pedro Marmol,,126,1,Configuration
+2790,Juan Perez,,166,1,Layer 1
+2791,Maria Lopez,,152,0,Configuration
+2792,Juan Perez,,245,1,Software
+2793,Carlos Ruiz,2026-01-30,260,1,Layer 2
+2794,Carlos Ruiz,,373,0,Configuration
+2795,Luis Torres,2026-01-25,477,0,Software
+2796,Carlos Ruiz,,446,1,Software
+2797,Pedro Marmol,,245,1,Layer 2
+2798,Ana Silva,,245,0,Configuration
+2799,Maria Lopez,,187,1,Layer 2
+2800,Maria Lopez,2026-01-17,64,0,Configuration
+2801,Juan Perez,,479,1,Software
+2802,Carlos Ruiz,2026-01-27,4,1,Layer 1
+2803,Luis Torres,,272,1,Software
+2804,Maria Lopez,,365,1,Layer 2
+2805,Pedro Marmol,,79,1,Software
+2806,Luis Torres,,245,1,Configuration
+2807,Juan Perez,,213,0,Configuration
+2808,Maria Lopez,,67,1,Layer 1
+2809,Pedro Marmol,2026-01-23,250,1,Layer 2
+2810,Maria Lopez,2026-02-10,427,0,Configuration
+2811,Pedro Marmol,2026-01-19,394,1,Layer 1
+2812,Luis Torres,2026-01-24,306,0,Configuration
+2813,Juan Perez,,174,1,Configuration
+2814,Luis Torres,2026-01-27,358,1,Layer 2
+2815,Luis Torres,2026-01-20,425,0,Layer 1
+2816,Pedro Marmol,,59,1,Software
+2817,Maria Lopez,,10,0,Software
+2818,Ana Silva,,245,1,Software
+2819,Maria Lopez,,337,1,Layer 1
+2820,Juan Perez,,132,1,Layer 2
+2821,Maria Lopez,,94,1,Configuration
+2822,Pedro Marmol,2026-02-15,396,0,Software
+2823,Maria Lopez,2026-01-17,114,0,Layer 2
+2824,Pedro Marmol,,270,0,Layer 1
+2825,Juan Perez,2026-01-23,191,1,Configuration
+2826,Carlos Ruiz,,443,1,Configuration
+2827,Pedro Marmol,,466,1,Layer 1
+2828,Luis Torres,2026-01-17,197,1,Layer 2
+2829,Carlos Ruiz,,298,1,Layer 2
+2830,Carlos Ruiz,,184,0,Software
+2831,Luis Torres,,245,1,Layer 2
+2832,Pedro Marmol,,64,0,Layer 1
+2833,Juan Perez,2026-02-10,262,1,Layer 2
+2834,Maria Lopez,2026-01-17,225,0,Software
+2835,Juan Perez,,453,0,Software
+2836,Juan Perez,,40,1,Configuration
+2837,Carlos Ruiz,,245,0,Configuration
+2838,Carlos Ruiz,,66,0,Software
+2839,Ana Silva,2026-01-28,245,0,Layer 2
+2840,Carlos Ruiz,,288,1,Layer 2
+2841,Juan Perez,,402,1,Software
+2842,Pedro Marmol,,450,0,Layer 1
+2843,Maria Lopez,2026-02-13,77,1,Layer 1
+2844,Juan Perez,,367,0,Configuration
+2845,Pedro Marmol,,38,0,Configuration
+2846,Maria Lopez,,245,0,Configuration
+2847,Maria Lopez,,245,0,Configuration
+2848,Juan Perez,,245,1,Layer 2
+2849,Carlos Ruiz,,388,1,Software
+2850,Maria Lopez,,245,0,Software
+2851,Pedro Marmol,,245,0,Software
+2852,Maria Lopez,,366,1,Configuration
+2853,Ana Silva,,74,0,Layer 1
+2854,Pedro Marmol,,390,1,Configuration
+2855,Maria Lopez,,64,1,Configuration
+2856,Pedro Marmol,,104,1,Layer 1
+2857,Juan Perez,,365,0,Layer 2
+2858,Pedro Marmol,2026-01-17,245,0,Software
+2859,Ana Silva,,234,0,Layer 1
+2860,Ana Silva,,149,1,Software
+2861,Pedro Marmol,,382,1,Layer 1
+2862,Juan Perez,,332,1,Software
+2863,Carlos Ruiz,,475,0,Layer 1
+2864,Luis Torres,,39,1,Layer 2
+2865,Carlos Ruiz,2026-02-06,234,0,Layer 2
+2866,Carlos Ruiz,,303,0,Layer 2
+2867,Ana Silva,,408,0,Layer 2
+2868,Luis Torres,,205,0,Software
+2869,Juan Perez,,77,0,Layer 2
+2870,Ana Silva,2026-02-10,500,1,Configuration
+2871,Maria Lopez,,467,1,Software
+2872,Juan Perez,,414,0,Software
+2873,Pedro Marmol,,255,1,Configuration
+2874,Juan Perez,,450,1,Layer 1
+2875,Carlos Ruiz,2026-01-22,370,0,Layer 1
+2876,Maria Lopez,,347,1,Configuration
+2877,Pedro Marmol,,409,0,Software
+2878,Maria Lopez,,136,0,Software
+2879,Juan Perez,,230,1,Layer 1
+2880,Carlos Ruiz,2026-01-18,90,1,Configuration
+2881,Juan Perez,,28,1,Layer 2
+2882,Luis Torres,,245,1,Configuration
+2883,Maria Lopez,,372,1,Software
+2884,Ana Silva,2026-02-02,263,0,Configuration
+2885,Juan Perez,,347,0,Layer 2
+2886,Pedro Marmol,,358,1,Layer 1
+2887,Luis Torres,,245,1,Software
+2888,Pedro Marmol,,472,0,Software
+2889,Ana Silva,2026-02-06,372,1,Layer 1
+2890,Juan Perez,,245,1,Configuration
+2891,Juan Perez,,431,0,Configuration
+2892,Luis Torres,,251,1,Layer 1
+2893,Maria Lopez,,382,0,Configuration
+2894,Carlos Ruiz,,142,1,Layer 1
+2895,Ana Silva,,245,1,Layer 2
+2896,Pedro Marmol,2026-02-16,370,0,Software
+2897,Juan Perez,,457,1,Layer 2
+2898,Ana Silva,2026-01-24,23,0,Layer 2
+2899,Maria Lopez,,166,1,Layer 1
+2900,Carlos Ruiz,,275,0,Configuration
+2901,Ana Silva,,137,0,Layer 2
+2902,Pedro Marmol,,39,0,Layer 1
+2903,Juan Perez,,390,1,Layer 1
+2904,Juan Perez,2026-02-09,254,0,Software
+2905,Ana Silva,,137,1,Configuration
+2906,Maria Lopez,,134,1,Software
+2907,Carlos Ruiz,,258,1,Layer 2
+2908,Ana Silva,,87,1,Layer 1
+2909,Juan Perez,,44,1,Software
+2910,Luis Torres,,204,0,Layer 1
+2911,Pedro Marmol,,102,0,Layer 1
+2912,Pedro Marmol,,91,1,Layer 1
+2913,Maria Lopez,,84,1,Software
+2914,Luis Torres,2026-01-29,284,1,Layer 1
+2915,Juan Perez,,37,1,Layer 1
+2916,Ana Silva,,245,1,Configuration
+2917,Luis Torres,,124,1,Software
+2918,Maria Lopez,,80,1,Layer 1
+2919,Juan Perez,,245,1,Configuration
+2920,Ana Silva,2026-02-01,194,0,Layer 1
+2921,Pedro Marmol,,245,1,Layer 1
+2922,Maria Lopez,,245,0,Layer 2
+2923,Maria Lopez,,409,0,Configuration
+2924,Maria Lopez,,220,1,Layer 1
+2925,Juan Perez,2026-02-01,193,0,Layer 2
+2926,Pedro Marmol,,341,0,Configuration
+2927,Ana Silva,,245,1,Configuration
+2928,Carlos Ruiz,2026-02-16,281,1,Layer 2
+2929,Luis Torres,,140,0,Software
+2930,Pedro Marmol,2026-02-12,401,1,Layer 1
+2931,Luis Torres,2026-01-31,493,1,Software
+2932,Pedro Marmol,2026-01-23,361,0,Layer 2
+2933,Luis Torres,,6,1,Software
+2934,Luis Torres,,334,0,Layer 2
+2935,Ana Silva,,185,1,Layer 2
+2936,Ana Silva,,245,0,Layer 1
+2937,Pedro Marmol,,275,0,Configuration
+2938,Pedro Marmol,,487,0,Layer 1
+2939,Pedro Marmol,2026-02-02,364,0,Layer 1
+2940,Ana Silva,,182,1,Software
+2941,Pedro Marmol,2026-01-21,97,1,Layer 2
+2942,Luis Torres,2026-02-14,333,0,Layer 2
+2943,Carlos Ruiz,2026-01-24,321,1,Software
+2944,Maria Lopez,,280,1,Layer 1
+2945,Pedro Marmol,2026-02-08,282,1,Layer 2
+2946,Carlos Ruiz,,247,0,Layer 2
+2947,Maria Lopez,,314,1,Layer 1
+2948,Luis Torres,,245,1,Layer 2
+2949,Carlos Ruiz,,403,1,Layer 2
+2950,Maria Lopez,,440,1,Configuration
+2951,Maria Lopez,,142,0,Layer 1
+2952,Juan Perez,,245,1,Layer 1
+2953,Juan Perez,2026-02-09,447,1,Configuration
+2954,Juan Perez,2026-02-13,442,0,Layer 1
+2955,Maria Lopez,,250,1,Software
+2956,Luis Torres,,245,1,Software
+2957,Pedro Marmol,,203,1,Layer 1
+2958,Carlos Ruiz,,285,1,Layer 1
+2959,Carlos Ruiz,,245,0,Layer 1
+2960,Carlos Ruiz,,337,1,Layer 1
+2961,Luis Torres,,86,0,Layer 2
+2962,Ana Silva,,24,1,Configuration
+2963,Carlos Ruiz,,128,1,Software
+2964,Maria Lopez,2026-02-02,165,0,Layer 2
+2965,Maria Lopez,,270,1,Layer 1
+2966,Maria Lopez,,493,1,Configuration
+2967,Ana Silva,,107,1,Software
+2968,Ana Silva,,143,0,Software
+2969,Luis Torres,,443,1,Configuration
+2970,Ana Silva,,245,0,Software
+2971,Juan Perez,,156,1,Layer 2
+2972,Luis Torres,,100,1,Layer 1
+2973,Juan Perez,,143,0,Software
+2974,Carlos Ruiz,2026-01-25,245,1,Layer 1
+2975,Ana Silva,,366,1,Layer 2
+2976,Juan Perez,2026-01-30,442,0,Layer 2
+2977,Maria Lopez,,55,0,Software
+2978,Maria Lopez,,149,1,Configuration
+2979,Carlos Ruiz,,30,0,Layer 2
+2980,Carlos Ruiz,,161,0,Layer 2
+2981,Ana Silva,2026-01-25,245,1,Layer 2
+2982,Maria Lopez,2026-02-16,245,0,Layer 2
+2983,Maria Lopez,2026-02-12,68,0,Layer 2
+2984,Carlos Ruiz,,245,0,Software
+2985,Luis Torres,,75,1,Software
+2986,Carlos Ruiz,2026-01-28,163,1,Configuration
+2987,Juan Perez,2026-01-25,168,0,Software
+2988,Ana Silva,,291,1,Software
+2989,Carlos Ruiz,,170,1,Layer 1
+2990,Maria Lopez,,81,0,Software
+2991,Carlos Ruiz,,65,1,Layer 2
+2992,Ana Silva,,371,0,Configuration
+2993,Luis Torres,,245,0,Software
+2994,Maria Lopez,,245,0,Layer 2
+2995,Juan Perez,,112,0,Configuration
+2996,Luis Torres,2026-01-26,449,1,Layer 2
+2997,Carlos Ruiz,,395,0,Software
+2998,Maria Lopez,,187,1,Configuration
+2999,Maria Lopez,,108,1,Layer 1
+3000,Juan Perez,,362,0,Software
+3001,Juan Perez,,65,1,Layer 2
+3002,Pedro Marmol,,428,1,Layer 2
+3003,Luis Torres,,38,0,Software
+3004,Carlos Ruiz,,333,1,Layer 1
+3005,Pedro Marmol,,44,1,Layer 1
+3006,Juan Perez,,133,1,Software
+3007,Carlos Ruiz,,211,0,Software
+3008,Ana Silva,,285,1,Configuration
+3009,Luis Torres,,127,0,Configuration
+3010,Luis Torres,2026-01-25,354,1,Software
+3011,Maria Lopez,,15,1,Layer 1
+3012,Maria Lopez,,377,1,Configuration
+3013,Luis Torres,2026-01-20,113,0,Layer 1
+3014,Pedro Marmol,2026-02-11,31,1,Layer 2
+3015,Maria Lopez,,225,1,Software
+3016,Maria Lopez,,264,0,Software
+3017,Juan Perez,,65,1,Layer 2
+3018,Juan Perez,2026-01-27,321,0,Layer 1
+3019,Juan Perez,,401,1,Layer 2
+3020,Carlos Ruiz,,432,1,Layer 2
+3021,Juan Perez,,148,1,Layer 1
+3022,Luis Torres,,333,1,Configuration
+3023,Maria Lopez,,245,0,Configuration
+3024,Maria Lopez,,134,1,Software
+3025,Pedro Marmol,,480,1,Layer 2
+3026,Luis Torres,,284,1,Layer 2
+3027,Juan Perez,2026-01-31,241,1,Layer 2
+3028,Pedro Marmol,,203,1,Layer 2
+3029,Juan Perez,,321,1,Layer 1
+3030,Luis Torres,,405,1,Layer 1
+3031,Juan Perez,,245,1,Layer 2
+3032,Pedro Marmol,2026-02-10,332,1,Configuration
+3033,Ana Silva,,80,1,Software
+3034,Juan Perez,,98,1,Software
+3035,Ana Silva,,245,1,Layer 1
+3036,Maria Lopez,,392,0,Layer 1
+3037,Maria Lopez,2026-01-31,275,1,Layer 1
+3038,Maria Lopez,2026-01-18,396,1,Software
+3039,Carlos Ruiz,2026-02-13,1,0,Configuration
+3040,Maria Lopez,,245,1,Layer 1
+3041,Carlos Ruiz,,162,1,Configuration
+3042,Luis Torres,2026-02-09,62,0,Software
+3043,Pedro Marmol,,254,0,Configuration
+3044,Luis Torres,,481,1,Software
+3045,Luis Torres,,245,1,Software
+3046,Luis Torres,,3,1,Layer 1
+3047,Luis Torres,,245,1,Layer 1
+3048,Juan Perez,2026-02-07,326,1,Software
+3049,Maria Lopez,2026-01-29,78,1,Configuration
+3050,Carlos Ruiz,,245,0,Configuration
+3051,Ana Silva,,245,1,Software
+3052,Luis Torres,,4,1,Software
+3053,Carlos Ruiz,,265,0,Configuration
+3054,Juan Perez,,183,1,Layer 2
+3055,Juan Perez,,245,1,Layer 2
+3056,Ana Silva,2026-02-12,245,0,Layer 2
+3057,Luis Torres,,414,1,Layer 1
+3058,Luis Torres,,2,1,Software
+3059,Juan Perez,2026-01-30,413,0,Configuration
+3060,Luis Torres,2026-02-16,292,1,Software
+3061,Ana Silva,,245,1,Layer 2
+3062,Maria Lopez,,245,0,Software
+3063,Pedro Marmol,2026-01-18,200,0,Software
+3064,Maria Lopez,,472,1,Software
+3065,Pedro Marmol,2026-01-20,125,1,Layer 1
+3066,Maria Lopez,,245,1,Configuration
+3067,Carlos Ruiz,,245,1,Layer 2
+3068,Maria Lopez,2026-02-07,425,1,Layer 1
+3069,Ana Silva,2026-02-02,473,1,Layer 2
+3070,Maria Lopez,2026-01-17,245,1,Configuration
+3071,Luis Torres,,408,0,Configuration
+3072,Carlos Ruiz,2026-01-25,490,0,Layer 1
+3073,Luis Torres,,245,0,Software
+3074,Juan Perez,,245,1,Software
+3075,Luis Torres,,245,1,Software
+3076,Ana Silva,,329,1,Configuration
+3077,Ana Silva,,395,0,Software
+3078,Juan Perez,,325,0,Software
+3079,Luis Torres,2026-01-29,228,1,Layer 2
+3080,Carlos Ruiz,,103,1,Layer 1
+3081,Pedro Marmol,,271,1,Layer 2
+3082,Luis Torres,2026-02-04,325,0,Configuration
+3083,Luis Torres,,239,0,Layer 2
+3084,Luis Torres,2026-02-07,263,0,Layer 1
+3085,Maria Lopez,,245,1,Layer 2
+3086,Juan Perez,,343,1,Layer 2
+3087,Carlos Ruiz,,486,1,Layer 2
+3088,Luis Torres,,215,1,Layer 1
+3089,Ana Silva,,275,1,Layer 1
+3090,Juan Perez,,68,1,Layer 2
+3091,Juan Perez,2026-01-22,130,1,Software
+3092,Carlos Ruiz,,377,0,Layer 1
+3093,Juan Perez,,16,0,Layer 2
+3094,Maria Lopez,,68,0,Layer 2
+3095,Luis Torres,,82,0,Configuration
+3096,Maria Lopez,,417,1,Layer 1
+3097,Juan Perez,,245,1,Layer 2
+3098,Pedro Marmol,,221,1,Layer 2
+3099,Juan Perez,,395,1,Layer 1
+3100,Pedro Marmol,,245,0,Layer 1
+3101,Carlos Ruiz,,392,0,Layer 2
+3102,Juan Perez,,473,1,Layer 1
+3103,Luis Torres,2026-01-26,53,1,Software
+3104,Carlos Ruiz,,369,1,Layer 1
+3105,Ana Silva,2026-01-30,320,1,Configuration
+3106,Juan Perez,2026-01-20,295,0,Software
+3107,Ana Silva,2026-02-14,245,1,Layer 1
+3108,Ana Silva,,245,0,Configuration
+3109,Ana Silva,,105,1,Software
+3110,Ana Silva,,2,0,Configuration
+3111,Maria Lopez,,448,1,Layer 2
+3112,Maria Lopez,2026-01-22,245,1,Configuration
+3113,Juan Perez,,384,0,Layer 1
+3114,Luis Torres,,53,0,Layer 1
+3115,Pedro Marmol,,431,0,Layer 1
+3116,Carlos Ruiz,,199,1,Layer 2
+3117,Pedro Marmol,,445,1,Configuration
+3118,Juan Perez,2026-02-10,109,1,Software
+3119,Carlos Ruiz,,428,1,Configuration
+3120,Juan Perez,,245,1,Configuration
+3121,Maria Lopez,,90,0,Configuration
+3122,Maria Lopez,2026-02-13,426,1,Layer 1
+3123,Luis Torres,,263,0,Layer 2
+3124,Maria Lopez,,316,0,Layer 2
+3125,Maria Lopez,2026-02-13,406,0,Layer 2
+3126,Ana Silva,2026-01-27,313,0,Configuration
+3127,Pedro Marmol,,228,0,Layer 2
+3128,Carlos Ruiz,,42,1,Configuration
+3129,Ana Silva,,373,0,Layer 2
+3130,Ana Silva,,245,0,Layer 1
+3131,Maria Lopez,,266,1,Layer 1
+3132,Juan Perez,,73,1,Layer 1
+3133,Juan Perez,,379,1,Software
+3134,Pedro Marmol,,245,0,Configuration
+3135,Juan Perez,,245,1,Configuration
+3136,Maria Lopez,,360,0,Software
+3137,Ana Silva,,118,1,Layer 2
+3138,Maria Lopez,,386,0,Layer 2
+3139,Ana Silva,,411,1,Configuration
+3140,Carlos Ruiz,,150,0,Layer 2
+3141,Luis Torres,,148,0,Software
+3142,Maria Lopez,2026-01-19,245,1,Layer 1
+3143,Luis Torres,,245,1,Software
+3144,Pedro Marmol,,450,1,Layer 1
+3145,Carlos Ruiz,,463,0,Layer 1
+3146,Pedro Marmol,,291,1,Configuration
+3147,Pedro Marmol,,379,0,Layer 1
+3148,Pedro Marmol,,227,1,Layer 2
+3149,Ana Silva,2026-02-16,319,0,Software
+3150,Carlos Ruiz,,261,1,Software
+3151,Carlos Ruiz,2026-01-20,428,1,Software
+3152,Luis Torres,,337,1,Layer 1
+3153,Carlos Ruiz,,342,1,Software
+3154,Juan Perez,,283,0,Software
+3155,Luis Torres,2026-02-13,212,1,Configuration
+3156,Pedro Marmol,,245,1,Configuration
+3157,Carlos Ruiz,2026-02-10,159,0,Software
+3158,Pedro Marmol,2026-01-21,142,1,Layer 2
+3159,Ana Silva,,129,1,Software
+3160,Luis Torres,,155,1,Software
+3161,Maria Lopez,,371,0,Software
+3162,Ana Silva,2026-02-08,127,1,Layer 2
+3163,Carlos Ruiz,,50,1,Configuration
+3164,Luis Torres,,94,0,Layer 2
+3165,Maria Lopez,,101,1,Software
+3166,Pedro Marmol,,245,1,Configuration
+3167,Pedro Marmol,2026-02-08,81,0,Layer 2
+3168,Pedro Marmol,,69,1,Configuration
+3169,Luis Torres,,115,0,Configuration
+3170,Carlos Ruiz,,424,1,Configuration
+3171,Juan Perez,,167,1,Configuration
+3172,Juan Perez,,114,1,Layer 1
+3173,Luis Torres,,359,1,Software
+3174,Pedro Marmol,,120,0,Software
+3175,Ana Silva,,245,1,Configuration
+3176,Maria Lopez,2026-01-20,452,1,Layer 2
+3177,Maria Lopez,,173,1,Layer 2
+3178,Carlos Ruiz,,483,0,Layer 1
+3179,Ana Silva,,241,1,Layer 2
+3180,Maria Lopez,,483,0,Layer 1
+3181,Carlos Ruiz,,375,0,Configuration
+3182,Pedro Marmol,,420,1,Layer 1
+3183,Pedro Marmol,2026-02-05,401,0,Software
+3184,Juan Perez,2026-02-06,245,1,Configuration
+3185,Ana Silva,2026-01-20,245,0,Layer 1
+3186,Juan Perez,,306,1,Layer 2
+3187,Maria Lopez,,458,1,Configuration
+3188,Ana Silva,,147,0,Layer 2
+3189,Maria Lopez,,214,1,Layer 2
+3190,Ana Silva,,245,0,Software
+3191,Ana Silva,,245,1,Layer 2
+3192,Luis Torres,,416,1,Software
+3193,Carlos Ruiz,,38,1,Layer 1
+3194,Carlos Ruiz,2026-02-09,26,0,Configuration
+3195,Pedro Marmol,,417,1,Layer 1
+3196,Maria Lopez,,68,1,Configuration
+3197,Pedro Marmol,2026-01-24,59,0,Layer 1
+3198,Luis Torres,,52,1,Software
+3199,Luis Torres,,347,0,Software
+3200,Juan Perez,2026-02-10,44,1,Layer 1
+3201,Carlos Ruiz,,371,0,Software
+3202,Carlos Ruiz,,245,1,Layer 2
+3203,Ana Silva,,245,1,Configuration
+3204,Ana Silva,,245,0,Layer 2
+3205,Luis Torres,,196,1,Configuration
+3206,Ana Silva,2026-02-02,231,0,Layer 1
+3207,Carlos Ruiz,,353,1,Layer 2
+3208,Pedro Marmol,,245,0,Layer 2
+3209,Carlos Ruiz,,317,1,Layer 2
+3210,Carlos Ruiz,2026-02-07,248,1,Configuration
+3211,Pedro Marmol,,245,1,Software
+3212,Carlos Ruiz,,87,0,Layer 1
+3213,Pedro Marmol,,245,1,Software
+3214,Maria Lopez,,69,1,Layer 1
+3215,Pedro Marmol,,21,0,Configuration
+3216,Maria Lopez,,25,0,Layer 1
+3217,Carlos Ruiz,,120,1,Software
+3218,Pedro Marmol,,99,1,Layer 2
+3219,Pedro Marmol,2026-02-16,379,0,Layer 2
+3220,Carlos Ruiz,,114,1,Software
+3221,Ana Silva,,257,1,Layer 2
+3222,Pedro Marmol,,245,1,Configuration
+3223,Carlos Ruiz,,239,0,Configuration
+3224,Luis Torres,,320,1,Layer 2
+3225,Ana Silva,2026-02-15,466,0,Software
+3226,Juan Perez,,159,1,Configuration
+3227,Ana Silva,,271,1,Configuration
+3228,Juan Perez,,435,1,Software
+3229,Ana Silva,,245,0,Software
+3230,Maria Lopez,2026-01-25,245,0,Configuration
+3231,Ana Silva,2026-02-01,247,0,Layer 2
+3232,Pedro Marmol,,378,0,Layer 1
+3233,Carlos Ruiz,,283,1,Software
+3234,Juan Perez,,490,1,Software
+3235,Carlos Ruiz,2026-02-11,349,1,Layer 2
+3236,Ana Silva,,388,0,Layer 1
+3237,Juan Perez,,92,0,Layer 1
+3238,Juan Perez,,321,1,Layer 2
+3239,Carlos Ruiz,,2,1,Software
+3240,Maria Lopez,,72,0,Configuration
+3241,Pedro Marmol,,367,1,Layer 2
+3242,Maria Lopez,,370,0,Layer 1
+3243,Ana Silva,2026-02-08,374,0,Configuration
+3244,Luis Torres,,175,0,Software
+3245,Juan Perez,2026-01-19,185,0,Software
+3246,Juan Perez,,224,1,Layer 1
+3247,Ana Silva,,365,1,Layer 1
+3248,Maria Lopez,2026-02-09,27,1,Software
+3249,Carlos Ruiz,,300,0,Configuration
+3250,Ana Silva,,245,0,Layer 1
+3251,Carlos Ruiz,,491,1,Layer 2
+3252,Luis Torres,,245,1,Configuration
+3253,Luis Torres,,306,1,Layer 1
+3254,Pedro Marmol,,148,1,Layer 2
+3255,Luis Torres,,149,1,Layer 1
+3256,Ana Silva,,262,0,Software
+3257,Ana Silva,,151,0,Configuration
+3258,Pedro Marmol,,245,0,Layer 1
+3259,Juan Perez,,90,0,Configuration
+3260,Ana Silva,,464,1,Layer 1
+3261,Pedro Marmol,,303,1,Software
+3262,Pedro Marmol,,16,0,Layer 2
+3263,Ana Silva,,413,0,Layer 2
+3264,Luis Torres,,448,1,Layer 2
+3265,Ana Silva,2026-01-31,245,0,Software
+3266,Pedro Marmol,,262,1,Layer 2
+3267,Carlos Ruiz,,58,1,Configuration
+3268,Pedro Marmol,,284,0,Configuration
+3269,Maria Lopez,,54,1,Configuration
+3270,Carlos Ruiz,,438,1,Layer 2
+3271,Juan Perez,,245,0,Software
+3272,Luis Torres,2026-02-15,245,0,Configuration
+3273,Juan Perez,,475,0,Software
+3274,Carlos Ruiz,,126,0,Layer 1
+3275,Maria Lopez,,361,1,Layer 2
+3276,Maria Lopez,,61,1,Layer 2
+3277,Luis Torres,,148,1,Software
+3278,Juan Perez,,289,1,Layer 2
+3279,Ana Silva,2026-02-06,180,1,Layer 1
+3280,Juan Perez,,437,1,Configuration
+3281,Ana Silva,,247,1,Software
+3282,Carlos Ruiz,,245,1,Layer 1
+3283,Carlos Ruiz,,434,0,Layer 2
+3284,Juan Perez,2026-02-13,245,1,Software
+3285,Ana Silva,,95,0,Software
+3286,Juan Perez,2026-02-04,336,1,Layer 1
+3287,Pedro Marmol,,245,1,Layer 1
+3288,Ana Silva,,166,0,Configuration
+3289,Ana Silva,,339,0,Layer 2
+3290,Ana Silva,,149,0,Configuration
+3291,Luis Torres,2026-02-14,319,1,Configuration
+3292,Maria Lopez,,242,0,Layer 2
+3293,Pedro Marmol,2026-02-09,268,0,Software
+3294,Ana Silva,2026-01-17,181,0,Layer 2
+3295,Ana Silva,,41,1,Software
+3296,Carlos Ruiz,,428,0,Software
+3297,Ana Silva,,290,1,Software
+3298,Luis Torres,,170,1,Layer 2
+3299,Juan Perez,2026-01-28,251,0,Software
+3300,Maria Lopez,,290,0,Configuration
+3301,Luis Torres,,69,1,Configuration
+3302,Ana Silva,,374,1,Layer 2
+3303,Maria Lopez,,245,0,Layer 1
+3304,Luis Torres,,142,1,Layer 2
+3305,Pedro Marmol,,245,0,Layer 1
+3306,Ana Silva,,305,0,Software
+3307,Juan Perez,,146,1,Configuration
+3308,Carlos Ruiz,,245,0,Software
+3309,Juan Perez,,245,0,Software
+3310,Juan Perez,,260,0,Layer 1
+3311,Pedro Marmol,,187,1,Layer 1
+3312,Juan Perez,2026-02-08,217,0,Software
+3313,Maria Lopez,,301,1,Layer 2
+3314,Ana Silva,,106,1,Software
+3315,Ana Silva,2026-02-13,245,0,Layer 1
+3316,Carlos Ruiz,2026-02-10,245,0,Configuration
+3317,Maria Lopez,2026-01-22,185,0,Software
+3318,Pedro Marmol,,60,1,Layer 2
+3319,Pedro Marmol,,426,0,Configuration
+3320,Pedro Marmol,,358,0,Layer 1
+3321,Ana Silva,,453,1,Software
+3322,Ana Silva,,245,1,Layer 2
+3323,Pedro Marmol,,100,0,Layer 2
+3324,Pedro Marmol,,150,1,Layer 1
+3325,Pedro Marmol,,124,0,Configuration
+3326,Luis Torres,2026-02-08,308,1,Layer 1
+3327,Pedro Marmol,,245,1,Layer 1
+3328,Pedro Marmol,,245,1,Configuration
+3329,Pedro Marmol,,179,0,Configuration
+3330,Pedro Marmol,,53,0,Software
+3331,Luis Torres,,79,0,Software
+3332,Carlos Ruiz,2026-01-28,6,1,Configuration
+3333,Luis Torres,,245,1,Layer 2
+3334,Ana Silva,,245,0,Software
+3335,Maria Lopez,,245,1,Layer 1
+3336,Juan Perez,,70,0,Layer 2
+3337,Juan Perez,,70,1,Software
+3338,Maria Lopez,,340,0,Layer 1
+3339,Pedro Marmol,2026-01-28,437,0,Layer 1
+3340,Pedro Marmol,,245,1,Software
+3341,Ana Silva,,470,0,Layer 1
+3342,Juan Perez,,452,1,Layer 1
+3343,Luis Torres,,444,1,Layer 1
+3344,Juan Perez,,204,0,Layer 2
+3345,Ana Silva,,245,1,Configuration
+3346,Pedro Marmol,,282,1,Layer 1
+3347,Pedro Marmol,2026-02-03,205,0,Software
+3348,Luis Torres,,450,0,Layer 1
+3349,Luis Torres,,80,1,Software
+3350,Luis Torres,,245,1,Layer 1
+3351,Luis Torres,,474,1,Layer 2
+3352,Ana Silva,2026-02-09,93,1,Software
+3353,Pedro Marmol,,481,0,Software
+3354,Carlos Ruiz,2026-02-09,87,1,Configuration
+3355,Maria Lopez,,99,1,Software
+3356,Juan Perez,,40,0,Layer 1
+3357,Luis Torres,,109,0,Configuration
+3358,Ana Silva,,38,1,Software
+3359,Juan Perez,,245,1,Configuration
+3360,Juan Perez,,387,1,Configuration
+3361,Maria Lopez,,48,0,Configuration
+3362,Juan Perez,,80,1,Configuration
+3363,Luis Torres,,148,1,Software
+3364,Pedro Marmol,,225,1,Layer 1
+3365,Ana Silva,2026-02-10,424,1,Configuration
+3366,Maria Lopez,,35,1,Layer 2
+3367,Ana Silva,,245,0,Configuration
+3368,Maria Lopez,,245,1,Layer 2
+3369,Ana Silva,,75,0,Layer 1
+3370,Pedro Marmol,2026-02-06,245,1,Configuration
+3371,Pedro Marmol,,245,1,Software
+3372,Maria Lopez,,103,0,Layer 1
+3373,Maria Lopez,2026-01-24,80,0,Layer 1
+3374,Ana Silva,,245,1,Layer 2
+3375,Ana Silva,2026-01-31,464,1,Layer 1
+3376,Carlos Ruiz,2026-02-01,97,0,Software
+3377,Luis Torres,,245,0,Layer 2
+3378,Juan Perez,2026-02-16,325,0,Configuration
+3379,Luis Torres,2026-02-13,385,1,Layer 2
+3380,Juan Perez,,13,1,Software
+3381,Maria Lopez,,245,0,Software
+3382,Ana Silva,,245,0,Configuration
+3383,Luis Torres,,110,1,Layer 1
+3384,Juan Perez,,245,0,Layer 1
+3385,Carlos Ruiz,2026-01-28,116,1,Layer 2
+3386,Juan Perez,,157,1,Layer 2
+3387,Maria Lopez,,368,1,Layer 2
+3388,Carlos Ruiz,2026-02-11,414,0,Layer 1
+3389,Maria Lopez,,209,0,Layer 2
+3390,Carlos Ruiz,,365,1,Layer 2
+3391,Maria Lopez,,303,1,Layer 1
+3392,Juan Perez,2026-02-06,245,1,Configuration
+3393,Juan Perez,2026-02-13,425,0,Software
+3394,Ana Silva,2026-01-18,81,0,Layer 2
+3395,Juan Perez,,115,0,Layer 1
+3396,Carlos Ruiz,,144,0,Configuration
+3397,Juan Perez,,405,1,Software
+3398,Maria Lopez,,241,1,Layer 2
+3399,Carlos Ruiz,,245,0,Layer 2
+3400,Pedro Marmol,,139,1,Software
+3401,Luis Torres,,58,1,Software
+3402,Maria Lopez,2026-01-26,429,0,Layer 1
+3403,Juan Perez,2026-01-31,342,0,Software
+3404,Luis Torres,,47,0,Layer 2
+3405,Carlos Ruiz,2026-02-05,270,0,Software
+3406,Luis Torres,,180,0,Layer 1
+3407,Luis Torres,,216,1,Configuration
+3408,Pedro Marmol,,144,1,Configuration
+3409,Ana Silva,,143,0,Layer 2
+3410,Luis Torres,,98,1,Software
+3411,Luis Torres,,245,0,Configuration
+3412,Pedro Marmol,,245,0,Configuration
+3413,Pedro Marmol,2026-02-04,494,1,Software
+3414,Ana Silva,2026-02-09,27,1,Layer 2
+3415,Pedro Marmol,,245,0,Software
+3416,Pedro Marmol,,94,0,Software
+3417,Carlos Ruiz,2026-02-02,245,0,Configuration
+3418,Carlos Ruiz,2026-02-06,249,1,Layer 2
+3419,Maria Lopez,,491,0,Software
+3420,Pedro Marmol,2026-01-17,150,1,Layer 2
+3421,Ana Silva,2026-02-11,369,0,Layer 2
+3422,Ana Silva,,2,0,Software
+3423,Maria Lopez,2026-02-13,342,0,Configuration
+3424,Pedro Marmol,,67,1,Layer 1
+3425,Maria Lopez,,57,1,Layer 1
+3426,Pedro Marmol,,82,1,Layer 2
+3427,Luis Torres,,97,1,Layer 1
+3428,Carlos Ruiz,2026-01-27,17,1,Layer 2
+3429,Luis Torres,2026-02-06,16,1,Configuration
+3430,Ana Silva,,444,0,Layer 1
+3431,Maria Lopez,,321,1,Software
+3432,Juan Perez,,341,0,Layer 2
+3433,Juan Perez,,80,0,Layer 1
+3434,Carlos Ruiz,,489,1,Configuration
+3435,Carlos Ruiz,,132,0,Configuration
+3436,Pedro Marmol,2026-02-04,20,0,Software
+3437,Carlos Ruiz,,199,0,Layer 1
+3438,Pedro Marmol,,245,1,Configuration
+3439,Maria Lopez,,296,1,Layer 2
+3440,Juan Perez,,133,1,Layer 2
+3441,Maria Lopez,,470,1,Layer 2
+3442,Juan Perez,2026-01-23,174,1,Software
+3443,Maria Lopez,,465,1,Layer 2
+3444,Juan Perez,,124,1,Layer 2
+3445,Carlos Ruiz,,9,1,Layer 1
+3446,Carlos Ruiz,2026-01-20,5,1,Layer 1
+3447,Ana Silva,,454,1,Layer 2
+3448,Pedro Marmol,,440,1,Layer 2
+3449,Ana Silva,2026-02-07,435,1,Layer 2
+3450,Pedro Marmol,2026-01-22,51,1,Layer 2
+3451,Carlos Ruiz,,291,0,Software
+3452,Carlos Ruiz,,208,0,Software
+3453,Luis Torres,,478,1,Layer 1
+3454,Luis Torres,,245,1,Layer 2
+3455,Maria Lopez,,245,0,Software
+3456,Luis Torres,,444,0,Software
+3457,Carlos Ruiz,2026-01-22,461,0,Software
+3458,Ana Silva,,374,1,Layer 1
+3459,Carlos Ruiz,,473,1,Software
+3460,Luis Torres,2026-01-25,111,0,Configuration
+3461,Luis Torres,,283,0,Layer 1
+3462,Luis Torres,,245,0,Software
+3463,Carlos Ruiz,,369,1,Software
+3464,Pedro Marmol,,150,0,Layer 1
+3465,Maria Lopez,,43,0,Software
+3466,Ana Silva,,245,0,Layer 2
+3467,Juan Perez,2026-02-03,233,1,Layer 1
+3468,Pedro Marmol,,393,0,Layer 2
+3469,Pedro Marmol,,21,1,Configuration
+3470,Pedro Marmol,,257,0,Layer 1
+3471,Juan Perez,2026-02-12,285,1,Layer 2
+3472,Luis Torres,,343,1,Configuration
+3473,Maria Lopez,2026-01-21,143,0,Software
+3474,Maria Lopez,,245,0,Layer 1
+3475,Pedro Marmol,,418,0,Layer 1
+3476,Maria Lopez,,296,0,Software
+3477,Luis Torres,2026-02-14,188,1,Layer 2
+3478,Carlos Ruiz,,165,1,Layer 1
+3479,Pedro Marmol,,109,1,Layer 2
+3480,Carlos Ruiz,,312,1,Configuration
+3481,Pedro Marmol,,50,0,Configuration
+3482,Luis Torres,,40,0,Software
+3483,Carlos Ruiz,2026-02-06,451,1,Layer 2
+3484,Maria Lopez,,245,1,Software
+3485,Ana Silva,,245,0,Layer 2
+3486,Carlos Ruiz,,184,0,Configuration
+3487,Maria Lopez,2026-02-08,382,1,Layer 2
+3488,Pedro Marmol,,245,0,Layer 1
+3489,Luis Torres,,245,0,Layer 2
+3490,Carlos Ruiz,2026-02-11,67,1,Software
+3491,Maria Lopez,,361,1,Configuration
+3492,Juan Perez,,245,0,Configuration
+3493,Pedro Marmol,2026-02-10,305,1,Software
+3494,Luis Torres,,152,1,Software
+3495,Pedro Marmol,2026-02-06,17,1,Layer 1
+3496,Pedro Marmol,,315,1,Layer 1
+3497,Carlos Ruiz,,136,1,Software
+3498,Pedro Marmol,,106,1,Layer 1
+3499,Juan Perez,2026-01-21,58,1,Configuration
+3500,Juan Perez,2026-01-21,277,1,Layer 1
+3501,Luis Torres,,335,0,Configuration
+3502,Carlos Ruiz,2026-02-12,164,0,Software
+3503,Ana Silva,,347,0,Software
+3504,Maria Lopez,2026-02-08,499,0,Software
+3505,Juan Perez,,324,1,Layer 1
+3506,Ana Silva,2026-01-26,335,1,Layer 1
+3507,Juan Perez,,304,1,Layer 1
+3508,Juan Perez,,56,1,Software
+3509,Ana Silva,,245,1,Configuration
+3510,Maria Lopez,,290,1,Software
+3511,Ana Silva,,245,0,Layer 2
+3512,Juan Perez,,495,1,Layer 2
+3513,Maria Lopez,2026-02-06,481,1,Software
+3514,Luis Torres,,246,1,Software
+3515,Luis Torres,,413,0,Configuration
+3516,Pedro Marmol,,441,1,Software
+3517,Maria Lopez,2026-01-20,92,1,Configuration
+3518,Maria Lopez,,104,0,Configuration
+3519,Ana Silva,,204,0,Layer 2
+3520,Luis Torres,,213,0,Software
+3521,Maria Lopez,,384,0,Software
+3522,Ana Silva,,408,1,Software
+3523,Juan Perez,2026-01-21,373,0,Layer 1
+3524,Luis Torres,,245,1,Software
+3525,Luis Torres,2026-01-17,450,0,Software
+3526,Luis Torres,,38,1,Layer 1
+3527,Carlos Ruiz,,221,1,Layer 1
+3528,Ana Silva,,98,0,Layer 1
+3529,Carlos Ruiz,,272,1,Configuration
+3530,Ana Silva,,85,1,Configuration
+3531,Carlos Ruiz,,59,0,Layer 2
+3532,Maria Lopez,,25,0,Layer 2
+3533,Luis Torres,,358,1,Software
+3534,Luis Torres,,222,1,Layer 1
+3535,Ana Silva,,404,0,Software
+3536,Maria Lopez,,386,0,Layer 1
+3537,Luis Torres,2026-02-14,245,1,Software
+3538,Juan Perez,,350,1,Configuration
+3539,Pedro Marmol,2026-01-26,228,0,Layer 2
+3540,Luis Torres,,82,1,Software
+3541,Maria Lopez,2026-02-10,254,1,Layer 2
+3542,Maria Lopez,2026-01-22,245,1,Configuration
+3543,Carlos Ruiz,,120,1,Software
+3544,Carlos Ruiz,2026-02-14,245,1,Layer 2
+3545,Carlos Ruiz,2026-02-09,428,0,Software
+3546,Luis Torres,2026-01-18,195,1,Layer 1
+3547,Maria Lopez,2026-02-10,475,0,Configuration
+3548,Maria Lopez,,11,1,Layer 2
+3549,Pedro Marmol,,72,1,Layer 2
+3550,Maria Lopez,,492,1,Configuration
+3551,Carlos Ruiz,,337,0,Layer 2
+3552,Pedro Marmol,,216,1,Layer 2
+3553,Luis Torres,,456,0,Configuration
+3554,Luis Torres,,288,1,Layer 2
+3555,Maria Lopez,,245,1,Software
+3556,Carlos Ruiz,,164,0,Software
+3557,Pedro Marmol,2026-02-02,406,0,Layer 1
+3558,Maria Lopez,,383,1,Software
+3559,Carlos Ruiz,,419,1,Software
+3560,Juan Perez,,245,1,Configuration
+3561,Maria Lopez,,281,1,Software
+3562,Maria Lopez,,303,1,Layer 2
+3563,Juan Perez,,236,1,Software
+3564,Juan Perez,2026-02-09,245,1,Configuration
+3565,Juan Perez,,49,1,Layer 2
+3566,Pedro Marmol,,410,1,Layer 1
+3567,Luis Torres,,270,0,Layer 1
+3568,Pedro Marmol,,56,1,Layer 1
+3569,Ana Silva,,215,1,Configuration
+3570,Maria Lopez,,313,1,Layer 2
+3571,Pedro Marmol,,245,1,Layer 2
+3572,Luis Torres,,413,0,Configuration
+3573,Carlos Ruiz,,337,0,Layer 1
+3574,Ana Silva,2026-01-17,245,1,Software
+3575,Luis Torres,2026-02-01,497,0,Layer 1
+3576,Ana Silva,,261,1,Configuration
+3577,Luis Torres,,180,1,Software
+3578,Ana Silva,,291,1,Layer 1
+3579,Ana Silva,,33,0,Software
+3580,Carlos Ruiz,,121,1,Layer 1
+3581,Ana Silva,,70,1,Configuration
+3582,Pedro Marmol,2026-02-08,249,0,Layer 1
+3583,Luis Torres,2026-02-07,374,0,Configuration
+3584,Pedro Marmol,,407,1,Software
+3585,Luis Torres,2026-02-02,354,0,Layer 1
+3586,Pedro Marmol,,325,0,Layer 1
+3587,Maria Lopez,,367,1,Configuration
+3588,Maria Lopez,,275,0,Configuration
+3589,Carlos Ruiz,2026-02-14,437,1,Layer 1
+3590,Carlos Ruiz,,29,1,Configuration
+3591,Juan Perez,2026-01-30,365,0,Layer 2
+3592,Ana Silva,,23,1,Software
+3593,Ana Silva,,299,1,Software
+3594,Maria Lopez,,309,1,Configuration
+3595,Carlos Ruiz,,463,0,Software
+3596,Luis Torres,,245,0,Configuration
+3597,Luis Torres,,272,0,Software
+3598,Luis Torres,,76,1,Layer 2
+3599,Ana Silva,2026-01-30,50,1,Software
+3600,Pedro Marmol,,31,1,Layer 1
+3601,Carlos Ruiz,,245,0,Layer 1
+3602,Ana Silva,,483,0,Layer 1
+3603,Juan Perez,,173,0,Software
+3604,Maria Lopez,,255,1,Layer 2
+3605,Maria Lopez,,272,0,Software
+3606,Carlos Ruiz,,337,0,Layer 2
+3607,Pedro Marmol,,189,0,Layer 2
+3608,Juan Perez,2026-01-27,112,1,Layer 1
+3609,Pedro Marmol,,25,0,Layer 2
+3610,Luis Torres,,245,1,Layer 2
+3611,Pedro Marmol,2026-01-20,301,1,Layer 2
+3612,Carlos Ruiz,,433,1,Configuration
+3613,Maria Lopez,2026-02-01,76,0,Configuration
+3614,Maria Lopez,,454,1,Layer 1
+3615,Carlos Ruiz,2026-01-30,221,0,Software
+3616,Ana Silva,,203,1,Layer 1
+3617,Ana Silva,,94,1,Layer 1
+3618,Maria Lopez,,245,1,Configuration
+3619,Luis Torres,,354,1,Layer 1
+3620,Juan Perez,,429,1,Layer 2
+3621,Ana Silva,,245,0,Software
+3622,Carlos Ruiz,,50,1,Layer 2
+3623,Juan Perez,,18,0,Software
+3624,Maria Lopez,,245,1,Configuration
+3625,Juan Perez,,233,0,Software
+3626,Luis Torres,,444,0,Layer 1
+3627,Ana Silva,,327,1,Software
+3628,Luis Torres,2026-02-02,318,1,Configuration
+3629,Maria Lopez,,483,0,Layer 2
+3630,Luis Torres,,469,1,Layer 1
+3631,Pedro Marmol,2026-02-02,112,1,Software
+3632,Maria Lopez,,111,1,Layer 2
+3633,Luis Torres,,45,1,Layer 2
+3634,Pedro Marmol,2026-02-10,245,1,Software
+3635,Pedro Marmol,,284,0,Configuration
+3636,Carlos Ruiz,,131,1,Layer 2
+3637,Ana Silva,,245,0,Layer 1
+3638,Maria Lopez,,7,1,Configuration
+3639,Luis Torres,,496,0,Layer 1
+3640,Luis Torres,,498,1,Layer 2
+3641,Juan Perez,2026-01-31,379,1,Layer 1
+3642,Ana Silva,,180,0,Layer 2
+3643,Juan Perez,2026-01-29,183,0,Layer 1
+3644,Luis Torres,,204,1,Configuration
+3645,Juan Perez,,245,1,Layer 2
+3646,Juan Perez,,447,0,Configuration
+3647,Ana Silva,2026-02-09,143,1,Layer 2
+3648,Maria Lopez,,36,1,Configuration
+3649,Juan Perez,2026-02-05,217,1,Layer 2
+3650,Luis Torres,,314,0,Configuration
+3651,Carlos Ruiz,,80,1,Layer 1
+3652,Ana Silva,,480,1,Configuration
+3653,Pedro Marmol,2026-01-28,178,1,Configuration
+3654,Juan Perez,2026-01-22,483,1,Layer 2
+3655,Maria Lopez,,255,1,Layer 2
+3656,Carlos Ruiz,2026-02-14,253,1,Software
+3657,Carlos Ruiz,,461,1,Configuration
+3658,Juan Perez,,327,0,Layer 2
+3659,Juan Perez,,131,1,Layer 2
+3660,Luis Torres,,241,1,Software
+3661,Pedro Marmol,,382,1,Layer 2
+3662,Juan Perez,,402,1,Layer 1
+3663,Juan Perez,,143,0,Layer 1
+3664,Juan Perez,,103,0,Configuration
+3665,Luis Torres,,353,1,Configuration
+3666,Maria Lopez,,411,1,Layer 1
+3667,Juan Perez,,139,0,Configuration
+3668,Maria Lopez,,343,0,Layer 1
+3669,Juan Perez,,245,0,Layer 2
+3670,Maria Lopez,,3,1,Software
+3671,Luis Torres,,499,0,Layer 1
+3672,Juan Perez,,376,1,Layer 2
+3673,Pedro Marmol,,148,0,Layer 2
+3674,Carlos Ruiz,2026-02-02,19,1,Configuration
+3675,Pedro Marmol,,357,0,Software
+3676,Juan Perez,2026-01-18,284,0,Layer 1
+3677,Ana Silva,2026-01-22,62,1,Layer 1
+3678,Luis Torres,,473,1,Software
+3679,Maria Lopez,2026-01-29,245,1,Configuration
+3680,Ana Silva,2026-01-19,79,1,Layer 1
+3681,Carlos Ruiz,,33,1,Software
+3682,Pedro Marmol,,245,0,Layer 1
+3683,Pedro Marmol,,146,1,Software
+3684,Pedro Marmol,,245,0,Layer 2
+3685,Carlos Ruiz,,456,0,Configuration
+3686,Ana Silva,,142,0,Software
+3687,Maria Lopez,,296,0,Layer 1
+3688,Luis Torres,2026-01-23,410,0,Layer 1
+3689,Carlos Ruiz,,494,0,Layer 2
+3690,Juan Perez,2026-01-27,448,0,Software
+3691,Juan Perez,,404,0,Configuration
+3692,Pedro Marmol,,176,1,Configuration
+3693,Maria Lopez,,63,0,Layer 1
+3694,Maria Lopez,,74,1,Layer 1
+3695,Pedro Marmol,,93,0,Configuration
+3696,Luis Torres,2026-02-02,114,1,Software
+3697,Pedro Marmol,,95,0,Configuration
+3698,Carlos Ruiz,2026-02-03,362,0,Configuration
+3699,Ana Silva,,317,0,Layer 2
+3700,Ana Silva,,120,0,Configuration
+3701,Juan Perez,2026-02-08,219,0,Software
+3702,Carlos Ruiz,2026-02-02,234,0,Layer 1
+3703,Juan Perez,,113,1,Layer 1
+3704,Maria Lopez,,245,0,Layer 1
+3705,Pedro Marmol,,56,1,Layer 1
+3706,Pedro Marmol,,91,1,Layer 2
+3707,Maria Lopez,,437,0,Software
+3708,Carlos Ruiz,,375,1,Layer 2
+3709,Juan Perez,2026-02-08,16,0,Configuration
+3710,Luis Torres,,165,1,Layer 2
+3711,Juan Perez,,210,1,Software
+3712,Juan Perez,,491,0,Layer 2
+3713,Pedro Marmol,,245,1,Layer 1
+3714,Maria Lopez,,229,0,Configuration
+3715,Maria Lopez,2026-02-16,304,1,Configuration
+3716,Carlos Ruiz,,305,1,Layer 1
+3717,Juan Perez,,164,1,Layer 2
+3718,Pedro Marmol,,185,0,Software
+3719,Pedro Marmol,,245,0,Layer 2
+3720,Ana Silva,,446,0,Software
+3721,Ana Silva,,269,1,Layer 1
+3722,Juan Perez,,245,0,Configuration
+3723,Pedro Marmol,,296,1,Configuration
+3724,Luis Torres,,462,1,Software
+3725,Maria Lopez,,159,1,Configuration
+3726,Carlos Ruiz,,245,1,Layer 1
+3727,Ana Silva,,488,1,Layer 1
+3728,Pedro Marmol,,351,1,Software
+3729,Luis Torres,,359,0,Software
+3730,Carlos Ruiz,,402,1,Layer 2
+3731,Luis Torres,2026-01-18,69,0,Software
+3732,Luis Torres,,217,1,Layer 1
+3733,Maria Lopez,,381,0,Software
+3734,Luis Torres,,163,0,Layer 1
+3735,Maria Lopez,,39,1,Layer 1
+3736,Luis Torres,,245,0,Layer 2
+3737,Pedro Marmol,,183,1,Layer 1
+3738,Maria Lopez,,189,1,Layer 2
+3739,Luis Torres,2026-02-07,245,0,Layer 1
+3740,Pedro Marmol,,105,1,Software
+3741,Juan Perez,2026-01-24,200,1,Configuration
+3742,Juan Perez,,245,1,Software
+3743,Carlos Ruiz,2026-01-30,245,0,Layer 2
+3744,Luis Torres,,489,1,Layer 2
+3745,Juan Perez,,318,1,Software
+3746,Carlos Ruiz,,481,1,Layer 1
+3747,Carlos Ruiz,2026-01-21,313,0,Software
+3748,Juan Perez,,301,1,Software
+3749,Ana Silva,,340,1,Configuration
+3750,Pedro Marmol,,296,0,Software
+3751,Pedro Marmol,,10,0,Configuration
+3752,Carlos Ruiz,,375,0,Configuration
+3753,Ana Silva,,155,0,Layer 2
+3754,Ana Silva,,365,0,Software
+3755,Ana Silva,2026-02-10,196,1,Software
+3756,Pedro Marmol,,472,0,Configuration
+3757,Luis Torres,,309,0,Software
+3758,Ana Silva,,259,0,Software
+3759,Juan Perez,2026-02-13,36,1,Layer 2
+3760,Luis Torres,2026-02-03,468,1,Layer 1
+3761,Pedro Marmol,,358,0,Layer 2
+3762,Maria Lopez,,296,0,Configuration
+3763,Maria Lopez,,246,1,Configuration
+3764,Juan Perez,2026-02-02,460,0,Configuration
+3765,Juan Perez,,34,0,Layer 1
+3766,Pedro Marmol,2026-02-05,62,1,Software
+3767,Carlos Ruiz,,250,1,Layer 2
+3768,Maria Lopez,,173,1,Layer 2
+3769,Carlos Ruiz,2026-02-10,155,1,Software
+3770,Luis Torres,,197,1,Configuration
+3771,Juan Perez,2026-01-29,245,0,Software
+3772,Luis Torres,,245,1,Configuration
+3773,Pedro Marmol,2026-01-21,12,1,Layer 2
+3774,Luis Torres,,173,1,Configuration
+3775,Pedro Marmol,2026-02-16,76,0,Layer 1
+3776,Luis Torres,,459,1,Configuration
+3777,Pedro Marmol,2026-02-10,124,0,Configuration
+3778,Juan Perez,,325,0,Layer 1
+3779,Ana Silva,2026-01-29,20,1,Layer 1
+3780,Maria Lopez,,313,1,Software
+3781,Pedro Marmol,,253,0,Configuration
+3782,Ana Silva,,106,1,Layer 1
+3783,Maria Lopez,,245,0,Configuration
+3784,Pedro Marmol,2026-02-16,260,0,Configuration
+3785,Maria Lopez,,17,1,Layer 2
+3786,Maria Lopez,,393,1,Software
+3787,Carlos Ruiz,2026-02-10,313,0,Configuration
+3788,Luis Torres,,79,0,Layer 1
+3789,Juan Perez,,404,1,Configuration
+3790,Ana Silva,,327,1,Software
+3791,Luis Torres,,116,0,Software
+3792,Juan Perez,,186,1,Layer 1
+3793,Ana Silva,,109,0,Layer 1
+3794,Juan Perez,,219,0,Software
+3795,Ana Silva,2026-01-30,280,0,Configuration
+3796,Carlos Ruiz,,114,1,Software
+3797,Luis Torres,,394,0,Layer 1
+3798,Ana Silva,,336,0,Layer 2
+3799,Ana Silva,,266,1,Layer 2
+3800,Ana Silva,,253,1,Configuration
+3801,Ana Silva,2026-02-16,428,1,Configuration
+3802,Carlos Ruiz,2026-02-04,132,0,Layer 1
+3803,Pedro Marmol,2026-02-13,96,1,Configuration
+3804,Juan Perez,2026-02-15,74,0,Software
+3805,Luis Torres,,245,1,Layer 2
+3806,Carlos Ruiz,,292,1,Layer 2
+3807,Ana Silva,,65,1,Layer 2
+3808,Juan Perez,2026-01-21,472,0,Layer 1
+3809,Juan Perez,,245,0,Layer 2
+3810,Carlos Ruiz,,419,1,Configuration
+3811,Ana Silva,,245,0,Layer 2
+3812,Luis Torres,,163,0,Layer 2
+3813,Juan Perez,,245,1,Layer 2
+3814,Luis Torres,,245,0,Layer 2
+3815,Juan Perez,,342,0,Software
+3816,Maria Lopez,,130,1,Configuration
+3817,Juan Perez,,434,0,Configuration
+3818,Pedro Marmol,,260,1,Layer 1
+3819,Carlos Ruiz,,378,1,Layer 2
+3820,Maria Lopez,,51,1,Layer 2
+3821,Ana Silva,2026-01-26,358,0,Layer 2
+3822,Carlos Ruiz,2026-02-03,442,1,Software
+3823,Luis Torres,2026-01-25,5,1,Configuration
+3824,Carlos Ruiz,2026-02-01,276,1,Configuration
+3825,Juan Perez,2026-01-24,308,0,Layer 2
+3826,Ana Silva,2026-02-13,316,1,Layer 1
+3827,Juan Perez,2026-01-26,2,0,Software
+3828,Ana Silva,2026-02-16,245,1,Configuration
+3829,Pedro Marmol,,112,0,Layer 2
+3830,Pedro Marmol,,26,1,Layer 2
+3831,Juan Perez,2026-02-08,201,1,Configuration
+3832,Ana Silva,,144,0,Software
+3833,Ana Silva,2026-01-25,313,0,Layer 2
+3834,Pedro Marmol,,369,1,Configuration
+3835,Maria Lopez,,188,1,Software
+3836,Maria Lopez,,421,0,Software
+3837,Juan Perez,2026-02-14,245,0,Layer 2
+3838,Maria Lopez,,236,0,Layer 1
+3839,Luis Torres,2026-02-02,245,0,Configuration
+3840,Pedro Marmol,,450,0,Layer 2
+3841,Luis Torres,,374,1,Configuration
+3842,Maria Lopez,2026-01-25,245,0,Layer 1
+3843,Luis Torres,,245,1,Configuration
+3844,Juan Perez,2026-02-12,245,0,Software
+3845,Ana Silva,2026-02-11,258,1,Configuration
+3846,Luis Torres,,245,0,Layer 2
+3847,Maria Lopez,2026-01-30,245,1,Software
+3848,Maria Lopez,,287,1,Configuration
+3849,Pedro Marmol,,245,1,Software
+3850,Ana Silva,,93,1,Layer 1
+3851,Carlos Ruiz,,245,1,Configuration
+3852,Pedro Marmol,,165,1,Software
+3853,Carlos Ruiz,2026-01-30,245,0,Configuration
+3854,Luis Torres,2026-02-04,355,1,Layer 1
+3855,Juan Perez,2026-01-31,104,0,Software
+3856,Maria Lopez,,460,1,Software
+3857,Carlos Ruiz,,6,1,Layer 2
+3858,Juan Perez,2026-02-13,305,0,Layer 1
+3859,Pedro Marmol,,109,0,Configuration
+3860,Luis Torres,2026-02-13,322,0,Configuration
+3861,Carlos Ruiz,2026-01-18,104,1,Software
+3862,Juan Perez,,234,1,Layer 1
+3863,Maria Lopez,,245,1,Configuration
+3864,Maria Lopez,,258,1,Layer 1
+3865,Juan Perez,2026-01-30,348,1,Configuration
+3866,Ana Silva,,86,0,Software
+3867,Juan Perez,2026-01-20,59,1,Configuration
+3868,Carlos Ruiz,,245,1,Software
+3869,Pedro Marmol,,84,0,Layer 1
+3870,Pedro Marmol,,419,1,Software
+3871,Carlos Ruiz,,388,0,Software
+3872,Juan Perez,,316,1,Layer 2
+3873,Ana Silva,2026-02-01,374,0,Layer 1
+3874,Ana Silva,2026-02-16,52,1,Configuration
+3875,Juan Perez,,461,1,Layer 2
+3876,Carlos Ruiz,2026-02-13,427,0,Layer 2
+3877,Carlos Ruiz,,245,0,Configuration
+3878,Ana Silva,,50,1,Layer 1
+3879,Pedro Marmol,2026-02-10,245,1,Software
+3880,Ana Silva,2026-01-30,232,1,Layer 1
+3881,Maria Lopez,,2,1,Configuration
+3882,Luis Torres,2026-01-21,245,0,Layer 2
+3883,Maria Lopez,,217,0,Layer 1
+3884,Luis Torres,,54,1,Layer 2
+3885,Maria Lopez,2026-02-15,34,0,Layer 2
+3886,Ana Silva,,245,0,Layer 2
+3887,Luis Torres,,245,1,Software
+3888,Juan Perez,,172,1,Configuration
+3889,Maria Lopez,,348,0,Configuration
+3890,Pedro Marmol,2026-02-02,62,1,Configuration
+3891,Ana Silva,,266,1,Configuration
+3892,Pedro Marmol,,245,1,Configuration
+3893,Juan Perez,,186,1,Layer 1
+3894,Maria Lopez,,324,0,Layer 1
+3895,Pedro Marmol,,52,0,Layer 1
+3896,Pedro Marmol,2026-02-12,383,0,Software
+3897,Pedro Marmol,,299,1,Software
+3898,Carlos Ruiz,,490,1,Layer 1
+3899,Pedro Marmol,2026-02-06,266,1,Layer 2
+3900,Pedro Marmol,,75,1,Software
+3901,Luis Torres,,393,0,Configuration
+3902,Juan Perez,,204,1,Software
+3903,Maria Lopez,,221,1,Software
+3904,Ana Silva,,205,1,Software
+3905,Carlos Ruiz,,366,1,Layer 1
+3906,Luis Torres,2026-01-23,43,1,Configuration
+3907,Juan Perez,,245,1,Layer 2
+3908,Maria Lopez,,306,1,Software
+3909,Luis Torres,,128,1,Layer 2
+3910,Pedro Marmol,,320,1,Configuration
+3911,Pedro Marmol,,5,1,Layer 1
+3912,Maria Lopez,,416,1,Layer 1
+3913,Ana Silva,,195,1,Layer 1
+3914,Ana Silva,,440,1,Layer 2
+3915,Carlos Ruiz,,19,1,Layer 2
+3916,Ana Silva,,90,1,Configuration
+3917,Carlos Ruiz,,314,1,Configuration
+3918,Maria Lopez,2026-01-24,0,0,Layer 2
+3919,Carlos Ruiz,2026-02-16,148,1,Layer 2
+3920,Ana Silva,,437,0,Layer 1
+3921,Maria Lopez,,245,1,Layer 2
+3922,Luis Torres,,208,0,Software
+3923,Luis Torres,,27,0,Layer 1
+3924,Luis Torres,,70,1,Configuration
+3925,Juan Perez,,471,0,Layer 2
+3926,Juan Perez,2026-01-30,407,1,Layer 2
+3927,Carlos Ruiz,,48,0,Layer 2
+3928,Pedro Marmol,,3,0,Layer 2
+3929,Juan Perez,,139,0,Configuration
+3930,Juan Perez,2026-02-02,63,1,Configuration
+3931,Juan Perez,,71,1,Layer 2
+3932,Ana Silva,,101,0,Layer 1
+3933,Juan Perez,,148,1,Layer 2
+3934,Carlos Ruiz,,188,0,Layer 1
+3935,Ana Silva,2026-01-31,101,1,Configuration
+3936,Juan Perez,,9,0,Configuration
+3937,Luis Torres,,391,0,Software
+3938,Carlos Ruiz,,323,1,Configuration
+3939,Luis Torres,2026-01-24,369,1,Layer 2
+3940,Luis Torres,,102,0,Layer 2
+3941,Pedro Marmol,,200,1,Layer 1
+3942,Carlos Ruiz,,312,0,Configuration
+3943,Pedro Marmol,2026-02-11,49,1,Software
+3944,Luis Torres,2026-01-31,245,1,Software
+3945,Juan Perez,2026-02-06,245,1,Layer 1
+3946,Ana Silva,2026-02-05,206,1,Layer 1
+3947,Luis Torres,,233,0,Software
+3948,Pedro Marmol,2026-01-23,191,1,Configuration
+3949,Maria Lopez,,463,1,Software
+3950,Luis Torres,2026-01-25,30,1,Layer 2
+3951,Ana Silva,,336,1,Software
+3952,Carlos Ruiz,,127,1,Configuration
+3953,Ana Silva,,431,0,Layer 1
+3954,Pedro Marmol,,101,0,Layer 1
+3955,Maria Lopez,,24,0,Layer 1
+3956,Luis Torres,2026-02-13,22,1,Layer 1
+3957,Pedro Marmol,2026-02-05,245,0,Layer 1
+3958,Luis Torres,,100,1,Configuration
+3959,Carlos Ruiz,2026-01-20,395,0,Layer 2
+3960,Luis Torres,,259,0,Software
+3961,Ana Silva,,400,1,Configuration
+3962,Juan Perez,,191,1,Configuration
+3963,Carlos Ruiz,2026-01-26,245,0,Configuration
+3964,Luis Torres,,52,0,Configuration
+3965,Pedro Marmol,,2,0,Configuration
+3966,Pedro Marmol,,475,0,Layer 1
+3967,Juan Perez,,245,0,Layer 1
+3968,Luis Torres,,92,1,Layer 2
+3969,Carlos Ruiz,,390,0,Configuration
+3970,Pedro Marmol,,188,1,Layer 1
+3971,Maria Lopez,,245,0,Layer 1
+3972,Juan Perez,,245,1,Software
+3973,Ana Silva,,436,0,Layer 1
+3974,Carlos Ruiz,,26,1,Configuration
+3975,Carlos Ruiz,,36,1,Layer 2
+3976,Carlos Ruiz,,213,1,Layer 1
+3977,Ana Silva,,254,1,Layer 2
+3978,Pedro Marmol,,231,1,Layer 2
+3979,Maria Lopez,,340,1,Layer 1
+3980,Ana Silva,2026-01-23,261,1,Layer 1
+3981,Maria Lopez,,289,1,Layer 2
+3982,Juan Perez,2026-02-07,0,1,Layer 2
+3983,Carlos Ruiz,2026-01-31,26,1,Layer 2
+3984,Pedro Marmol,,261,0,Layer 2
+3985,Pedro Marmol,,142,0,Configuration
+3986,Luis Torres,,174,0,Layer 1
+3987,Carlos Ruiz,,96,0,Layer 2
+3988,Luis Torres,2026-01-30,245,0,Layer 1
+3989,Juan Perez,,6,0,Layer 2
+3990,Luis Torres,,214,1,Configuration
+3991,Maria Lopez,,245,1,Layer 1
+3992,Pedro Marmol,,481,0,Layer 2
+3993,Pedro Marmol,,310,1,Layer 2
+3994,Luis Torres,,73,1,Software
+3995,Maria Lopez,,483,0,Software
+3996,Maria Lopez,,421,0,Configuration
+3997,Pedro Marmol,,223,1,Configuration
+3998,Carlos Ruiz,,496,1,Configuration
+3999,Juan Perez,,423,1,Layer 2
+4000,Juan Perez,2026-01-21,164,1,Layer 1
+4001,Ana Silva,,245,0,Software
+4002,Juan Perez,,290,1,Layer 2
+4003,Luis Torres,,113,1,Software
+4004,Carlos Ruiz,,107,0,Layer 1
+4005,Carlos Ruiz,2026-02-12,437,1,Layer 1
+4006,Juan Perez,,68,0,Layer 1
+4007,Ana Silva,,96,0,Layer 2
+4008,Ana Silva,2026-02-07,245,0,Layer 2
+4009,Ana Silva,,500,0,Configuration
+4010,Luis Torres,2026-02-04,86,1,Layer 1
+4011,Carlos Ruiz,,103,0,Layer 2
+4012,Pedro Marmol,,178,1,Configuration
+4013,Pedro Marmol,,63,0,Layer 2
+4014,Carlos Ruiz,,461,1,Layer 1
+4015,Maria Lopez,,210,1,Configuration
+4016,Maria Lopez,,245,1,Configuration
+4017,Pedro Marmol,,173,1,Configuration
+4018,Maria Lopez,,83,1,Layer 1
+4019,Carlos Ruiz,,461,1,Layer 2
+4020,Juan Perez,,387,1,Layer 2
+4021,Pedro Marmol,,13,1,Layer 1
+4022,Pedro Marmol,,397,1,Layer 1
+4023,Maria Lopez,,396,1,Layer 1
+4024,Pedro Marmol,,137,1,Layer 1
+4025,Maria Lopez,2026-01-24,443,0,Layer 1
+4026,Maria Lopez,,7,0,Software
+4027,Pedro Marmol,,194,1,Software
+4028,Ana Silva,,328,0,Software
+4029,Maria Lopez,,178,0,Software
+4030,Juan Perez,,120,1,Layer 2
+4031,Maria Lopez,,339,0,Software
+4032,Pedro Marmol,2026-01-25,478,1,Software
+4033,Ana Silva,2026-02-07,385,0,Configuration
+4034,Juan Perez,,71,1,Layer 2
+4035,Pedro Marmol,2026-02-15,384,0,Layer 1
+4036,Ana Silva,2026-02-02,116,1,Layer 2
+4037,Juan Perez,2026-02-12,245,0,Layer 2
+4038,Maria Lopez,,327,1,Configuration
+4039,Ana Silva,2026-01-21,209,0,Layer 1
+4040,Maria Lopez,2026-01-20,214,0,Layer 2
+4041,Carlos Ruiz,,308,0,Software
+4042,Luis Torres,2026-02-14,299,1,Layer 1
+4043,Carlos Ruiz,,58,1,Layer 1
+4044,Pedro Marmol,,341,1,Configuration
+4045,Carlos Ruiz,,334,0,Software
+4046,Carlos Ruiz,,219,0,Layer 1
+4047,Carlos Ruiz,,413,1,Layer 2
+4048,Luis Torres,2026-01-26,310,1,Layer 2
+4049,Pedro Marmol,2026-01-24,104,1,Layer 1
+4050,Luis Torres,,290,1,Layer 2
+4051,Luis Torres,,245,1,Software
+4052,Carlos Ruiz,,218,1,Layer 1
+4053,Pedro Marmol,,150,1,Layer 2
+4054,Luis Torres,,476,1,Configuration
+4055,Pedro Marmol,,230,0,Layer 2
+4056,Carlos Ruiz,,336,0,Software
+4057,Maria Lopez,,122,0,Software
+4058,Ana Silva,2026-02-08,83,0,Layer 2
+4059,Ana Silva,,95,1,Layer 2
+4060,Pedro Marmol,,319,0,Software
+4061,Maria Lopez,2026-01-21,245,0,Configuration
+4062,Maria Lopez,2026-01-26,75,0,Configuration
+4063,Luis Torres,,63,1,Layer 1
+4064,Carlos Ruiz,,418,0,Layer 1
+4065,Maria Lopez,,277,0,Layer 2
+4066,Ana Silva,,363,1,Layer 2
+4067,Pedro Marmol,2026-02-04,245,0,Layer 1
+4068,Carlos Ruiz,,245,1,Configuration
+4069,Juan Perez,,8,1,Configuration
+4070,Luis Torres,,340,1,Configuration
+4071,Ana Silva,2026-01-30,245,1,Layer 2
+4072,Luis Torres,2026-01-17,284,0,Configuration
+4073,Juan Perez,,478,0,Software
+4074,Pedro Marmol,2026-01-19,349,1,Configuration
+4075,Pedro Marmol,,360,1,Layer 2
+4076,Maria Lopez,,486,1,Software
+4077,Maria Lopez,,180,0,Layer 1
+4078,Juan Perez,,245,0,Layer 2
+4079,Pedro Marmol,,245,0,Software
+4080,Ana Silva,,20,1,Layer 1
+4081,Carlos Ruiz,,100,1,Configuration
+4082,Carlos Ruiz,2026-01-25,51,0,Layer 1
+4083,Pedro Marmol,,276,1,Software
+4084,Pedro Marmol,,497,1,Layer 2
+4085,Pedro Marmol,,320,0,Software
+4086,Juan Perez,,245,1,Layer 2
+4087,Ana Silva,,160,0,Configuration
+4088,Ana Silva,,270,1,Software
+4089,Maria Lopez,,30,1,Software
+4090,Maria Lopez,,227,0,Configuration
+4091,Juan Perez,,81,0,Software
+4092,Juan Perez,2026-01-31,373,0,Layer 1
+4093,Ana Silva,,292,0,Layer 1
+4094,Pedro Marmol,,239,0,Configuration
+4095,Maria Lopez,,450,0,Configuration
+4096,Carlos Ruiz,2026-02-05,475,1,Configuration
+4097,Pedro Marmol,,245,1,Configuration
+4098,Ana Silva,,427,1,Configuration
+4099,Maria Lopez,,245,1,Layer 2
+4100,Pedro Marmol,,245,0,Layer 1
+4101,Ana Silva,,156,1,Layer 1
+4102,Juan Perez,,13,1,Layer 1
+4103,Luis Torres,,72,1,Configuration
+4104,Maria Lopez,2026-01-27,279,0,Software
+4105,Luis Torres,2026-02-04,403,1,Software
+4106,Maria Lopez,2026-01-29,101,0,Software
+4107,Luis Torres,,469,1,Software
+4108,Juan Perez,,182,0,Configuration
+4109,Pedro Marmol,,170,1,Layer 1
+4110,Ana Silva,,245,1,Software
+4111,Luis Torres,,482,1,Layer 1
+4112,Luis Torres,,235,1,Software
+4113,Ana Silva,,102,1,Configuration
+4114,Maria Lopez,,399,0,Layer 2
+4115,Luis Torres,,245,1,Layer 2
+4116,Maria Lopez,,251,0,Software
+4117,Juan Perez,,245,1,Layer 1
+4118,Ana Silva,,85,1,Software
+4119,Maria Lopez,,398,1,Layer 2
+4120,Pedro Marmol,,423,1,Configuration
+4121,Pedro Marmol,,245,1,Layer 2
+4122,Luis Torres,,157,0,Configuration
+4123,Pedro Marmol,,261,1,Layer 2
+4124,Carlos Ruiz,,373,0,Layer 1
+4125,Juan Perez,,185,1,Layer 1
+4126,Luis Torres,,65,1,Layer 2
+4127,Carlos Ruiz,2026-02-08,292,1,Software
+4128,Maria Lopez,,245,0,Software
+4129,Luis Torres,,245,0,Layer 2
+4130,Carlos Ruiz,,354,0,Layer 2
+4131,Juan Perez,,188,0,Configuration
+4132,Maria Lopez,,298,1,Configuration
+4133,Pedro Marmol,,152,1,Layer 1
+4134,Carlos Ruiz,,289,1,Configuration
+4135,Ana Silva,,99,0,Layer 2
+4136,Carlos Ruiz,,77,1,Software
+4137,Luis Torres,,117,0,Layer 2
+4138,Luis Torres,,26,0,Layer 2
+4139,Pedro Marmol,,245,0,Layer 1
+4140,Maria Lopez,,490,0,Configuration
+4141,Luis Torres,,310,1,Configuration
+4142,Pedro Marmol,,286,1,Layer 2
+4143,Pedro Marmol,,371,0,Layer 2
+4144,Pedro Marmol,,246,0,Layer 2
+4145,Carlos Ruiz,,338,1,Configuration
+4146,Ana Silva,,13,0,Layer 2
+4147,Juan Perez,,14,1,Layer 1
+4148,Ana Silva,,111,1,Layer 1
+4149,Pedro Marmol,2026-01-24,396,0,Software
+4150,Carlos Ruiz,,41,1,Layer 2
+4151,Carlos Ruiz,,245,1,Layer 2
+4152,Juan Perez,,46,0,Layer 1
+4153,Juan Perez,,63,1,Layer 1
+4154,Carlos Ruiz,2026-02-06,245,0,Configuration
+4155,Carlos Ruiz,,245,1,Configuration
+4156,Carlos Ruiz,,432,1,Layer 1
+4157,Juan Perez,,443,1,Layer 1
+4158,Carlos Ruiz,,245,1,Software
+4159,Carlos Ruiz,,270,1,Layer 2
+4160,Carlos Ruiz,,183,0,Software
+4161,Pedro Marmol,,500,0,Configuration
+4162,Ana Silva,,133,0,Layer 2
+4163,Pedro Marmol,,245,0,Software
+4164,Luis Torres,,445,0,Layer 2
+4165,Pedro Marmol,,6,0,Configuration
+4166,Luis Torres,,245,1,Layer 2
+4167,Ana Silva,,426,1,Configuration
+4168,Ana Silva,,113,1,Layer 1
+4169,Pedro Marmol,2026-02-16,472,1,Software
+4170,Juan Perez,,483,1,Layer 2
+4171,Juan Perez,,151,1,Layer 2
+4172,Pedro Marmol,,230,1,Configuration
+4173,Ana Silva,2026-02-05,335,0,Software
+4174,Luis Torres,,457,1,Software
+4175,Pedro Marmol,,245,0,Software
+4176,Pedro Marmol,,198,1,Software
+4177,Maria Lopez,2026-02-08,245,1,Layer 1
+4178,Luis Torres,2026-01-18,477,1,Layer 2
+4179,Carlos Ruiz,,426,1,Software
+4180,Luis Torres,2026-02-13,411,0,Configuration
+4181,Luis Torres,,419,0,Layer 1
+4182,Luis Torres,2026-02-05,159,0,Software
+4183,Juan Perez,,277,1,Software
+4184,Maria Lopez,2026-01-17,474,1,Software
+4185,Carlos Ruiz,,426,1,Layer 2
+4186,Ana Silva,,158,0,Software
+4187,Pedro Marmol,,14,0,Configuration
+4188,Ana Silva,,295,0,Configuration
+4189,Ana Silva,2026-02-03,245,1,Software
+4190,Maria Lopez,,380,1,Layer 1
+4191,Pedro Marmol,2026-01-22,124,0,Software
+4192,Juan Perez,2026-02-07,487,0,Software
+4193,Pedro Marmol,,191,1,Layer 2
+4194,Pedro Marmol,,142,1,Configuration
+4195,Pedro Marmol,,243,1,Software
+4196,Ana Silva,,44,1,Layer 2
+4197,Carlos Ruiz,,271,1,Software
+4198,Carlos Ruiz,,417,0,Layer 1
+4199,Pedro Marmol,,152,1,Software
+4200,Carlos Ruiz,,132,1,Layer 2
+4201,Carlos Ruiz,,289,0,Software
+4202,Maria Lopez,,191,0,Configuration
+4203,Luis Torres,2026-02-09,358,0,Layer 2
+4204,Ana Silva,,269,1,Layer 2
+4205,Luis Torres,,208,0,Layer 1
+4206,Ana Silva,,147,0,Layer 2
+4207,Pedro Marmol,2026-01-29,232,1,Software
+4208,Ana Silva,2026-01-26,159,1,Layer 1
+4209,Maria Lopez,2026-01-22,76,1,Software
+4210,Luis Torres,,323,1,Layer 2
+4211,Maria Lopez,2026-02-04,356,0,Configuration
+4212,Juan Perez,,202,1,Software
+4213,Ana Silva,,21,1,Configuration
+4214,Luis Torres,,245,1,Layer 2
+4215,Luis Torres,2026-02-05,392,1,Layer 1
+4216,Pedro Marmol,2026-02-10,257,0,Configuration
+4217,Pedro Marmol,,245,1,Layer 1
+4218,Ana Silva,,391,0,Configuration
+4219,Pedro Marmol,,88,1,Layer 2
+4220,Pedro Marmol,,127,1,Software
+4221,Carlos Ruiz,,440,1,Configuration
+4222,Carlos Ruiz,,414,1,Software
+4223,Ana Silva,,353,1,Layer 2
+4224,Pedro Marmol,,452,0,Layer 1
+4225,Luis Torres,,463,1,Layer 2
+4226,Carlos Ruiz,,138,0,Layer 1
+4227,Juan Perez,,382,1,Layer 1
+4228,Juan Perez,,498,0,Software
+4229,Juan Perez,,108,1,Software
+4230,Pedro Marmol,2026-01-26,245,1,Layer 1
+4231,Pedro Marmol,,415,1,Layer 1
+4232,Pedro Marmol,,103,1,Software
+4233,Juan Perez,,127,0,Layer 1
+4234,Luis Torres,,7,0,Configuration
+4235,Carlos Ruiz,,499,1,Layer 2
+4236,Carlos Ruiz,,245,1,Configuration
+4237,Maria Lopez,2026-01-20,245,1,Layer 2
+4238,Pedro Marmol,2026-01-30,138,1,Software
+4239,Pedro Marmol,,496,0,Software
+4240,Carlos Ruiz,,179,0,Layer 1
+4241,Maria Lopez,2026-02-05,245,1,Software
+4242,Juan Perez,,444,1,Layer 2
+4243,Ana Silva,,9,1,Software
+4244,Maria Lopez,,30,1,Layer 1
+4245,Juan Perez,,333,1,Layer 1
+4246,Pedro Marmol,,468,0,Layer 1
+4247,Ana Silva,,479,0,Configuration
+4248,Carlos Ruiz,,377,1,Layer 1
+4249,Ana Silva,,245,0,Software
+4250,Luis Torres,,65,1,Configuration
+4251,Juan Perez,,324,1,Software
+4252,Maria Lopez,2026-02-09,222,0,Configuration
+4253,Carlos Ruiz,,11,1,Configuration
+4254,Ana Silva,2026-01-21,476,0,Configuration
+4255,Maria Lopez,,187,1,Layer 1
+4256,Carlos Ruiz,2026-01-18,140,1,Layer 1
+4257,Carlos Ruiz,,284,0,Layer 2
+4258,Carlos Ruiz,,202,0,Layer 2
+4259,Luis Torres,,438,1,Layer 1
+4260,Maria Lopez,,245,0,Software
+4261,Carlos Ruiz,,397,1,Layer 1
+4262,Luis Torres,2026-02-11,208,1,Software
+4263,Luis Torres,,2,1,Layer 2
+4264,Luis Torres,,450,0,Layer 2
+4265,Carlos Ruiz,,145,1,Configuration
+4266,Luis Torres,,384,1,Layer 2
+4267,Ana Silva,,442,1,Software
+4268,Pedro Marmol,,97,1,Layer 2
+4269,Ana Silva,,245,1,Configuration
+4270,Juan Perez,2026-01-28,39,1,Configuration
+4271,Juan Perez,2026-01-22,372,1,Software
+4272,Ana Silva,2026-02-11,181,1,Configuration
+4273,Carlos Ruiz,2026-02-07,251,0,Layer 1
+4274,Luis Torres,,492,0,Layer 2
+4275,Juan Perez,,294,1,Configuration
+4276,Ana Silva,2026-01-23,8,0,Layer 2
+4277,Juan Perez,,406,1,Layer 2
+4278,Luis Torres,,168,1,Configuration
+4279,Luis Torres,2026-02-14,352,0,Software
+4280,Pedro Marmol,,227,1,Layer 1
+4281,Ana Silva,,281,1,Layer 2
+4282,Juan Perez,,232,1,Software
+4283,Pedro Marmol,2026-01-24,48,0,Layer 1
+4284,Ana Silva,,363,1,Layer 2
+4285,Juan Perez,,317,0,Layer 1
+4286,Juan Perez,,386,0,Layer 1
+4287,Carlos Ruiz,2026-02-08,245,1,Configuration
+4288,Carlos Ruiz,,245,0,Configuration
+4289,Maria Lopez,2026-01-25,128,0,Layer 1
+4290,Luis Torres,2026-01-27,104,1,Layer 1
+4291,Maria Lopez,,268,1,Software
+4292,Juan Perez,,49,0,Configuration
+4293,Luis Torres,,245,1,Software
+4294,Juan Perez,,245,1,Configuration
+4295,Ana Silva,,364,1,Layer 2
+4296,Juan Perez,,316,1,Software
+4297,Ana Silva,,360,1,Layer 2
+4298,Maria Lopez,,245,1,Layer 2
+4299,Carlos Ruiz,,232,0,Configuration
+4300,Pedro Marmol,,415,1,Software
+4301,Juan Perez,,411,0,Layer 2
+4302,Carlos Ruiz,,163,0,Software
+4303,Ana Silva,,245,0,Layer 1
+4304,Luis Torres,,435,1,Configuration
+4305,Ana Silva,2026-02-04,124,1,Layer 2
+4306,Luis Torres,,121,0,Configuration
+4307,Ana Silva,,421,1,Layer 1
+4308,Juan Perez,2026-01-17,245,0,Configuration
+4309,Juan Perez,,404,0,Layer 2
+4310,Maria Lopez,2026-01-18,495,0,Software
+4311,Maria Lopez,,332,0,Layer 2
+4312,Pedro Marmol,,252,1,Layer 2
+4313,Juan Perez,2026-01-17,101,1,Layer 2
+4314,Luis Torres,,245,0,Layer 2
+4315,Pedro Marmol,,452,1,Layer 1
+4316,Luis Torres,,245,0,Layer 2
+4317,Pedro Marmol,,461,0,Software
+4318,Maria Lopez,,245,0,Layer 2
+4319,Carlos Ruiz,,57,0,Software
+4320,Ana Silva,,57,1,Software
+4321,Maria Lopez,,21,0,Layer 1
+4322,Ana Silva,,390,1,Software
+4323,Ana Silva,,289,1,Configuration
+4324,Ana Silva,,114,1,Software
+4325,Pedro Marmol,,263,1,Layer 2
+4326,Luis Torres,,245,1,Software
+4327,Carlos Ruiz,2026-01-20,30,0,Configuration
+4328,Carlos Ruiz,,160,0,Software
+4329,Juan Perez,2026-01-29,403,1,Software
+4330,Ana Silva,2026-02-09,87,1,Configuration
+4331,Pedro Marmol,2026-02-07,245,0,Software
+4332,Juan Perez,2026-01-30,306,0,Layer 2
+4333,Maria Lopez,2026-02-03,465,0,Software
+4334,Pedro Marmol,,6,1,Software
+4335,Juan Perez,,352,1,Configuration
+4336,Juan Perez,,308,1,Configuration
+4337,Pedro Marmol,,153,0,Layer 2
+4338,Luis Torres,,482,1,Layer 2
+4339,Carlos Ruiz,,32,1,Software
+4340,Carlos Ruiz,,367,1,Layer 2
+4341,Luis Torres,,195,0,Software
+4342,Maria Lopez,2026-02-03,269,1,Layer 1
+4343,Maria Lopez,,59,1,Layer 2
+4344,Luis Torres,,88,1,Layer 2
+4345,Carlos Ruiz,2026-02-01,269,1,Configuration
+4346,Pedro Marmol,,245,0,Configuration
+4347,Juan Perez,,245,1,Software
+4348,Maria Lopez,,230,0,Layer 2
+4349,Luis Torres,,267,1,Layer 1
+4350,Juan Perez,,245,1,Layer 2
+4351,Juan Perez,,162,1,Configuration
+4352,Maria Lopez,,275,0,Configuration
+4353,Juan Perez,,294,1,Configuration
+4354,Ana Silva,,245,1,Configuration
+4355,Luis Torres,,98,1,Configuration
+4356,Pedro Marmol,,368,1,Layer 1
+4357,Juan Perez,,245,0,Layer 2
+4358,Maria Lopez,2026-01-27,331,0,Configuration
+4359,Ana Silva,,245,1,Layer 1
+4360,Carlos Ruiz,,245,1,Layer 2
+4361,Carlos Ruiz,,135,1,Configuration
+4362,Juan Perez,,302,1,Configuration
+4363,Pedro Marmol,,245,0,Layer 1
+4364,Pedro Marmol,2026-01-22,74,0,Layer 1
+4365,Pedro Marmol,,375,1,Configuration
+4366,Luis Torres,2026-01-17,245,0,Software
+4367,Luis Torres,,474,1,Software
+4368,Luis Torres,,324,1,Configuration
+4369,Carlos Ruiz,2026-02-01,365,1,Configuration
+4370,Juan Perez,2026-02-01,47,0,Layer 1
+4371,Luis Torres,,245,1,Layer 1
+4372,Carlos Ruiz,,230,0,Layer 2
+4373,Pedro Marmol,,104,0,Configuration
+4374,Carlos Ruiz,,169,0,Software
+4375,Maria Lopez,,165,1,Configuration
+4376,Maria Lopez,,337,1,Layer 1
+4377,Maria Lopez,2026-02-15,245,0,Configuration
+4378,Pedro Marmol,,215,0,Software
+4379,Maria Lopez,,493,1,Layer 1
+4380,Juan Perez,,371,0,Layer 1
+4381,Ana Silva,,160,1,Configuration
+4382,Pedro Marmol,,305,0,Layer 2
+4383,Juan Perez,,245,0,Configuration
+4384,Pedro Marmol,2026-01-29,38,1,Configuration
+4385,Maria Lopez,,5,0,Layer 2
+4386,Luis Torres,,302,0,Layer 1
+4387,Juan Perez,,138,1,Layer 1
+4388,Carlos Ruiz,,402,1,Layer 2
+4389,Maria Lopez,,295,1,Layer 2
+4390,Carlos Ruiz,,97,0,Layer 1
+4391,Maria Lopez,,245,1,Layer 2
+4392,Ana Silva,2026-01-31,163,0,Configuration
+4393,Juan Perez,,34,1,Software
+4394,Ana Silva,,302,0,Configuration
+4395,Juan Perez,,102,1,Layer 2
+4396,Maria Lopez,,292,1,Layer 2
+4397,Luis Torres,2026-02-08,421,1,Software
+4398,Luis Torres,,58,1,Software
+4399,Ana Silva,,232,1,Configuration
+4400,Ana Silva,2026-01-20,301,1,Layer 1
+4401,Ana Silva,,298,1,Layer 1
+4402,Luis Torres,,183,1,Layer 2
+4403,Pedro Marmol,2026-01-24,245,0,Layer 2
+4404,Ana Silva,,72,1,Layer 1
+4405,Pedro Marmol,2026-02-16,405,1,Layer 1
+4406,Juan Perez,,436,1,Configuration
+4407,Luis Torres,,148,1,Layer 2
+4408,Carlos Ruiz,,489,1,Software
+4409,Pedro Marmol,,430,1,Layer 1
+4410,Maria Lopez,,368,0,Software
+4411,Juan Perez,,452,1,Software
+4412,Ana Silva,,125,0,Layer 2
+4413,Maria Lopez,2026-02-03,364,1,Software
+4414,Luis Torres,,311,1,Software
+4415,Luis Torres,,317,0,Software
+4416,Juan Perez,,23,1,Layer 1
+4417,Maria Lopez,,245,1,Configuration
+4418,Pedro Marmol,,434,1,Layer 2
+4419,Juan Perez,,245,1,Layer 1
+4420,Carlos Ruiz,2026-02-07,296,0,Software
+4421,Maria Lopez,,199,0,Software
+4422,Juan Perez,,369,0,Configuration
+4423,Luis Torres,,164,0,Layer 1
+4424,Maria Lopez,,421,0,Configuration
+4425,Pedro Marmol,,481,1,Layer 2
+4426,Carlos Ruiz,,15,0,Software
+4427,Juan Perez,,24,1,Configuration
+4428,Carlos Ruiz,,245,0,Software
+4429,Pedro Marmol,,229,1,Configuration
+4430,Carlos Ruiz,2026-01-28,245,0,Configuration
+4431,Ana Silva,,486,0,Layer 1
+4432,Maria Lopez,2026-02-14,70,0,Software
+4433,Maria Lopez,,296,0,Layer 1
+4434,Ana Silva,,245,0,Configuration
+4435,Ana Silva,,250,1,Layer 2
+4436,Pedro Marmol,,3,0,Software
+4437,Maria Lopez,,336,1,Layer 2
+4438,Juan Perez,,245,0,Software
+4439,Pedro Marmol,,417,1,Software
+4440,Pedro Marmol,,80,0,Layer 1
+4441,Ana Silva,2026-01-18,325,1,Software
+4442,Luis Torres,,42,1,Software
+4443,Carlos Ruiz,,245,0,Layer 1
+4444,Juan Perez,,22,1,Software
+4445,Pedro Marmol,,102,0,Software
+4446,Maria Lopez,,204,1,Configuration
+4447,Carlos Ruiz,,137,0,Layer 2
+4448,Luis Torres,2026-01-21,106,1,Configuration
+4449,Maria Lopez,,127,1,Configuration
+4450,Maria Lopez,,469,1,Layer 1
+4451,Ana Silva,2026-02-09,103,0,Layer 2
+4452,Carlos Ruiz,,348,0,Layer 1
+4453,Luis Torres,,34,0,Software
+4454,Maria Lopez,2026-02-13,396,1,Layer 2
+4455,Luis Torres,,499,1,Layer 2
+4456,Maria Lopez,,245,1,Layer 2
+4457,Juan Perez,2026-02-15,381,1,Software
+4458,Maria Lopez,,318,0,Layer 1
+4459,Juan Perez,2026-02-13,245,1,Layer 2
+4460,Ana Silva,,245,1,Software
+4461,Juan Perez,,245,1,Configuration
+4462,Ana Silva,,318,1,Layer 1
+4463,Pedro Marmol,,385,0,Layer 1
+4464,Luis Torres,2026-01-17,21,1,Layer 1
+4465,Carlos Ruiz,,437,1,Software
+4466,Carlos Ruiz,,25,0,Layer 2
+4467,Luis Torres,,304,1,Layer 2
+4468,Juan Perez,2026-01-17,118,1,Software
+4469,Carlos Ruiz,2026-02-06,216,1,Software
+4470,Ana Silva,2026-01-25,158,1,Configuration
+4471,Luis Torres,2026-02-02,186,0,Layer 1
+4472,Maria Lopez,,65,0,Layer 1
+4473,Carlos Ruiz,,245,1,Configuration
+4474,Carlos Ruiz,,329,1,Layer 1
+4475,Juan Perez,,399,1,Layer 1
+4476,Luis Torres,,351,0,Software
+4477,Carlos Ruiz,,478,1,Configuration
+4478,Ana Silva,,245,1,Layer 1
+4479,Ana Silva,,233,1,Configuration
+4480,Maria Lopez,,245,0,Configuration
+4481,Pedro Marmol,,385,0,Configuration
+4482,Ana Silva,,392,0,Layer 2
+4483,Juan Perez,,245,1,Layer 1
+4484,Juan Perez,,245,1,Configuration
+4485,Juan Perez,2026-01-19,330,0,Configuration
+4486,Pedro Marmol,,245,1,Layer 1
+4487,Juan Perez,,216,0,Configuration
+4488,Pedro Marmol,2026-01-19,485,1,Layer 1
+4489,Maria Lopez,,64,0,Layer 2
+4490,Luis Torres,,18,0,Configuration
+4491,Ana Silva,,218,0,Software
+4492,Maria Lopez,,270,0,Layer 1
+4493,Juan Perez,,38,1,Layer 2
+4494,Juan Perez,2026-02-02,443,1,Layer 1
+4495,Luis Torres,2026-02-01,0,0,Layer 2
+4496,Pedro Marmol,,313,1,Layer 1
+4497,Luis Torres,2026-01-21,245,0,Layer 1
+4498,Juan Perez,,28,0,Software
+4499,Maria Lopez,,369,1,Configuration
+4500,Carlos Ruiz,,146,1,Software
+4501,Carlos Ruiz,,412,1,Layer 2
+4502,Pedro Marmol,,63,0,Layer 1
+4503,Juan Perez,,277,1,Software
+4504,Ana Silva,,192,1,Software
+4505,Maria Lopez,,18,1,Layer 2
+4506,Luis Torres,2026-01-22,245,0,Layer 1
+4507,Carlos Ruiz,,43,1,Layer 2
+4508,Ana Silva,,320,0,Software
+4509,Pedro Marmol,,499,1,Layer 2
+4510,Pedro Marmol,,35,1,Configuration
+4511,Carlos Ruiz,,245,1,Configuration
+4512,Maria Lopez,,276,0,Layer 1
+4513,Pedro Marmol,2026-01-28,32,1,Configuration
+4514,Pedro Marmol,,226,1,Layer 2
+4515,Carlos Ruiz,,309,0,Configuration
+4516,Pedro Marmol,,21,1,Configuration
+4517,Pedro Marmol,2026-01-31,66,0,Configuration
+4518,Luis Torres,,487,1,Layer 2
+4519,Ana Silva,,252,0,Configuration
+4520,Pedro Marmol,,49,0,Layer 2
+4521,Juan Perez,2026-01-18,163,1,Layer 1
+4522,Maria Lopez,,223,1,Software
+4523,Juan Perez,2026-01-18,237,0,Layer 2
+4524,Juan Perez,,245,0,Software
+4525,Carlos Ruiz,,168,1,Configuration
+4526,Luis Torres,2026-02-14,245,1,Software
+4527,Carlos Ruiz,2026-01-17,120,1,Layer 1
+4528,Maria Lopez,,245,1,Layer 2
+4529,Pedro Marmol,2026-01-20,319,0,Configuration
+4530,Luis Torres,,245,0,Layer 2
+4531,Luis Torres,2026-01-27,245,1,Layer 2
+4532,Pedro Marmol,,398,0,Configuration
+4533,Pedro Marmol,,421,0,Layer 2
+4534,Juan Perez,2026-01-17,259,0,Layer 1
+4535,Luis Torres,,240,0,Layer 1
+4536,Pedro Marmol,2026-02-06,245,1,Layer 2
+4537,Ana Silva,,68,0,Layer 2
+4538,Ana Silva,2026-02-11,482,1,Layer 1
+4539,Pedro Marmol,,427,1,Layer 2
+4540,Carlos Ruiz,,382,0,Layer 1
+4541,Pedro Marmol,,315,1,Layer 1
+4542,Juan Perez,,35,0,Configuration
+4543,Luis Torres,,457,1,Layer 1
+4544,Juan Perez,2026-02-13,237,1,Layer 1
+4545,Pedro Marmol,,234,1,Software
+4546,Carlos Ruiz,2026-01-26,227,1,Configuration
+4547,Pedro Marmol,,480,0,Configuration
+4548,Luis Torres,,230,0,Software
+4549,Carlos Ruiz,,245,1,Layer 2
+4550,Juan Perez,2026-02-02,131,0,Layer 2
+4551,Maria Lopez,,1,1,Software
+4552,Luis Torres,2026-01-18,245,0,Layer 1
+4553,Luis Torres,2026-02-11,245,0,Layer 2
+4554,Maria Lopez,2026-02-07,38,1,Layer 1
+4555,Carlos Ruiz,2026-02-04,64,0,Layer 2
+4556,Carlos Ruiz,,402,0,Configuration
+4557,Juan Perez,,185,1,Layer 1
+4558,Carlos Ruiz,,460,0,Layer 1
+4559,Pedro Marmol,,187,1,Configuration
+4560,Luis Torres,,319,1,Configuration
+4561,Juan Perez,,350,1,Layer 2
+4562,Carlos Ruiz,,455,1,Configuration
+4563,Luis Torres,2026-01-27,274,1,Layer 2
+4564,Luis Torres,,175,0,Configuration
+4565,Ana Silva,,211,0,Layer 2
+4566,Carlos Ruiz,,275,1,Configuration
+4567,Ana Silva,,263,1,Configuration
+4568,Ana Silva,,276,0,Layer 2
+4569,Carlos Ruiz,2026-01-22,245,1,Layer 2
+4570,Luis Torres,,395,0,Layer 2
+4571,Juan Perez,,125,0,Configuration
+4572,Juan Perez,,380,0,Software
+4573,Ana Silva,,372,1,Layer 2
+4574,Luis Torres,2026-02-08,246,1,Layer 1
+4575,Ana Silva,,345,0,Layer 1
+4576,Pedro Marmol,,247,0,Layer 1
+4577,Carlos Ruiz,,484,1,Layer 2
+4578,Maria Lopez,,490,1,Layer 1
+4579,Luis Torres,,13,1,Software
+4580,Luis Torres,2026-01-21,245,1,Software
+4581,Ana Silva,,151,0,Layer 1
+4582,Maria Lopez,,443,0,Configuration
+4583,Luis Torres,2026-02-11,80,1,Configuration
+4584,Maria Lopez,2026-01-21,189,1,Layer 1
+4585,Carlos Ruiz,,297,0,Layer 2
+4586,Carlos Ruiz,,475,1,Software
+4587,Ana Silva,2026-02-14,221,0,Software
+4588,Maria Lopez,,245,1,Layer 2
+4589,Pedro Marmol,,106,1,Layer 2
+4590,Carlos Ruiz,,44,0,Layer 2
+4591,Ana Silva,,408,0,Software
+4592,Ana Silva,,285,0,Software
+4593,Carlos Ruiz,2026-02-06,245,1,Software
+4594,Maria Lopez,,492,0,Configuration
+4595,Ana Silva,,85,1,Layer 1
+4596,Maria Lopez,,312,0,Layer 1
+4597,Juan Perez,2026-01-26,482,1,Layer 1
+4598,Maria Lopez,,26,0,Configuration
+4599,Pedro Marmol,,154,1,Software
+4600,Juan Perez,,244,1,Software
+4601,Pedro Marmol,,153,1,Layer 2
+4602,Ana Silva,,76,1,Software
+4603,Ana Silva,,245,1,Layer 2
+4604,Juan Perez,,300,0,Layer 1
+4605,Luis Torres,,103,0,Software
+4606,Juan Perez,,245,0,Layer 2
+4607,Maria Lopez,2026-02-03,245,0,Software
+4608,Luis Torres,,31,1,Software
+4609,Carlos Ruiz,2026-01-23,245,0,Software
+4610,Luis Torres,2026-01-28,411,0,Layer 1
+4611,Ana Silva,,271,1,Layer 2
+4612,Pedro Marmol,,202,1,Layer 2
+4613,Juan Perez,,340,1,Layer 1
+4614,Maria Lopez,,456,1,Configuration
+4615,Ana Silva,,458,1,Configuration
+4616,Carlos Ruiz,,251,1,Configuration
+4617,Ana Silva,,261,1,Layer 1
+4618,Carlos Ruiz,,322,1,Software
+4619,Ana Silva,,1,0,Layer 1
+4620,Ana Silva,2026-02-11,213,1,Software
+4621,Carlos Ruiz,,245,1,Configuration
+4622,Carlos Ruiz,2026-02-02,369,1,Software
+4623,Ana Silva,,245,0,Layer 2
+4624,Carlos Ruiz,,74,1,Software
+4625,Luis Torres,2026-01-29,48,1,Layer 2
+4626,Juan Perez,,353,1,Layer 1
+4627,Luis Torres,,281,0,Configuration
+4628,Luis Torres,,465,1,Layer 2
+4629,Carlos Ruiz,,83,1,Layer 1
+4630,Carlos Ruiz,,13,1,Layer 2
+4631,Pedro Marmol,,442,0,Software
+4632,Luis Torres,,226,0,Layer 1
+4633,Ana Silva,,300,1,Software
+4634,Carlos Ruiz,,272,1,Layer 2
+4635,Maria Lopez,2026-01-27,32,1,Software
+4636,Pedro Marmol,,244,1,Layer 1
+4637,Juan Perez,,445,0,Layer 2
+4638,Maria Lopez,2026-02-04,245,0,Layer 2
+4639,Maria Lopez,2026-01-21,110,1,Software
+4640,Juan Perez,,487,0,Layer 2
+4641,Ana Silva,,35,1,Layer 1
+4642,Luis Torres,,245,1,Layer 2
+4643,Juan Perez,,140,0,Layer 1
+4644,Juan Perez,,400,0,Software
+4645,Pedro Marmol,,468,1,Layer 1
+4646,Luis Torres,,245,1,Software
+4647,Ana Silva,,311,1,Layer 2
+4648,Juan Perez,2026-01-19,444,1,Configuration
+4649,Juan Perez,,150,1,Layer 2
+4650,Maria Lopez,,330,0,Configuration
+4651,Juan Perez,2026-01-21,146,1,Layer 2
+4652,Ana Silva,,408,0,Layer 2
+4653,Pedro Marmol,,76,1,Software
+4654,Luis Torres,2026-01-21,89,0,Software
+4655,Maria Lopez,,241,0,Configuration
+4656,Pedro Marmol,2026-02-11,82,0,Layer 2
+4657,Luis Torres,,490,0,Layer 2
+4658,Maria Lopez,,126,0,Configuration
+4659,Juan Perez,,66,0,Layer 2
+4660,Maria Lopez,,355,1,Software
+4661,Pedro Marmol,,245,1,Layer 2
+4662,Luis Torres,,296,1,Layer 1
+4663,Ana Silva,2026-01-18,141,1,Layer 2
+4664,Luis Torres,,358,0,Software
+4665,Carlos Ruiz,,489,0,Layer 1
+4666,Carlos Ruiz,,326,0,Layer 1
+4667,Luis Torres,,335,1,Software
+4668,Juan Perez,,474,1,Layer 1
+4669,Juan Perez,,245,0,Layer 1
+4670,Carlos Ruiz,,245,1,Layer 2
+4671,Luis Torres,2026-02-06,251,1,Configuration
+4672,Ana Silva,,129,1,Software
+4673,Pedro Marmol,,117,0,Software
+4674,Pedro Marmol,,32,1,Layer 1
+4675,Maria Lopez,,133,1,Layer 1
+4676,Juan Perez,,60,0,Layer 1
+4677,Ana Silva,,288,1,Layer 2
+4678,Pedro Marmol,,273,0,Configuration
+4679,Carlos Ruiz,,399,1,Software
+4680,Maria Lopez,,40,0,Layer 1
+4681,Juan Perez,,234,0,Configuration
+4682,Ana Silva,,249,1,Configuration
+4683,Ana Silva,2026-01-26,245,0,Layer 2
+4684,Carlos Ruiz,,217,1,Configuration
+4685,Ana Silva,2026-02-16,123,0,Configuration
+4686,Carlos Ruiz,,273,0,Layer 2
+4687,Pedro Marmol,,430,1,Configuration
+4688,Luis Torres,,286,1,Software
+4689,Pedro Marmol,,245,1,Layer 2
+4690,Luis Torres,,45,1,Layer 1
+4691,Carlos Ruiz,,227,1,Configuration
+4692,Maria Lopez,,401,0,Configuration
+4693,Maria Lopez,,245,1,Software
+4694,Carlos Ruiz,,112,1,Layer 1
+4695,Pedro Marmol,,446,1,Layer 2
+4696,Luis Torres,,33,1,Software
+4697,Maria Lopez,,146,1,Layer 2
+4698,Maria Lopez,,245,1,Software
+4699,Carlos Ruiz,,260,1,Layer 2
+4700,Carlos Ruiz,2026-02-13,424,0,Layer 2
+4701,Ana Silva,,9,0,Configuration
+4702,Pedro Marmol,2026-02-09,376,1,Configuration
+4703,Luis Torres,,392,1,Layer 2
+4704,Ana Silva,,455,1,Configuration
+4705,Juan Perez,,477,1,Software
+4706,Carlos Ruiz,,147,0,Software
+4707,Juan Perez,,245,1,Layer 2
+4708,Maria Lopez,,24,0,Layer 2
+4709,Maria Lopez,2026-01-29,16,0,Layer 1
+4710,Pedro Marmol,,103,0,Software
+4711,Ana Silva,,431,0,Configuration
+4712,Maria Lopez,,360,1,Layer 2
+4713,Luis Torres,,354,1,Software
+4714,Maria Lopez,,275,1,Configuration
+4715,Carlos Ruiz,,245,0,Software
+4716,Pedro Marmol,,68,0,Software
+4717,Pedro Marmol,,245,1,Configuration
+4718,Ana Silva,2026-02-06,416,0,Software
+4719,Carlos Ruiz,,245,1,Configuration
+4720,Pedro Marmol,,245,1,Software
+4721,Ana Silva,,123,1,Layer 2
+4722,Juan Perez,2026-02-09,245,1,Layer 1
+4723,Luis Torres,,137,0,Layer 2
+4724,Carlos Ruiz,2026-02-12,308,1,Layer 2
+4725,Luis Torres,,365,0,Layer 1
+4726,Ana Silva,,208,0,Layer 1
+4727,Luis Torres,,395,1,Layer 2
+4728,Carlos Ruiz,2026-01-30,178,0,Layer 2
+4729,Pedro Marmol,,443,0,Layer 1
+4730,Carlos Ruiz,,365,0,Software
+4731,Carlos Ruiz,2026-01-20,148,0,Layer 2
+4732,Carlos Ruiz,,273,0,Layer 2
+4733,Ana Silva,,83,0,Layer 2
+4734,Luis Torres,,495,1,Layer 2
+4735,Pedro Marmol,,319,0,Configuration
+4736,Juan Perez,,245,0,Software
+4737,Juan Perez,,347,0,Layer 1
+4738,Pedro Marmol,,463,0,Layer 2
+4739,Carlos Ruiz,2026-01-29,136,0,Layer 2
+4740,Pedro Marmol,2026-01-17,138,1,Layer 1
+4741,Ana Silva,,132,0,Layer 1
+4742,Carlos Ruiz,,451,1,Layer 2
+4743,Ana Silva,,490,1,Layer 2
+4744,Juan Perez,2026-02-09,326,1,Layer 1
+4745,Maria Lopez,,398,0,Layer 2
+4746,Ana Silva,2026-01-24,2,0,Layer 1
+4747,Luis Torres,,245,0,Software
+4748,Luis Torres,,245,1,Software
+4749,Juan Perez,2026-01-25,245,1,Software
+4750,Luis Torres,,152,1,Software
+4751,Pedro Marmol,,16,1,Software
+4752,Juan Perez,,245,1,Layer 1
+4753,Luis Torres,,245,0,Layer 1
+4754,Pedro Marmol,,176,0,Software
+4755,Carlos Ruiz,,99,0,Configuration
+4756,Juan Perez,2026-02-16,324,1,Software
+4757,Pedro Marmol,,91,1,Layer 2
+4758,Carlos Ruiz,2026-01-30,245,1,Configuration
+4759,Pedro Marmol,,245,1,Configuration
+4760,Pedro Marmol,,431,0,Software
+4761,Ana Silva,2026-01-21,239,1,Software
+4762,Maria Lopez,,254,0,Layer 1
+4763,Maria Lopez,2026-02-03,237,1,Layer 1
+4764,Pedro Marmol,,140,0,Software
+4765,Maria Lopez,,245,1,Configuration
+4766,Pedro Marmol,,341,0,Layer 1
+4767,Pedro Marmol,,245,1,Configuration
+4768,Ana Silva,,253,1,Software
+4769,Luis Torres,2026-02-09,83,0,Configuration
+4770,Pedro Marmol,,245,0,Software
+4771,Ana Silva,,105,1,Layer 2
+4772,Maria Lopez,,367,0,Software
+4773,Pedro Marmol,,205,1,Software
+4774,Maria Lopez,,190,1,Software
+4775,Ana Silva,,292,1,Configuration
+4776,Maria Lopez,2026-02-06,481,1,Configuration
+4777,Luis Torres,,245,1,Layer 2
+4778,Pedro Marmol,,307,1,Configuration
+4779,Carlos Ruiz,,91,1,Layer 1
+4780,Pedro Marmol,,215,1,Configuration
+4781,Ana Silva,,439,0,Configuration
+4782,Carlos Ruiz,,478,1,Software
+4783,Juan Perez,,246,0,Layer 1
+4784,Luis Torres,,4,1,Layer 1
+4785,Carlos Ruiz,,291,0,Software
+4786,Pedro Marmol,,282,0,Layer 1
+4787,Carlos Ruiz,,239,1,Layer 2
+4788,Pedro Marmol,,460,0,Layer 2
+4789,Carlos Ruiz,,245,0,Configuration
+4790,Pedro Marmol,2026-01-21,444,0,Layer 2
+4791,Maria Lopez,,245,0,Software
+4792,Maria Lopez,2026-01-29,387,0,Configuration
+4793,Carlos Ruiz,,232,1,Layer 1
+4794,Ana Silva,,245,0,Software
+4795,Pedro Marmol,,97,1,Software
+4796,Maria Lopez,,201,0,Configuration
+4797,Pedro Marmol,2026-01-26,437,1,Software
+4798,Ana Silva,2026-01-25,82,1,Software
+4799,Pedro Marmol,2026-01-31,485,1,Layer 1
+4800,Juan Perez,2026-02-16,364,0,Layer 1
+4801,Juan Perez,,48,0,Software
+4802,Juan Perez,,32,0,Layer 2
+4803,Pedro Marmol,,397,0,Layer 1
+4804,Luis Torres,,30,0,Layer 2
+4805,Juan Perez,,456,0,Layer 1
+4806,Juan Perez,2026-01-31,245,0,Layer 2
+4807,Luis Torres,,311,1,Layer 2
+4808,Luis Torres,,245,0,Software
+4809,Ana Silva,,427,0,Configuration
+4810,Luis Torres,2026-01-30,78,0,Layer 2
+4811,Maria Lopez,,245,0,Configuration
+4812,Maria Lopez,,217,0,Layer 2
+4813,Carlos Ruiz,,431,1,Configuration
+4814,Pedro Marmol,,20,1,Configuration
+4815,Carlos Ruiz,,22,0,Software
+4816,Ana Silva,,245,1,Layer 1
+4817,Juan Perez,2026-01-19,160,1,Layer 2
+4818,Carlos Ruiz,,93,0,Layer 2
+4819,Luis Torres,,245,0,Layer 1
+4820,Luis Torres,,312,0,Layer 1
+4821,Carlos Ruiz,,169,0,Layer 1
+4822,Luis Torres,2026-01-20,364,0,Configuration
+4823,Maria Lopez,2026-01-27,101,1,Software
+4824,Pedro Marmol,,402,1,Software
+4825,Maria Lopez,2026-02-08,204,0,Layer 1
+4826,Pedro Marmol,,132,0,Configuration
+4827,Juan Perez,,201,1,Layer 2
+4828,Carlos Ruiz,,496,0,Configuration
+4829,Pedro Marmol,2026-02-04,62,1,Layer 2
+4830,Carlos Ruiz,,300,0,Configuration
+4831,Ana Silva,,413,1,Layer 2
+4832,Maria Lopez,,285,1,Configuration
+4833,Maria Lopez,,105,1,Configuration
+4834,Ana Silva,,316,1,Software
+4835,Ana Silva,2026-01-23,266,1,Layer 2
+4836,Juan Perez,2026-02-10,141,1,Layer 1
+4837,Carlos Ruiz,,386,1,Configuration
+4838,Luis Torres,,312,1,Layer 1
+4839,Carlos Ruiz,2026-02-07,264,1,Layer 2
+4840,Carlos Ruiz,2026-02-01,336,1,Layer 1
+4841,Juan Perez,,245,1,Configuration
+4842,Ana Silva,,245,1,Layer 2
+4843,Ana Silva,,161,1,Layer 1
+4844,Pedro Marmol,2026-02-11,473,1,Layer 2
+4845,Juan Perez,,448,0,Configuration
+4846,Ana Silva,2026-01-27,26,0,Configuration
+4847,Ana Silva,,173,1,Layer 1
+4848,Maria Lopez,,56,1,Configuration
+4849,Carlos Ruiz,,34,1,Layer 1
+4850,Juan Perez,2026-02-03,190,1,Layer 1
+4851,Ana Silva,,11,0,Layer 1
+4852,Luis Torres,2026-02-16,245,0,Layer 1
+4853,Ana Silva,,347,1,Layer 2
+4854,Juan Perez,,238,0,Software
+4855,Ana Silva,,283,1,Layer 2
+4856,Carlos Ruiz,,196,0,Layer 2
+4857,Juan Perez,,350,1,Configuration
+4858,Ana Silva,,116,0,Configuration
+4859,Carlos Ruiz,,40,1,Configuration
+4860,Carlos Ruiz,,245,0,Layer 2
+4861,Ana Silva,,174,1,Layer 2
+4862,Maria Lopez,,301,0,Software
+4863,Pedro Marmol,2026-01-23,388,0,Configuration
+4864,Luis Torres,,484,1,Layer 1
+4865,Luis Torres,,152,1,Layer 2
+4866,Luis Torres,,421,0,Configuration
+4867,Pedro Marmol,2026-02-09,396,1,Configuration
+4868,Ana Silva,2026-01-29,245,1,Software
+4869,Carlos Ruiz,,245,1,Layer 2
+4870,Pedro Marmol,2026-02-03,346,1,Layer 2
+4871,Maria Lopez,2026-01-27,156,1,Layer 1
+4872,Carlos Ruiz,,359,1,Configuration
+4873,Carlos Ruiz,,71,1,Layer 1
+4874,Ana Silva,,488,0,Layer 2
+4875,Maria Lopez,,418,1,Configuration
+4876,Pedro Marmol,2026-01-17,347,0,Configuration
+4877,Pedro Marmol,2026-01-22,141,0,Layer 2
+4878,Juan Perez,,327,1,Software
+4879,Luis Torres,,245,0,Layer 2
+4880,Carlos Ruiz,2026-01-22,37,0,Software
+4881,Carlos Ruiz,,62,0,Configuration
+4882,Pedro Marmol,,236,1,Software
+4883,Juan Perez,,245,0,Configuration
+4884,Pedro Marmol,,245,1,Layer 1
+4885,Ana Silva,,245,0,Layer 2
+4886,Maria Lopez,2026-02-15,230,0,Software
+4887,Juan Perez,,56,1,Layer 1
+4888,Carlos Ruiz,,467,1,Configuration
+4889,Carlos Ruiz,,357,0,Layer 2
+4890,Ana Silva,,245,1,Layer 1
+4891,Juan Perez,,366,0,Layer 1
+4892,Maria Lopez,,136,1,Configuration
+4893,Juan Perez,,21,1,Layer 2
+4894,Ana Silva,2026-02-13,171,1,Layer 1
+4895,Ana Silva,2026-02-10,164,1,Configuration
+4896,Pedro Marmol,,496,1,Layer 2
+4897,Carlos Ruiz,,314,1,Layer 1
+4898,Carlos Ruiz,,90,0,Configuration
+4899,Ana Silva,,291,0,Layer 1
+4900,Carlos Ruiz,,315,0,Software
+4901,Carlos Ruiz,,338,0,Software
+4902,Carlos Ruiz,,355,1,Configuration
+4903,Pedro Marmol,,278,0,Layer 1
+4904,Maria Lopez,2026-02-08,1,0,Configuration
+4905,Carlos Ruiz,,176,1,Layer 1
+4906,Juan Perez,,310,1,Configuration
+4907,Pedro Marmol,,318,0,Software
+4908,Carlos Ruiz,,208,0,Software
+4909,Carlos Ruiz,2026-02-03,19,1,Software
+4910,Luis Torres,,497,1,Configuration
+4911,Carlos Ruiz,,253,1,Layer 1
+4912,Maria Lopez,2026-02-12,279,1,Layer 2
+4913,Carlos Ruiz,2026-02-09,268,1,Software
+4914,Carlos Ruiz,2026-01-29,369,1,Software
+4915,Ana Silva,,245,1,Software
+4916,Pedro Marmol,,254,1,Software
+4917,Pedro Marmol,,274,0,Layer 1
+4918,Ana Silva,,108,0,Configuration
+4919,Luis Torres,,478,0,Layer 1
+4920,Pedro Marmol,,313,1,Software
+4921,Maria Lopez,2026-02-10,245,0,Layer 1
+4922,Maria Lopez,,245,0,Layer 1
+4923,Juan Perez,2026-02-07,166,1,Configuration
+4924,Maria Lopez,,127,1,Software
+4925,Ana Silva,,46,1,Software
+4926,Luis Torres,,245,1,Configuration
+4927,Luis Torres,2026-01-18,193,1,Layer 1
+4928,Ana Silva,,276,1,Software
+4929,Carlos Ruiz,,219,1,Configuration
+4930,Pedro Marmol,2026-01-17,440,0,Layer 1
+4931,Maria Lopez,,67,1,Configuration
+4932,Maria Lopez,,330,0,Layer 1
+4933,Maria Lopez,,293,0,Layer 1
+4934,Carlos Ruiz,2026-02-13,13,1,Software
+4935,Luis Torres,,245,1,Configuration
+4936,Pedro Marmol,,326,0,Configuration
+4937,Luis Torres,,487,1,Layer 1
+4938,Carlos Ruiz,,14,0,Layer 1
+4939,Pedro Marmol,,159,1,Software
+4940,Pedro Marmol,,124,1,Software
+4941,Juan Perez,,245,1,Layer 2
+4942,Juan Perez,2026-02-03,265,0,Configuration
+4943,Luis Torres,,298,0,Software
+4944,Luis Torres,,245,1,Configuration
+4945,Ana Silva,,213,1,Configuration
+4946,Carlos Ruiz,,168,1,Layer 2
+4947,Carlos Ruiz,,102,1,Software
+4948,Luis Torres,2026-01-17,245,0,Software
+4949,Ana Silva,,216,0,Layer 1
+4950,Carlos Ruiz,,148,1,Configuration
+4951,Ana Silva,,20,0,Software
+4952,Luis Torres,,245,0,Layer 1
+4953,Carlos Ruiz,,474,0,Layer 2
+4954,Luis Torres,,374,1,Configuration
+4955,Carlos Ruiz,,483,1,Software
+4956,Luis Torres,,245,0,Software
+4957,Ana Silva,,421,1,Configuration
+4958,Maria Lopez,,108,1,Layer 2
+4959,Maria Lopez,,204,1,Configuration
+4960,Juan Perez,2026-02-15,290,0,Configuration
+4961,Maria Lopez,,245,1,Software
+4962,Maria Lopez,,78,0,Configuration
+4963,Ana Silva,2026-01-18,295,1,Configuration
+4964,Maria Lopez,,37,1,Layer 1
+4965,Luis Torres,,255,0,Software
+4966,Carlos Ruiz,,184,0,Configuration
+4967,Juan Perez,,475,1,Configuration
+4968,Pedro Marmol,2026-01-28,284,0,Software
+4969,Maria Lopez,,66,1,Layer 2
+4970,Carlos Ruiz,,324,0,Layer 2
+4971,Maria Lopez,,377,0,Software
+4972,Ana Silva,,167,1,Configuration
+4973,Ana Silva,,307,1,Layer 1
+4974,Ana Silva,,113,0,Layer 1
+4975,Ana Silva,2026-01-20,282,0,Configuration
+4976,Pedro Marmol,,345,1,Software
+4977,Carlos Ruiz,,8,1,Software
+4978,Pedro Marmol,2026-02-08,291,1,Layer 2
+4979,Carlos Ruiz,,245,0,Software
+4980,Juan Perez,,453,0,Layer 2
+4981,Pedro Marmol,2026-02-12,399,0,Software
+4982,Carlos Ruiz,2026-01-31,164,1,Configuration
+4983,Carlos Ruiz,2026-02-09,99,1,Software
+4984,Ana Silva,,245,0,Configuration
+4985,Maria Lopez,,399,1,Software
+4986,Carlos Ruiz,,215,0,Configuration
+4987,Luis Torres,,116,1,Configuration
+4988,Carlos Ruiz,2026-02-06,53,0,Configuration
+4989,Ana Silva,,109,0,Configuration
+4990,Juan Perez,2026-01-22,101,1,Layer 2
+4991,Carlos Ruiz,,338,0,Layer 2
+4992,Ana Silva,2026-02-06,228,0,Layer 2
+4993,Pedro Marmol,2026-01-27,41,1,Layer 2
+4994,Carlos Ruiz,,245,0,Configuration
+4995,Carlos Ruiz,2026-01-26,128,1,Layer 1
+4996,Pedro Marmol,,479,1,Layer 1
+4997,Ana Silva,,54,1,Layer 1
+4998,Pedro Marmol,,6,1,Software
+4999,Carlos Ruiz,2026-01-19,42,0,Software
+5000,Carlos Ruiz,2026-01-21,156,0,Configuration
+5001,Carlos Ruiz,,351,1,Layer 2
+5002,Ana Silva,2026-02-10,245,0,Configuration
+5003,Carlos Ruiz,,287,1,Software
+5004,Luis Torres,,476,1,Layer 2
+5005,Pedro Marmol,2026-02-10,433,0,Software
+5006,Pedro Marmol,2026-01-31,341,1,Configuration
+5007,Juan Perez,,45,1,Layer 2
+5008,Pedro Marmol,,94,1,Layer 2
+5009,Carlos Ruiz,,454,1,Layer 1
+5010,Luis Torres,,233,1,Layer 2
+5011,Juan Perez,2026-01-21,50,1,Layer 2
+5012,Ana Silva,,498,0,Configuration
+5013,Ana Silva,2026-01-27,65,0,Layer 2
+5014,Ana Silva,,148,0,Layer 1
+5015,Maria Lopez,,92,1,Layer 1
+5016,Maria Lopez,,76,1,Software
+5017,Ana Silva,,243,1,Configuration
+5018,Juan Perez,,170,0,Software
+5019,Ana Silva,,245,0,Layer 1
+5020,Carlos Ruiz,,334,1,Layer 2
+5021,Luis Torres,,334,0,Configuration
+5022,Carlos Ruiz,2026-01-26,261,0,Layer 1
+5023,Carlos Ruiz,,245,0,Layer 2
+5024,Juan Perez,2026-02-12,232,0,Layer 1
+5025,Carlos Ruiz,,250,1,Software
+5026,Pedro Marmol,,395,0,Layer 2
+5027,Ana Silva,,183,0,Layer 1
+5028,Luis Torres,,165,0,Configuration
+5029,Carlos Ruiz,,88,0,Software
+5030,Luis Torres,,374,1,Configuration
+5031,Ana Silva,,245,1,Layer 2
+5032,Luis Torres,2026-02-14,214,1,Configuration
+5033,Carlos Ruiz,,327,0,Layer 1
+5034,Juan Perez,2026-01-19,460,1,Layer 1
+5035,Pedro Marmol,,270,1,Configuration
+5036,Maria Lopez,,393,0,Layer 2
+5037,Maria Lopez,,84,0,Configuration
+5038,Pedro Marmol,,245,1,Software
+5039,Ana Silva,,229,1,Layer 1
+5040,Ana Silva,,77,1,Layer 2
+5041,Ana Silva,2026-02-09,245,1,Configuration
+5042,Maria Lopez,,72,0,Software
+5043,Maria Lopez,,2,1,Layer 1
+5044,Carlos Ruiz,,47,1,Configuration
+5045,Luis Torres,,245,1,Layer 1
+5046,Ana Silva,2026-01-18,245,1,Layer 2
+5047,Maria Lopez,,131,0,Software
+5048,Maria Lopez,2026-02-02,276,0,Configuration
+5049,Ana Silva,,70,1,Configuration
+5050,Carlos Ruiz,,481,1,Layer 1
+5051,Luis Torres,,200,0,Software
+5052,Carlos Ruiz,,328,1,Configuration
+5053,Maria Lopez,,303,0,Configuration
+5054,Juan Perez,,466,1,Configuration
+5055,Carlos Ruiz,2026-02-06,228,0,Layer 1
+5056,Carlos Ruiz,,457,0,Configuration
+5057,Luis Torres,,424,0,Layer 1
+5058,Juan Perez,,34,1,Layer 1
+5059,Pedro Marmol,,349,0,Layer 1
+5060,Maria Lopez,,86,1,Configuration
+5061,Luis Torres,2026-02-14,294,1,Layer 2
+5062,Ana Silva,,342,1,Layer 1
+5063,Luis Torres,,29,0,Layer 2
+5064,Luis Torres,2026-01-28,30,1,Layer 1
+5065,Luis Torres,,40,1,Configuration
+5066,Luis Torres,,245,1,Layer 1
+5067,Juan Perez,,12,0,Configuration
+5068,Pedro Marmol,,117,1,Layer 2
+5069,Carlos Ruiz,2026-02-04,5,0,Configuration
+5070,Pedro Marmol,,64,1,Layer 1
+5071,Pedro Marmol,2026-01-30,293,0,Configuration
+5072,Luis Torres,2026-02-11,46,0,Layer 2
+5073,Maria Lopez,,386,0,Layer 2
+5074,Pedro Marmol,,472,0,Configuration
+5075,Pedro Marmol,,245,1,Configuration
+5076,Luis Torres,2026-02-03,16,1,Software
+5077,Juan Perez,,390,1,Software
+5078,Pedro Marmol,,335,1,Software
+5079,Ana Silva,,471,1,Software
+5080,Luis Torres,,245,1,Layer 2
+5081,Luis Torres,,498,0,Layer 1
+5082,Maria Lopez,,329,1,Layer 2
+5083,Carlos Ruiz,,173,1,Layer 1
+5084,Carlos Ruiz,2026-01-29,80,0,Configuration
+5085,Luis Torres,2026-01-30,66,1,Configuration
+5086,Pedro Marmol,,195,0,Configuration
+5087,Carlos Ruiz,,245,0,Software
+5088,Pedro Marmol,,383,0,Software
+5089,Pedro Marmol,,405,1,Layer 2
+5090,Ana Silva,2026-02-05,331,0,Layer 2
+5091,Carlos Ruiz,,245,0,Configuration
+5092,Maria Lopez,2026-02-11,499,1,Layer 2
+5093,Carlos Ruiz,,245,0,Layer 2
+5094,Luis Torres,,240,0,Layer 1
+5095,Luis Torres,2026-02-11,245,0,Layer 1
+5096,Carlos Ruiz,,245,0,Layer 1
+5097,Maria Lopez,,207,0,Software
+5098,Juan Perez,2026-01-19,193,1,Layer 1
+5099,Ana Silva,,245,1,Configuration
+5100,Carlos Ruiz,2026-02-05,176,0,Layer 2
+5101,Juan Perez,,337,0,Layer 2
+5102,Juan Perez,,245,0,Layer 1
+5103,Juan Perez,,245,1,Layer 1
+5104,Maria Lopez,,226,0,Software
+5105,Ana Silva,,245,1,Software
+5106,Juan Perez,,117,0,Configuration
+5107,Ana Silva,,245,1,Software
+5108,Ana Silva,2026-01-30,84,1,Software
+5109,Maria Lopez,2026-02-02,257,1,Layer 2
+5110,Luis Torres,2026-01-30,107,0,Configuration
+5111,Luis Torres,,2,0,Software
+5112,Maria Lopez,2026-02-10,335,1,Configuration
+5113,Juan Perez,,245,1,Software
+5114,Ana Silva,,105,1,Layer 1
+5115,Ana Silva,,385,1,Configuration
+5116,Ana Silva,2026-02-07,127,0,Layer 1
+5117,Ana Silva,2026-02-12,142,1,Layer 1
+5118,Ana Silva,,386,1,Layer 2
+5119,Juan Perez,,62,1,Configuration
+5120,Maria Lopez,,301,1,Layer 1
+5121,Ana Silva,,245,0,Layer 1
+5122,Ana Silva,,305,1,Layer 2
+5123,Luis Torres,,314,1,Layer 1
+5124,Maria Lopez,,265,1,Layer 2
+5125,Luis Torres,2026-02-05,411,1,Software
+5126,Luis Torres,,407,1,Configuration
+5127,Pedro Marmol,,49,1,Layer 2
+5128,Ana Silva,,213,1,Configuration
+5129,Maria Lopez,,91,1,Software
+5130,Juan Perez,,401,0,Layer 1
+5131,Carlos Ruiz,,362,0,Layer 2
+5132,Maria Lopez,,345,1,Layer 1
+5133,Juan Perez,2026-02-06,395,1,Configuration
+5134,Carlos Ruiz,,485,0,Layer 2
+5135,Luis Torres,,367,1,Software
+5136,Luis Torres,,398,0,Software
+5137,Juan Perez,,373,0,Layer 1
+5138,Carlos Ruiz,2026-02-12,281,1,Layer 1
+5139,Ana Silva,2026-01-17,97,1,Software
+5140,Juan Perez,,229,1,Configuration
+5141,Maria Lopez,,219,0,Layer 1
+5142,Pedro Marmol,,113,1,Layer 1
+5143,Juan Perez,2026-02-01,387,1,Software
+5144,Juan Perez,,243,0,Layer 1
+5145,Luis Torres,,240,0,Configuration
+5146,Pedro Marmol,,150,0,Software
+5147,Pedro Marmol,,254,1,Software
+5148,Ana Silva,,55,1,Configuration
+5149,Juan Perez,,224,0,Configuration
+5150,Carlos Ruiz,,421,1,Layer 2
+5151,Ana Silva,2026-01-19,424,0,Configuration
+5152,Pedro Marmol,,317,1,Software
+5153,Juan Perez,,190,1,Layer 1
+5154,Luis Torres,2026-01-18,245,0,Software
+5155,Maria Lopez,,341,0,Configuration
+5156,Maria Lopez,,245,0,Layer 1
+5157,Maria Lopez,,188,0,Configuration
+5158,Carlos Ruiz,,291,1,Layer 1
+5159,Maria Lopez,,267,0,Configuration
+5160,Carlos Ruiz,2026-01-26,81,1,Configuration
+5161,Juan Perez,,338,1,Layer 2
+5162,Ana Silva,,44,1,Layer 1
+5163,Luis Torres,,245,1,Layer 1
+5164,Ana Silva,,271,0,Layer 1
+5165,Luis Torres,,245,1,Layer 1
+5166,Maria Lopez,,110,1,Configuration
+5167,Carlos Ruiz,,352,0,Configuration
+5168,Carlos Ruiz,,23,0,Layer 1
+5169,Luis Torres,,392,1,Software
+5170,Ana Silva,,154,1,Layer 2
+5171,Juan Perez,2026-02-09,472,1,Software
+5172,Juan Perez,,245,1,Layer 1
+5173,Luis Torres,,472,1,Software
+5174,Ana Silva,2026-01-30,155,1,Layer 1
+5175,Carlos Ruiz,,469,1,Layer 1
+5176,Juan Perez,,35,0,Layer 1
+5177,Luis Torres,,245,1,Software
+5178,Luis Torres,,273,1,Layer 1
+5179,Juan Perez,,50,1,Software
+5180,Juan Perez,2026-02-02,88,0,Configuration
+5181,Luis Torres,,245,0,Layer 2
+5182,Ana Silva,2026-01-25,459,1,Software
+5183,Ana Silva,,442,1,Layer 1
+5184,Juan Perez,,102,1,Layer 1
+5185,Maria Lopez,,425,1,Layer 2
+5186,Luis Torres,2026-02-14,245,0,Layer 1
+5187,Juan Perez,,488,1,Configuration
+5188,Carlos Ruiz,,64,1,Layer 1
+5189,Ana Silva,,5,0,Layer 1
+5190,Carlos Ruiz,2026-01-25,2,1,Layer 2
+5191,Maria Lopez,,245,1,Layer 1
+5192,Juan Perez,,93,1,Configuration
+5193,Carlos Ruiz,,410,1,Configuration
+5194,Carlos Ruiz,,22,1,Configuration
+5195,Carlos Ruiz,,147,0,Software
+5196,Maria Lopez,,319,1,Layer 2
+5197,Carlos Ruiz,,366,0,Layer 2
+5198,Luis Torres,,3,1,Configuration
+5199,Carlos Ruiz,,199,0,Layer 2
+5200,Luis Torres,,40,1,Configuration
+5201,Pedro Marmol,,208,1,Software
+5202,Ana Silva,2026-02-07,194,0,Configuration
+5203,Luis Torres,,313,1,Configuration
+5204,Carlos Ruiz,,245,0,Layer 2
+5205,Ana Silva,,349,0,Layer 2
+5206,Luis Torres,,240,1,Software
+5207,Maria Lopez,,367,1,Layer 1
+5208,Pedro Marmol,2026-01-23,245,0,Configuration
+5209,Ana Silva,2026-01-26,270,1,Configuration
+5210,Maria Lopez,,199,0,Software
+5211,Carlos Ruiz,,30,0,Software
+5212,Ana Silva,,273,0,Configuration
+5213,Carlos Ruiz,2026-01-29,490,0,Layer 2
+5214,Carlos Ruiz,,62,1,Software
+5215,Carlos Ruiz,,339,1,Configuration
+5216,Maria Lopez,,287,1,Layer 2
+5217,Pedro Marmol,2026-01-22,365,1,Software
+5218,Juan Perez,2026-01-26,407,1,Layer 1
+5219,Luis Torres,,152,1,Software
+5220,Ana Silva,,144,0,Software
+5221,Pedro Marmol,2026-02-12,234,0,Layer 1
+5222,Ana Silva,,361,0,Configuration
+5223,Juan Perez,,437,0,Layer 2
+5224,Luis Torres,,421,0,Layer 2
+5225,Maria Lopez,,14,0,Software
+5226,Carlos Ruiz,,144,1,Layer 2
+5227,Carlos Ruiz,2026-01-27,13,1,Layer 2
+5228,Ana Silva,,12,1,Software
+5229,Pedro Marmol,,118,0,Layer 1
+5230,Luis Torres,,245,1,Layer 2
+5231,Maria Lopez,,462,0,Configuration
+5232,Ana Silva,2026-02-08,462,0,Layer 1
+5233,Carlos Ruiz,,324,1,Layer 1
+5234,Maria Lopez,,173,0,Configuration
+5235,Ana Silva,,250,1,Layer 2
+5236,Carlos Ruiz,2026-02-06,42,1,Software
+5237,Ana Silva,,216,1,Layer 1
+5238,Carlos Ruiz,,158,0,Layer 1
+5239,Carlos Ruiz,,70,0,Software
+5240,Carlos Ruiz,,239,0,Layer 1
+5241,Ana Silva,,148,1,Configuration
+5242,Carlos Ruiz,,434,0,Software
+5243,Carlos Ruiz,2026-02-13,245,1,Layer 1
+5244,Pedro Marmol,2026-01-26,130,0,Configuration
+5245,Luis Torres,,387,1,Layer 1
+5246,Ana Silva,,274,0,Layer 1
+5247,Carlos Ruiz,,397,0,Configuration
+5248,Luis Torres,,245,1,Software
+5249,Pedro Marmol,,145,1,Software
+5250,Maria Lopez,,245,1,Configuration
+5251,Juan Perez,,245,1,Layer 2
+5252,Pedro Marmol,,497,0,Configuration
+5253,Pedro Marmol,2026-01-29,372,1,Layer 2
+5254,Carlos Ruiz,,8,1,Software
+5255,Luis Torres,,452,0,Layer 2
+5256,Pedro Marmol,,140,1,Layer 1
+5257,Carlos Ruiz,,245,0,Software
+5258,Juan Perez,,245,1,Software
+5259,Ana Silva,,168,1,Layer 2
+5260,Ana Silva,,425,1,Configuration
+5261,Carlos Ruiz,2026-02-06,147,1,Software
+5262,Maria Lopez,,122,0,Layer 2
+5263,Maria Lopez,,245,0,Configuration
+5264,Carlos Ruiz,,55,1,Software
+5265,Ana Silva,,229,1,Configuration
+5266,Juan Perez,,53,1,Layer 1
+5267,Ana Silva,,484,1,Software
+5268,Carlos Ruiz,,245,1,Configuration
+5269,Carlos Ruiz,,245,0,Layer 2
+5270,Maria Lopez,,499,1,Configuration
+5271,Maria Lopez,,226,1,Software
+5272,Juan Perez,2026-01-25,419,1,Layer 2
+5273,Ana Silva,,98,0,Software
+5274,Carlos Ruiz,,110,0,Configuration
+5275,Maria Lopez,,247,1,Layer 2
+5276,Ana Silva,2026-02-16,301,0,Layer 1
+5277,Juan Perez,2026-01-19,383,1,Configuration
+5278,Luis Torres,,34,0,Layer 2
+5279,Maria Lopez,2026-02-05,142,1,Configuration
+5280,Luis Torres,,245,0,Layer 1
+5281,Luis Torres,,437,0,Configuration
+5282,Luis Torres,,322,1,Layer 1
+5283,Carlos Ruiz,,497,1,Software
+5284,Ana Silva,,496,0,Layer 2
+5285,Carlos Ruiz,,85,1,Layer 1
+5286,Luis Torres,,357,1,Software
+5287,Juan Perez,,293,0,Layer 1
+5288,Ana Silva,2026-01-28,409,1,Configuration
+5289,Pedro Marmol,2026-02-15,60,1,Software
+5290,Maria Lopez,,96,1,Software
+5291,Carlos Ruiz,2026-02-07,410,1,Configuration
+5292,Juan Perez,2026-01-25,155,1,Configuration
+5293,Luis Torres,,328,1,Software
+5294,Juan Perez,,202,0,Layer 1
+5295,Maria Lopez,,112,1,Configuration
+5296,Ana Silva,,245,0,Layer 1
+5297,Luis Torres,,137,1,Configuration
+5298,Juan Perez,,427,1,Layer 2
+5299,Pedro Marmol,,484,1,Layer 2
+5300,Ana Silva,,371,0,Software
+5301,Ana Silva,,349,1,Layer 1
+5302,Maria Lopez,,22,0,Layer 1
+5303,Ana Silva,2026-01-29,199,1,Layer 1
+5304,Carlos Ruiz,,288,1,Layer 1
+5305,Maria Lopez,,217,0,Layer 1
+5306,Pedro Marmol,,105,1,Layer 2
+5307,Carlos Ruiz,,228,0,Software
+5308,Maria Lopez,,217,0,Layer 2
+5309,Maria Lopez,,245,0,Layer 2
+5310,Carlos Ruiz,,402,1,Layer 1
+5311,Maria Lopez,,21,1,Software
+5312,Juan Perez,2026-02-07,477,0,Software
+5313,Juan Perez,,461,1,Configuration
+5314,Carlos Ruiz,,419,1,Layer 1
+5315,Juan Perez,,245,1,Layer 2
+5316,Carlos Ruiz,,426,0,Layer 2
+5317,Ana Silva,,216,1,Layer 1
+5318,Luis Torres,,245,1,Layer 1
+5319,Luis Torres,,121,1,Layer 2
+5320,Ana Silva,,150,1,Configuration
+5321,Maria Lopez,,347,1,Layer 2
+5322,Pedro Marmol,,245,1,Layer 1
+5323,Luis Torres,2026-01-20,455,1,Configuration
+5324,Pedro Marmol,,18,1,Configuration
+5325,Juan Perez,2026-01-21,297,1,Software
+5326,Carlos Ruiz,2026-02-10,76,0,Layer 1
+5327,Pedro Marmol,,245,1,Layer 2
+5328,Luis Torres,,116,1,Layer 1
+5329,Luis Torres,,252,1,Layer 1
+5330,Ana Silva,,473,0,Software
+5331,Carlos Ruiz,,435,0,Software
+5332,Luis Torres,,443,0,Software
+5333,Luis Torres,,177,1,Software
+5334,Carlos Ruiz,,214,0,Layer 2
+5335,Maria Lopez,,183,1,Layer 1
+5336,Carlos Ruiz,,399,0,Layer 1
+5337,Luis Torres,,85,0,Configuration
+5338,Ana Silva,,476,0,Layer 2
+5339,Maria Lopez,2026-02-13,415,1,Layer 1
+5340,Maria Lopez,2026-02-16,248,1,Layer 1
+5341,Juan Perez,,245,0,Configuration
+5342,Ana Silva,,219,1,Layer 2
+5343,Luis Torres,,245,0,Configuration
+5344,Juan Perez,,22,1,Layer 1
+5345,Ana Silva,2026-02-05,80,1,Layer 1
+5346,Carlos Ruiz,,245,0,Layer 1
+5347,Juan Perez,,210,1,Configuration
+5348,Maria Lopez,,375,1,Software
+5349,Maria Lopez,2026-01-27,245,1,Layer 2
+5350,Maria Lopez,2026-02-10,432,1,Layer 2
+5351,Pedro Marmol,,346,1,Configuration
+5352,Ana Silva,,301,0,Software
+5353,Pedro Marmol,,245,1,Layer 1
+5354,Ana Silva,,130,1,Software
+5355,Carlos Ruiz,,230,1,Layer 1
+5356,Ana Silva,,366,0,Layer 2
+5357,Maria Lopez,,245,1,Software
+5358,Luis Torres,2026-02-16,323,1,Layer 2
+5359,Carlos Ruiz,,268,0,Software
+5360,Pedro Marmol,,191,0,Layer 1
+5361,Luis Torres,,275,1,Layer 2
+5362,Ana Silva,,478,1,Software
+5363,Luis Torres,,237,1,Layer 2
+5364,Luis Torres,,245,1,Layer 2
+5365,Carlos Ruiz,,253,0,Layer 1
+5366,Juan Perez,,235,0,Layer 1
+5367,Pedro Marmol,,405,1,Layer 1
+5368,Carlos Ruiz,,310,0,Configuration
+5369,Luis Torres,,40,0,Layer 2
+5370,Maria Lopez,2026-01-31,427,0,Software
+5371,Pedro Marmol,2026-02-08,431,0,Configuration
+5372,Juan Perez,,402,0,Layer 2
+5373,Carlos Ruiz,,131,1,Software
+5374,Carlos Ruiz,,170,1,Layer 2
+5375,Juan Perez,2026-01-20,57,0,Layer 1
+5376,Carlos Ruiz,,255,1,Layer 1
+5377,Ana Silva,,443,1,Configuration
+5378,Carlos Ruiz,,145,0,Layer 2
+5379,Carlos Ruiz,,249,1,Configuration
+5380,Maria Lopez,,15,1,Layer 2
+5381,Carlos Ruiz,2026-02-14,346,1,Layer 1
+5382,Maria Lopez,2026-02-11,245,0,Layer 1
+5383,Maria Lopez,,45,1,Layer 1
+5384,Luis Torres,,197,1,Configuration
+5385,Pedro Marmol,2026-02-01,245,1,Layer 1
+5386,Carlos Ruiz,,329,0,Layer 2
+5387,Juan Perez,,185,0,Software
+5388,Carlos Ruiz,,212,1,Configuration
+5389,Carlos Ruiz,,291,1,Layer 2
+5390,Luis Torres,,284,0,Layer 1
+5391,Pedro Marmol,2026-01-30,138,0,Software
+5392,Carlos Ruiz,,361,1,Configuration
+5393,Carlos Ruiz,2026-01-21,215,1,Software
+5394,Luis Torres,,245,0,Software
+5395,Ana Silva,,245,0,Layer 1
+5396,Pedro Marmol,2026-02-05,462,1,Layer 1
+5397,Ana Silva,2026-01-21,245,0,Layer 2
+5398,Ana Silva,2026-01-29,259,1,Configuration
+5399,Maria Lopez,,84,1,Software
+5400,Juan Perez,,242,0,Configuration
+5401,Carlos Ruiz,,482,1,Layer 1
+5402,Maria Lopez,2026-01-31,76,0,Layer 1
+5403,Ana Silva,,114,0,Layer 2
+5404,Juan Perez,2026-02-02,461,1,Software
+5405,Pedro Marmol,,11,1,Layer 1
+5406,Carlos Ruiz,2026-02-10,408,1,Layer 1
+5407,Luis Torres,,281,1,Layer 1
+5408,Pedro Marmol,,245,0,Layer 1
+5409,Pedro Marmol,,90,1,Layer 2
+5410,Carlos Ruiz,,427,1,Software
+5411,Maria Lopez,,202,1,Configuration
+5412,Pedro Marmol,2026-01-22,74,0,Software
+5413,Juan Perez,2026-02-15,377,0,Software
+5414,Luis Torres,,305,1,Configuration
+5415,Juan Perez,,245,0,Layer 2
+5416,Luis Torres,2026-01-18,296,0,Layer 2
+5417,Juan Perez,2026-02-02,245,0,Layer 1
+5418,Luis Torres,,368,0,Layer 1
+5419,Carlos Ruiz,2026-02-07,241,0,Layer 1
+5420,Carlos Ruiz,2026-01-19,360,0,Layer 2
+5421,Luis Torres,,223,1,Layer 2
+5422,Luis Torres,2026-02-02,259,1,Software
+5423,Luis Torres,,96,0,Software
+5424,Maria Lopez,,245,1,Layer 1
+5425,Ana Silva,,448,1,Layer 1
+5426,Juan Perez,,30,0,Configuration
+5427,Juan Perez,,222,0,Software
+5428,Carlos Ruiz,,245,1,Layer 2
+5429,Luis Torres,2026-02-14,311,0,Configuration
+5430,Pedro Marmol,,431,1,Layer 1
+5431,Pedro Marmol,,34,0,Layer 2
+5432,Pedro Marmol,,73,1,Software
+5433,Maria Lopez,,284,1,Software
+5434,Pedro Marmol,,139,1,Layer 1
+5435,Luis Torres,,245,0,Configuration
+5436,Maria Lopez,,314,1,Configuration
+5437,Pedro Marmol,,0,0,Layer 2
+5438,Juan Perez,2026-02-01,10,1,Configuration
+5439,Maria Lopez,,468,0,Layer 1
+5440,Luis Torres,2026-01-26,306,1,Layer 1
+5441,Carlos Ruiz,,350,1,Configuration
+5442,Pedro Marmol,,388,1,Layer 1
+5443,Ana Silva,,338,1,Layer 1
+5444,Ana Silva,,354,1,Layer 2
+5445,Luis Torres,,407,0,Configuration
+5446,Ana Silva,2026-02-06,153,0,Software
+5447,Pedro Marmol,,394,1,Layer 1
+5448,Maria Lopez,,353,0,Layer 1
+5449,Ana Silva,,245,1,Layer 1
+5450,Juan Perez,,448,0,Layer 2
+5451,Luis Torres,2026-02-11,437,1,Layer 1
+5452,Pedro Marmol,2026-02-05,448,1,Layer 1
+5453,Luis Torres,,313,1,Layer 1
+5454,Luis Torres,,451,1,Layer 1
+5455,Luis Torres,,492,1,Layer 1
+5456,Luis Torres,,104,1,Configuration
+5457,Juan Perez,,405,1,Layer 1
+5458,Pedro Marmol,2026-01-21,48,0,Software
+5459,Luis Torres,2026-01-18,166,0,Layer 2
+5460,Maria Lopez,,245,0,Software
+5461,Luis Torres,2026-01-28,422,1,Layer 1
+5462,Ana Silva,,287,1,Layer 2
+5463,Ana Silva,,209,1,Layer 2
+5464,Pedro Marmol,,28,1,Software
+5465,Luis Torres,2026-01-28,267,0,Layer 1
+5466,Ana Silva,2026-01-18,444,1,Layer 2
+5467,Juan Perez,,321,1,Layer 2
+5468,Maria Lopez,,389,0,Layer 1
+5469,Maria Lopez,,245,1,Software
+5470,Carlos Ruiz,2026-02-06,245,1,Layer 2
+5471,Ana Silva,,123,0,Layer 2
+5472,Juan Perez,,103,0,Layer 1
+5473,Ana Silva,,91,0,Software
+5474,Carlos Ruiz,,234,0,Layer 2
+5475,Pedro Marmol,,146,0,Configuration
+5476,Juan Perez,2026-01-18,245,0,Configuration
+5477,Luis Torres,,140,1,Configuration
+5478,Luis Torres,2026-01-24,297,0,Layer 2
+5479,Juan Perez,2026-02-04,92,0,Layer 2
+5480,Ana Silva,,277,1,Layer 1
+5481,Pedro Marmol,2026-01-24,43,1,Software
+5482,Carlos Ruiz,,482,1,Software
+5483,Pedro Marmol,2026-02-04,236,0,Layer 2
+5484,Juan Perez,,245,1,Layer 1
+5485,Luis Torres,,140,0,Layer 1
+5486,Juan Perez,2026-01-22,58,0,Layer 1
+5487,Juan Perez,,245,1,Layer 2
+5488,Juan Perez,,147,0,Layer 2
+5489,Juan Perez,2026-01-19,245,1,Layer 1
+5490,Carlos Ruiz,,245,1,Software
+5491,Carlos Ruiz,,245,1,Software
+5492,Luis Torres,2026-02-12,307,0,Software
+5493,Pedro Marmol,2026-01-22,205,1,Layer 2
+5494,Ana Silva,,283,0,Layer 1
+5495,Maria Lopez,,360,0,Software
+5496,Pedro Marmol,,245,1,Software
+5497,Carlos Ruiz,,245,1,Layer 2
+5498,Luis Torres,,51,1,Configuration
+5499,Juan Perez,,485,1,Software
+5500,Juan Perez,,245,1,Configuration
+5501,Luis Torres,,4,1,Layer 2
+5502,Luis Torres,,245,1,Layer 2
+5503,Luis Torres,2026-02-05,58,0,Layer 1
+5504,Juan Perez,,179,1,Layer 1
+5505,Luis Torres,,435,0,Layer 2
+5506,Maria Lopez,,137,1,Configuration
+5507,Juan Perez,,68,0,Layer 1
+5508,Carlos Ruiz,2026-02-06,478,0,Configuration
+5509,Ana Silva,,57,1,Layer 1
+5510,Maria Lopez,,245,0,Layer 1
+5511,Pedro Marmol,,301,0,Layer 2
+5512,Luis Torres,,244,1,Configuration
+5513,Maria Lopez,,429,1,Layer 1
+5514,Juan Perez,,161,0,Layer 2
+5515,Juan Perez,2026-02-11,114,0,Layer 2
+5516,Maria Lopez,,245,1,Layer 1
+5517,Carlos Ruiz,2026-02-08,294,0,Layer 2
+5518,Carlos Ruiz,,258,1,Software
+5519,Maria Lopez,,235,0,Layer 1
+5520,Pedro Marmol,,305,0,Layer 1
+5521,Luis Torres,,325,1,Configuration
+5522,Juan Perez,,446,0,Layer 2
+5523,Pedro Marmol,2026-01-28,172,0,Configuration
+5524,Maria Lopez,,245,0,Layer 1
+5525,Pedro Marmol,,343,0,Layer 2
+5526,Carlos Ruiz,,354,1,Layer 1
+5527,Juan Perez,,471,0,Configuration
+5528,Luis Torres,,245,0,Software
+5529,Luis Torres,,457,1,Layer 2
+5530,Carlos Ruiz,2026-02-15,314,1,Layer 2
+5531,Pedro Marmol,,297,1,Configuration
+5532,Pedro Marmol,,272,0,Layer 2
+5533,Juan Perez,,350,1,Configuration
+5534,Juan Perez,,245,1,Configuration
+5535,Maria Lopez,2026-01-31,217,1,Layer 1
+5536,Maria Lopez,,494,1,Software
+5537,Carlos Ruiz,2026-01-21,245,0,Layer 1
+5538,Luis Torres,,56,1,Layer 2
+5539,Pedro Marmol,,191,0,Layer 2
+5540,Carlos Ruiz,2026-02-05,91,0,Software
+5541,Carlos Ruiz,,169,1,Layer 2
+5542,Ana Silva,,245,0,Layer 1
+5543,Luis Torres,2026-01-21,109,1,Layer 1
+5544,Pedro Marmol,,302,0,Layer 2
+5545,Maria Lopez,,312,1,Software
+5546,Ana Silva,,20,0,Software
+5547,Luis Torres,,245,0,Software
+5548,Carlos Ruiz,2026-02-10,205,0,Layer 2
+5549,Juan Perez,2026-02-02,417,1,Layer 1
+5550,Juan Perez,,43,0,Layer 2
+5551,Ana Silva,,189,0,Software
+5552,Luis Torres,2026-02-06,245,0,Software
+5553,Ana Silva,,245,1,Configuration
+5554,Maria Lopez,,400,0,Layer 1
+5555,Ana Silva,,68,1,Configuration
+5556,Carlos Ruiz,2026-01-18,235,0,Configuration
+5557,Ana Silva,,358,1,Software
+5558,Carlos Ruiz,,413,0,Software
+5559,Pedro Marmol,2026-02-07,39,1,Layer 1
+5560,Luis Torres,,116,1,Layer 1
+5561,Ana Silva,,212,1,Layer 1
+5562,Juan Perez,,499,0,Layer 2
+5563,Pedro Marmol,,245,0,Configuration
+5564,Ana Silva,2026-01-18,245,1,Software
+5565,Luis Torres,,270,1,Layer 2
+5566,Maria Lopez,2026-01-27,62,0,Layer 1
+5567,Ana Silva,,442,0,Software
+5568,Ana Silva,,141,1,Layer 1
+5569,Juan Perez,,178,1,Configuration
+5570,Pedro Marmol,,424,0,Layer 1
+5571,Pedro Marmol,,435,0,Configuration
+5572,Carlos Ruiz,,250,1,Configuration
+5573,Ana Silva,2026-02-04,245,0,Layer 1
+5574,Ana Silva,,422,1,Layer 1
+5575,Maria Lopez,,161,1,Configuration
+5576,Carlos Ruiz,,370,1,Software
+5577,Ana Silva,2026-02-04,190,1,Layer 1
+5578,Luis Torres,2026-02-10,289,0,Layer 1
+5579,Maria Lopez,2026-01-28,245,1,Layer 2
+5580,Juan Perez,,54,1,Layer 2
+5581,Pedro Marmol,,38,1,Configuration
+5582,Maria Lopez,,243,0,Software
+5583,Pedro Marmol,,245,0,Layer 1
+5584,Juan Perez,,398,0,Software
+5585,Luis Torres,2026-01-24,26,0,Layer 1
+5586,Ana Silva,2026-02-03,8,1,Software
+5587,Pedro Marmol,,287,0,Layer 1
+5588,Juan Perez,,367,1,Configuration
+5589,Maria Lopez,2026-02-07,39,1,Software
+5590,Carlos Ruiz,,278,1,Configuration
+5591,Luis Torres,,427,1,Software
+5592,Ana Silva,2026-01-29,245,1,Software
+5593,Pedro Marmol,,439,1,Layer 1
+5594,Ana Silva,,443,1,Layer 1
+5595,Luis Torres,,158,1,Layer 1
+5596,Luis Torres,2026-01-28,465,0,Layer 1
+5597,Luis Torres,,393,0,Software
+5598,Luis Torres,,266,0,Layer 1
+5599,Juan Perez,,491,0,Layer 1
+5600,Maria Lopez,,380,1,Layer 2
+5601,Ana Silva,,165,1,Configuration
+5602,Pedro Marmol,,156,1,Software
+5603,Ana Silva,,245,1,Software
+5604,Maria Lopez,,344,0,Configuration
+5605,Pedro Marmol,2026-02-04,61,0,Layer 2
+5606,Ana Silva,,245,0,Layer 1
+5607,Pedro Marmol,,321,0,Software
+5608,Juan Perez,,204,1,Configuration
+5609,Luis Torres,2026-01-21,78,1,Software
+5610,Pedro Marmol,,167,1,Software
+5611,Maria Lopez,,404,1,Layer 1
+5612,Juan Perez,,174,1,Software
+5613,Ana Silva,,98,1,Configuration
+5614,Luis Torres,2026-01-30,371,0,Layer 1
+5615,Maria Lopez,,415,1,Layer 2
+5616,Pedro Marmol,,408,1,Layer 2
+5617,Pedro Marmol,,245,0,Software
+5618,Luis Torres,2026-02-16,11,0,Layer 1
+5619,Carlos Ruiz,2026-01-19,309,1,Layer 1
+5620,Ana Silva,,189,1,Layer 2
+5621,Carlos Ruiz,,245,1,Layer 2
+5622,Luis Torres,,45,1,Software
+5623,Juan Perez,,176,1,Layer 2
+5624,Juan Perez,,407,0,Configuration
+5625,Pedro Marmol,,374,1,Layer 2
+5626,Maria Lopez,,428,1,Configuration
+5627,Carlos Ruiz,,32,1,Layer 1
+5628,Carlos Ruiz,2026-01-18,134,1,Layer 1
+5629,Carlos Ruiz,2026-01-23,266,1,Layer 2
+5630,Maria Lopez,,375,1,Configuration
+5631,Carlos Ruiz,,355,1,Layer 1
+5632,Ana Silva,,142,1,Layer 1
+5633,Carlos Ruiz,2026-01-23,190,1,Configuration
+5634,Maria Lopez,2026-01-25,134,1,Configuration
+5635,Maria Lopez,2026-02-12,323,0,Configuration
+5636,Maria Lopez,,314,1,Layer 2
+5637,Luis Torres,2026-01-29,326,1,Software
+5638,Juan Perez,,213,0,Software
+5639,Pedro Marmol,,245,0,Layer 1
+5640,Maria Lopez,,324,1,Software
+5641,Luis Torres,2026-02-12,28,0,Configuration
+5642,Juan Perez,,342,0,Layer 1
+5643,Luis Torres,,481,1,Software
+5644,Pedro Marmol,,245,1,Software
+5645,Maria Lopez,,7,0,Configuration
+5646,Pedro Marmol,,218,1,Software
+5647,Luis Torres,,438,1,Configuration
+5648,Maria Lopez,2026-01-19,145,1,Layer 2
+5649,Pedro Marmol,,114,0,Layer 2
+5650,Carlos Ruiz,2026-01-20,245,1,Layer 2
+5651,Ana Silva,,424,0,Configuration
+5652,Ana Silva,,153,0,Layer 1
+5653,Maria Lopez,,321,0,Layer 2
+5654,Pedro Marmol,,245,0,Software
+5655,Carlos Ruiz,2026-01-26,428,1,Software
+5656,Carlos Ruiz,2026-02-16,245,1,Layer 2
+5657,Pedro Marmol,,120,1,Layer 2
+5658,Maria Lopez,,245,1,Layer 2
+5659,Pedro Marmol,,265,0,Software
+5660,Pedro Marmol,,292,0,Software
+5661,Maria Lopez,,245,1,Layer 1
+5662,Maria Lopez,2026-01-27,245,0,Layer 2
+5663,Maria Lopez,,288,0,Layer 2
+5664,Maria Lopez,,266,0,Software
+5665,Pedro Marmol,2026-01-17,483,1,Layer 1
+5666,Juan Perez,2026-01-30,382,1,Software
+5667,Juan Perez,2026-02-11,371,1,Layer 1
+5668,Luis Torres,,83,0,Configuration
+5669,Ana Silva,,67,1,Layer 2
+5670,Carlos Ruiz,2026-02-01,282,1,Software
+5671,Luis Torres,,245,0,Configuration
+5672,Luis Torres,,272,0,Configuration
+5673,Maria Lopez,,217,1,Layer 1
+5674,Luis Torres,,16,0,Software
+5675,Ana Silva,,187,0,Layer 1
+5676,Maria Lopez,,387,1,Software
+5677,Ana Silva,,196,1,Layer 1
+5678,Luis Torres,2026-02-16,133,0,Layer 1
+5679,Maria Lopez,,100,0,Software
+5680,Juan Perez,,206,0,Configuration
+5681,Carlos Ruiz,,328,1,Layer 1
+5682,Ana Silva,,330,0,Configuration
+5683,Ana Silva,,245,0,Software
+5684,Maria Lopez,,2,1,Layer 2
+5685,Pedro Marmol,2026-02-07,248,0,Layer 2
+5686,Maria Lopez,,245,0,Layer 2
+5687,Luis Torres,,242,1,Layer 1
+5688,Ana Silva,,185,0,Software
+5689,Ana Silva,,2,0,Software
+5690,Pedro Marmol,,308,0,Configuration
+5691,Pedro Marmol,,110,1,Layer 1
+5692,Pedro Marmol,,197,1,Layer 1
+5693,Juan Perez,,433,1,Software
+5694,Carlos Ruiz,2026-02-16,107,1,Software
+5695,Luis Torres,,412,1,Software
+5696,Carlos Ruiz,,206,1,Layer 1
+5697,Carlos Ruiz,,258,1,Layer 1
+5698,Maria Lopez,,13,1,Software
+5699,Maria Lopez,2026-01-20,311,1,Layer 2
+5700,Ana Silva,2026-02-16,99,1,Layer 2
+5701,Juan Perez,,242,0,Configuration
+5702,Juan Perez,,56,0,Layer 1
+5703,Maria Lopez,,124,0,Configuration
+5704,Pedro Marmol,,130,1,Layer 2
+5705,Pedro Marmol,,397,0,Configuration
+5706,Pedro Marmol,,212,1,Configuration
+5707,Luis Torres,,245,0,Software
+5708,Ana Silva,2026-01-23,491,0,Software
+5709,Carlos Ruiz,,294,0,Layer 2
+5710,Maria Lopez,,384,1,Layer 2
+5711,Maria Lopez,,91,1,Layer 2
+5712,Juan Perez,,275,0,Layer 1
+5713,Maria Lopez,,206,0,Layer 2
+5714,Ana Silva,2026-01-17,187,1,Layer 2
+5715,Ana Silva,2026-02-09,149,1,Software
+5716,Maria Lopez,,210,0,Software
+5717,Maria Lopez,2026-02-13,279,1,Layer 2
+5718,Carlos Ruiz,2026-01-29,128,1,Software
+5719,Juan Perez,2026-01-17,468,1,Configuration
+5720,Maria Lopez,,107,0,Software
+5721,Maria Lopez,2026-01-27,288,0,Configuration
+5722,Ana Silva,,28,1,Layer 2
+5723,Ana Silva,,243,0,Layer 1
+5724,Maria Lopez,,170,1,Configuration
+5725,Carlos Ruiz,2026-01-29,245,0,Layer 2
+5726,Maria Lopez,,455,1,Configuration
+5727,Luis Torres,,367,1,Layer 1
+5728,Maria Lopez,,219,1,Configuration
+5729,Carlos Ruiz,,245,0,Software
+5730,Carlos Ruiz,,465,1,Layer 2
+5731,Pedro Marmol,2026-01-28,251,1,Layer 1
+5732,Juan Perez,2026-02-05,245,1,Layer 2
+5733,Pedro Marmol,,78,1,Layer 2
+5734,Pedro Marmol,,204,1,Configuration
+5735,Maria Lopez,,245,0,Layer 2
+5736,Carlos Ruiz,,233,1,Layer 1
+5737,Juan Perez,,488,1,Configuration
+5738,Juan Perez,,245,1,Configuration
+5739,Maria Lopez,,177,0,Configuration
+5740,Maria Lopez,,393,0,Layer 2
+5741,Carlos Ruiz,,1,1,Layer 1
+5742,Carlos Ruiz,2026-01-29,247,0,Configuration
+5743,Pedro Marmol,,270,1,Layer 2
+5744,Luis Torres,2026-01-21,497,1,Layer 2
+5745,Carlos Ruiz,,478,0,Layer 1
+5746,Ana Silva,,44,1,Software
+5747,Carlos Ruiz,,136,0,Layer 2
+5748,Pedro Marmol,2026-01-27,451,1,Configuration
+5749,Maria Lopez,,92,0,Configuration
+5750,Luis Torres,2026-02-04,317,0,Software
+5751,Luis Torres,2026-01-24,245,0,Software
+5752,Pedro Marmol,2026-02-06,104,0,Layer 2
+5753,Juan Perez,2026-02-02,245,1,Layer 1
+5754,Juan Perez,,179,0,Layer 2
+5755,Ana Silva,,127,1,Software
+5756,Pedro Marmol,,356,0,Software
+5757,Juan Perez,,259,0,Layer 1
+5758,Luis Torres,,64,1,Layer 1
+5759,Juan Perez,2026-02-13,455,0,Configuration
+5760,Pedro Marmol,,120,0,Software
+5761,Luis Torres,,324,0,Layer 1
+5762,Luis Torres,2026-02-06,245,1,Software
+5763,Ana Silva,,104,1,Layer 1
+5764,Pedro Marmol,,245,1,Configuration
+5765,Luis Torres,,157,1,Software
+5766,Luis Torres,,223,0,Configuration
+5767,Pedro Marmol,2026-01-30,18,0,Layer 2
+5768,Maria Lopez,2026-01-26,256,0,Configuration
+5769,Juan Perez,,307,0,Software
+5770,Pedro Marmol,,46,0,Software
+5771,Pedro Marmol,2026-01-18,132,1,Layer 2
+5772,Maria Lopez,2026-02-15,370,1,Software
+5773,Maria Lopez,,500,0,Configuration
+5774,Luis Torres,,484,1,Layer 2
+5775,Pedro Marmol,2026-02-13,353,1,Layer 1
+5776,Ana Silva,,59,1,Layer 1
+5777,Pedro Marmol,,12,1,Configuration
+5778,Luis Torres,,245,1,Layer 2
+5779,Juan Perez,,220,0,Layer 2
+5780,Pedro Marmol,,174,0,Software
+5781,Luis Torres,,245,0,Software
+5782,Luis Torres,,483,0,Layer 2
+5783,Maria Lopez,,23,0,Layer 2
+5784,Pedro Marmol,,317,0,Configuration
+5785,Pedro Marmol,,4,0,Layer 2
+5786,Maria Lopez,,57,0,Layer 1
+5787,Carlos Ruiz,2026-02-03,0,0,Layer 1
+5788,Maria Lopez,,470,1,Configuration
+5789,Carlos Ruiz,2026-01-19,489,1,Software
+5790,Maria Lopez,2026-02-03,319,0,Layer 2
+5791,Maria Lopez,2026-02-04,147,1,Configuration
+5792,Juan Perez,,63,0,Configuration
+5793,Ana Silva,2026-01-20,499,1,Layer 1
+5794,Maria Lopez,2026-01-28,135,0,Layer 1
+5795,Maria Lopez,,207,0,Software
+5796,Maria Lopez,,221,1,Configuration
+5797,Ana Silva,,84,1,Layer 1
+5798,Maria Lopez,2026-02-16,14,1,Layer 1
+5799,Juan Perez,,245,0,Software
+5800,Juan Perez,2026-02-07,245,1,Configuration
+5801,Ana Silva,,245,1,Layer 1
+5802,Juan Perez,,500,1,Layer 1
+5803,Maria Lopez,,205,0,Software
+5804,Maria Lopez,,66,1,Software
+5805,Luis Torres,,374,1,Configuration
+5806,Maria Lopez,2026-02-01,275,0,Software
+5807,Luis Torres,2026-02-09,371,1,Layer 2
+5808,Maria Lopez,,482,0,Layer 1
+5809,Luis Torres,,413,0,Layer 2
+5810,Pedro Marmol,,57,1,Layer 2
+5811,Luis Torres,,281,0,Configuration
+5812,Juan Perez,,6,0,Layer 1
+5813,Luis Torres,,399,1,Layer 2
+5814,Maria Lopez,2026-02-15,303,1,Configuration
+5815,Maria Lopez,,397,0,Configuration
+5816,Maria Lopez,2026-01-26,292,1,Configuration
+5817,Pedro Marmol,,173,1,Configuration
+5818,Maria Lopez,,136,0,Layer 1
+5819,Luis Torres,,325,1,Layer 2
+5820,Carlos Ruiz,,245,1,Layer 2
+5821,Carlos Ruiz,,292,1,Software
+5822,Ana Silva,,16,1,Layer 2
+5823,Juan Perez,,245,1,Layer 1
+5824,Luis Torres,2026-01-25,202,1,Layer 1
+5825,Luis Torres,,245,0,Layer 2
+5826,Luis Torres,,312,1,Layer 2
+5827,Ana Silva,,245,0,Layer 1
+5828,Carlos Ruiz,2026-02-06,55,1,Software
+5829,Ana Silva,,287,1,Software
+5830,Maria Lopez,,171,0,Layer 1
+5831,Ana Silva,,477,1,Layer 2
+5832,Luis Torres,,79,0,Layer 1
+5833,Maria Lopez,,98,0,Configuration
+5834,Juan Perez,2026-02-12,253,0,Software
+5835,Maria Lopez,,187,1,Layer 2
+5836,Maria Lopez,,174,0,Software
+5837,Pedro Marmol,,245,1,Layer 2
+5838,Luis Torres,,66,1,Layer 2
+5839,Luis Torres,,172,1,Configuration
+5840,Carlos Ruiz,,156,1,Software
+5841,Carlos Ruiz,2026-01-18,245,0,Software
+5842,Pedro Marmol,,245,1,Layer 1
+5843,Juan Perez,,245,0,Layer 1
+5844,Pedro Marmol,,429,0,Layer 2
+5845,Pedro Marmol,,245,0,Layer 1
+5846,Pedro Marmol,,268,0,Layer 2
+5847,Maria Lopez,,301,0,Software
+5848,Pedro Marmol,,398,1,Configuration
+5849,Pedro Marmol,2026-01-28,156,1,Configuration
+5850,Maria Lopez,2026-01-25,165,1,Layer 2
+5851,Luis Torres,2026-02-15,317,1,Layer 2
+5852,Carlos Ruiz,,88,0,Layer 2
+5853,Luis Torres,,245,1,Software
+5854,Ana Silva,,203,1,Configuration
+5855,Carlos Ruiz,2026-01-21,2,1,Layer 1
+5856,Carlos Ruiz,,106,1,Software
+5857,Ana Silva,2026-01-18,245,1,Layer 2
+5858,Carlos Ruiz,,181,1,Software
+5859,Maria Lopez,,445,1,Layer 2
+5860,Maria Lopez,2026-01-20,360,1,Software
+5861,Maria Lopez,,125,1,Layer 2
+5862,Pedro Marmol,2026-02-07,311,1,Layer 1
+5863,Carlos Ruiz,,201,0,Layer 2
+5864,Juan Perez,,340,1,Layer 2
+5865,Juan Perez,,128,0,Software
+5866,Maria Lopez,,231,1,Configuration
+5867,Pedro Marmol,,245,1,Layer 1
+5868,Maria Lopez,,354,1,Layer 2
+5869,Juan Perez,,245,1,Configuration
+5870,Ana Silva,,245,0,Software
+5871,Pedro Marmol,,328,0,Layer 2
+5872,Carlos Ruiz,,465,1,Layer 2
+5873,Pedro Marmol,,269,1,Configuration
+5874,Pedro Marmol,,92,1,Software
+5875,Luis Torres,,64,1,Software
+5876,Luis Torres,,429,0,Configuration
+5877,Pedro Marmol,2026-02-05,245,0,Software
+5878,Juan Perez,2026-02-11,381,1,Software
+5879,Luis Torres,,86,1,Layer 2
+5880,Ana Silva,,245,1,Software
+5881,Luis Torres,,237,1,Layer 1
+5882,Maria Lopez,,285,0,Layer 2
+5883,Pedro Marmol,,113,1,Layer 1
+5884,Pedro Marmol,,94,1,Configuration
+5885,Juan Perez,,158,0,Configuration
+5886,Luis Torres,,245,1,Layer 1
+5887,Ana Silva,,389,1,Software
+5888,Luis Torres,,330,0,Layer 1
+5889,Juan Perez,2026-02-13,332,1,Layer 1
+5890,Ana Silva,2026-01-30,475,1,Software
+5891,Maria Lopez,,186,1,Layer 2
+5892,Juan Perez,,143,1,Configuration
+5893,Luis Torres,,358,0,Layer 1
+5894,Pedro Marmol,,48,0,Layer 1
+5895,Ana Silva,,9,1,Configuration
+5896,Juan Perez,,312,1,Layer 2
+5897,Pedro Marmol,,124,0,Software
+5898,Juan Perez,,253,0,Configuration
+5899,Ana Silva,,245,1,Configuration
+5900,Ana Silva,,46,0,Configuration
+5901,Juan Perez,,245,1,Layer 1
+5902,Ana Silva,,487,0,Software
+5903,Luis Torres,,278,1,Layer 2
+5904,Juan Perez,,164,0,Layer 2
+5905,Maria Lopez,2026-01-26,245,1,Software
+5906,Pedro Marmol,,13,0,Layer 2
+5907,Luis Torres,2026-02-04,269,1,Layer 2
+5908,Maria Lopez,2026-02-08,245,0,Configuration
+5909,Maria Lopez,,245,0,Layer 2
+5910,Pedro Marmol,,481,0,Layer 2
+5911,Maria Lopez,,324,0,Software
+5912,Maria Lopez,,245,0,Configuration
+5913,Carlos Ruiz,,321,1,Layer 2
+5914,Juan Perez,,245,1,Layer 2
+5915,Maria Lopez,2026-02-16,442,1,Layer 2
+5916,Juan Perez,,260,1,Layer 1
+5917,Pedro Marmol,,115,0,Layer 1
+5918,Juan Perez,,178,1,Software
+5919,Maria Lopez,,245,0,Layer 1
+5920,Luis Torres,,278,1,Layer 2
+5921,Pedro Marmol,2026-02-07,450,0,Layer 1
+5922,Maria Lopez,,202,1,Configuration
+5923,Ana Silva,,22,1,Configuration
+5924,Maria Lopez,,197,1,Layer 1
+5925,Luis Torres,,250,1,Layer 2
+5926,Maria Lopez,,295,1,Software
+5927,Maria Lopez,,36,0,Layer 1
+5928,Juan Perez,2026-02-15,226,1,Configuration
+5929,Maria Lopez,,478,0,Layer 1
+5930,Carlos Ruiz,,139,0,Layer 1
+5931,Luis Torres,2026-02-12,351,1,Software
+5932,Ana Silva,2026-01-18,56,1,Layer 2
+5933,Luis Torres,,175,1,Layer 2
+5934,Ana Silva,2026-02-10,245,1,Layer 1
+5935,Juan Perez,,245,0,Software
+5936,Pedro Marmol,,310,0,Layer 1
+5937,Luis Torres,2026-02-03,370,1,Configuration
+5938,Carlos Ruiz,2026-02-07,500,0,Software
+5939,Ana Silva,2026-01-21,68,0,Layer 2
+5940,Pedro Marmol,2026-01-19,471,0,Layer 2
+5941,Luis Torres,,306,0,Layer 1
+5942,Maria Lopez,,441,1,Configuration
+5943,Carlos Ruiz,,53,1,Layer 1
+5944,Juan Perez,,93,1,Layer 1
+5945,Juan Perez,,171,1,Layer 1
+5946,Pedro Marmol,2026-02-14,32,0,Software
+5947,Maria Lopez,,57,0,Configuration
+5948,Maria Lopez,,180,0,Layer 2
+5949,Carlos Ruiz,,245,1,Software
+5950,Juan Perez,2026-01-29,245,0,Software
+5951,Carlos Ruiz,2026-02-15,245,0,Layer 1
+5952,Maria Lopez,,73,1,Software
+5953,Maria Lopez,,417,1,Configuration
+5954,Carlos Ruiz,2026-01-24,245,1,Software
+5955,Maria Lopez,,245,1,Layer 1
+5956,Ana Silva,2026-02-12,301,1,Layer 1
+5957,Luis Torres,2026-02-10,159,1,Software
+5958,Luis Torres,,224,0,Layer 1
+5959,Pedro Marmol,2026-02-16,435,1,Software
+5960,Pedro Marmol,,50,1,Configuration
+5961,Maria Lopez,2026-01-31,245,1,Configuration
+5962,Juan Perez,2026-02-03,319,0,Software
+5963,Carlos Ruiz,2026-01-28,316,1,Configuration
+5964,Ana Silva,2026-02-08,82,1,Configuration
+5965,Juan Perez,,444,0,Layer 2
+5966,Ana Silva,,30,1,Software
+5967,Luis Torres,2026-01-26,448,1,Layer 2
+5968,Carlos Ruiz,,245,1,Layer 2
+5969,Juan Perez,,245,0,Layer 2
+5970,Maria Lopez,,245,1,Layer 1
+5971,Luis Torres,,349,0,Layer 1
+5972,Ana Silva,2026-02-04,222,1,Layer 2
+5973,Luis Torres,,332,1,Configuration
+5974,Ana Silva,,0,0,Software
+5975,Maria Lopez,,246,1,Configuration
+5976,Luis Torres,,441,1,Layer 1
+5977,Pedro Marmol,,245,1,Layer 2
+5978,Carlos Ruiz,2026-01-29,245,0,Layer 1
+5979,Pedro Marmol,,407,1,Layer 2
+5980,Ana Silva,,203,0,Configuration
+5981,Maria Lopez,,17,1,Layer 2
+5982,Pedro Marmol,,196,1,Layer 1
+5983,Pedro Marmol,,212,1,Layer 1
+5984,Carlos Ruiz,2026-02-03,336,0,Layer 2
+5985,Luis Torres,,489,0,Software
+5986,Ana Silva,,5,0,Software
+5987,Juan Perez,,186,1,Software
+5988,Juan Perez,,245,1,Layer 1
+5989,Juan Perez,,157,1,Layer 2
+5990,Maria Lopez,2026-02-16,315,1,Layer 2
+5991,Ana Silva,2026-01-27,55,1,Configuration
+5992,Juan Perez,,245,0,Configuration
+5993,Juan Perez,,245,0,Layer 1
+5994,Carlos Ruiz,,245,1,Layer 1
+5995,Carlos Ruiz,2026-02-07,426,0,Layer 1
+5996,Carlos Ruiz,,242,0,Configuration
+5997,Maria Lopez,,367,1,Software
+5998,Pedro Marmol,,37,1,Configuration
+5999,Maria Lopez,,370,1,Software
